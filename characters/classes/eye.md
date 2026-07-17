@@ -18,7 +18,7 @@ Once per scene, retroactively establish that you were somewhere unnoticed nearby
 | --- | --- |
 | **Dossier** | Once per session, reveal you already hold a file on a named person or place: ask the GM two questions, get true answers, and gain an edge when acting on them. |
 | **Shadow Network** | If you spent any downtime working your sources, you personally add 1 Intelligence stock at the faction turn's Yield step. |
-| **Tail** | Gain an edge on following or observing unnoticed. Against a target you've observed for a full scene, your first contest gains an additional edge — patience is a weapon. |
+| **Tail** | Gain an edge on following or observing unnoticed. Against a target you've observed for a full scene, your first contest against them gains a **Position** edge — you know their habits before they show them. Patience is a weapon. |
 | **Lockstep** | Bring one ally through your infiltrations: your stealth results cover both of you, and your *I Was Never Here* can place you both. |
 | **Poisoned Well** | When you successfully feed false information to an enemy, their next contest or faction action based on it suffers two setbacks. |
 | **Vanish** | Once per session, when everything goes wrong, you are simply not caught. Exit the scene without a contest; explain the improbable escape whenever you're ready. |

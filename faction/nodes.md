@@ -4,18 +4,21 @@ A **node** is a place where the faction *is*: a chapel, a safehouse, a dry dock,
 
 ## Anatomy of a Node
 
-```
-NODE: The Grinning Lantern — dockside tavern & listening post
-TRACK   □ □ □ □ □         STOCK CAP: 5
-NEEDS   1 Provisions, 1 Morale          (paid every faction turn)
-YIELDS  1 Intelligence, 1 Influence     (earned every faction turn)
-STOCK   2 Intelligence, 1 Force
-UPGRADES  Hidden Cellar (warehouse: +2 cap)
-CONDITIONS  —
-ROUTES  → The Undercroft (tunnels, safe) · → Harbor Row (streets, Watched)
-```
+<div class="sheet-card">
+<h4>Node — The Grinning Lantern <span style="font-weight:400; color:#55493a">· dockside tavern &amp; listening post</span></h4>
+<div class="row"><span class="field"><b>Track</b> <span class="boxes">□□□□□</span></span> <span class="field"><b>Stock cap</b> 5</span></div>
+<div class="row"><span class="field"><b>Needs</b> 1 Provisions, 1 Morale <em>(paid every faction turn)</em></span></div>
+<div class="row"><span class="field"><b>Yields</b> 1 Intelligence, 1 Influence <em>(earned every faction turn)</em></span></div>
+<div class="row"><span class="field"><b>Stock on hand</b> 2 Intelligence, 1 Force</span></div>
+<div class="row"><span class="field"><b>Upgrades</b> Hidden Cellar (warehouse: +2 cap)</span> <span class="field"><b>Conditions</b> —</span></div>
+<div class="row"><span class="field"><b>Routes</b> → The Undercroft (tunnels, safe) · → Harbor Row (streets, <em>Watched</em>)</span></div>
+</div>
+
+Printable node cards — four to a page — are in [Sheets & Downloads](sheets/downloads.md).
 
 - **Track** — 5 boxes, marked when the node is attacked, sabotaged, or starved. A node taken out is occupied, burned, or scattered — it can sometimes be retaken, but its people remember who failed them.
+
+> **Defending a node.** When a rival Strikes or sabotages a node, the node defends with a normal contest: the faction rolls **whichever of its four stats fits the defense** (Force met at the barricade is Physical; an infiltration caught is Mental; a smear campaign weathered is Emotional), plus edges from fortification upgrades, a [Hand's synergy](characters/classes/hand.md), any asset stationed there, and stock committed from the node's own stores. PCs present can fight it as a full [conflict](combat/faction.md) instead — their node, their fight. Losses mark the node's track.
 - **Needs** — 1–2 internal stock per faction turn. What does this place consume to stay yours? Shortfall rules are in [Resources](faction/resources.md#shortfall--starving-the-body).
 - **Yields** — 1–2 stock per faction turn. What does it produce? Any pool, internal or external.
 - **Stock cap** — 5, before upgrades. Full warehouses are targets; empty ones are liabilities.
@@ -46,11 +49,11 @@ Nodes gain upgrades via **Fortify/Develop** actions or 3 perks.
 
 An **asset** is faction property that *acts*: a strike team, a smear machine, a spy ring, a missionary circuit, a gunboat, a lawyer on retainer. Assets are the faction's limbs in [faction conflicts](combat/faction.md) and can work autonomously between sessions.
 
-```
-ASSET: The Red Choir — fanatic street preachers
-TYPE Conviction   RATING 3   TRACK □ □ □   LOCATION The Undercroft
-TAG  Sweeping (their sermons hit crowds, not people)
-```
+<div class="sheet-card">
+<h4>Asset — The Red Choir <span style="font-weight:400; color:#55493a">· fanatic street preachers</span></h4>
+<div class="row"><span class="field"><b>Type</b> Conviction</span> <span class="field"><b>Rating</b> 3</span> <span class="field"><b>Track</b> <span class="boxes">□□□</span></span> <span class="field"><b>Location</b> The Undercroft</span></div>
+<div class="row"><span class="field"><b>Tag</b> Sweeping — their sermons hit crowds, not people</span></div>
+</div>
 
 - **Type** — the stat it embodies; also the external pool that buys it (2 matching stock + a faction action, or 3 perks).
 - **Rating (2–4)** — its dice pool when it acts alone or is [channeled](combat/faction.md#channeling). Assets are deliberately capped below 5: organizations are strong, people are exceptional.

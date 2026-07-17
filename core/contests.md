@@ -10,6 +10,13 @@ Every roll in The Party is a **contest**: a fistful of six-siders against a fist
 4. **Count edges and setbacks.** Circumstances, class features, gifts, aid, and committed resources adjust the pool (see below).
 5. **Roll and compare.** Both sides roll their pools and sum. Higher total wins. Pools are always **1 to 5 dice** — nothing can push a pool outside that range.
 
+<div class="callout example" data-title="Example of Play — a whole contest in forty seconds">
+<p><span class="speaker">Priya (playing Vess, a Voice):</span> "Goal — I want the harbormaster to seal the manifest without reading page three."</p>
+<p><span class="speaker">GM:</span> "Doable. Stakes: if you lose, he reads it, and he's the type to sell what he finds. He's a wary professional — I'm rolling 3 dice. What's your approach?"</p>
+<p><span class="speaker">Priya:</span> "Pure charm and paperwork momentum — Emotional, so 4 dice. And Vess has <em>Grease the Wheels</em>… no wait, that's a Spine feature. Just the 4."</p>
+<p><span class="speaker">GM:</span> "Roll me." <em>Priya rolls 4d6: 14. The GM rolls 3d6: 11.</em> "He stamps it, bored, mid-anecdote about his nephew. Page three passes under his thumb unread."</p>
+</div>
+
 ## Outcomes
 
 | Result | What happens |
@@ -22,22 +29,36 @@ Every roll in The Party is a **contest**: a fistful of six-siders against a fist
 
 Ties going to the acting side (at a price) keeps the story moving forward and makes even-odds rolls feel slightly heroic. Note that "acting side" means whoever initiated the contest — when an NPC assassin lunges at *you*, the tie favors *them*.
 
+Two clarifications that come up at every table:
+
+- **The goal lands with full teeth.** If the acting side's goal was to harm you, a tie still harms you — strain, conditions, and all.
+- **The cost always lands on the acting side.** The GM never charges the defender extra for a tie; the price of a costly success is paid by whoever got their way. When the assassin's blade finds you on a tie, *the assassin* is the one left overextended, exposed, or seen.
+
 ## Edges and Setbacks
 
 An **edge** adds one die to your pool. A **setback** removes one. Count them all, take the net, apply it, and clamp the pool between 1 and 5.
 
 **Overflow:** if your pool is already at 5 and you have edges left over, each remaining edge *removes one die from the opposing pool* (to a minimum of 1). Setbacks overflow the same way in reverse. This is how overwhelming preparation turns into near-certainty.
 
-Edges come from, at most one each of:
+Edges come from five sources, each with a hard cap. Your maximum possible budget is **+6, before setbacks**:
 
-- **Craft** — a class feature, calling feature, or gift that applies.
-- **Aid** — one ally helps, says how, and shares the stakes if things go wrong.
-- **Position** — the fiction favors you: high ground, home turf, surprise, blackmail in hand, a rehearsed plan.
-- **Resources** — committed stock from the faction's [pools](faction/resources.md), 1 edge per stock, **maximum 2 stock per contest**, and the stock type must plausibly power the approach.
+| Source | Cap | What it is |
+| --- | --- | --- |
+| **Craft** | 1 | A class feature, calling feature, or gift that applies |
+| **Aid** | 1 | One ally helps, says how, and shares the stakes if things go wrong |
+| **Position** | 1 | The fiction favors you: high ground, home turf, surprise, blackmail in hand |
+| **Resources** | 2 | Committed stock from the faction's [pools](faction/resources.md), 1 edge per stock; the type must plausibly power the approach |
+| **Banked** | 1 | A set-up edge an ally banked for you ([Build-Up & Payoff](combat/overview.md#build-up--payoff)) |
+
+No source ever exceeds its cap, no matter how many features point at it — a second applicable gift changes the fiction, not the dice.
 
 Setbacks come from [conditions](core/strain-and-conditions.md#conditions), hostile terrain, acting out of your depth, or scale mismatch (see [Faction Conflict](combat/faction.md#scale)).
 
 In practice a roll is: *stat, plus maybe two or three edges, minus maybe one setback*. If the table is debating more than four modifiers, the GM should simplify to the two that matter most and roll.
+
+<div class="callout example" data-title="Example of Play — counting the dice">
+<p>Marcus's Eye is slipping into a counting house at night. Physical 3 is the base. He cased it for a full scene yesterday (<em>Tail</em> feature: Craft edge, +1). The faction spent 1 Intelligence stock on the floor plans (Resource edge, +1). That's 5 dice. But he's still carrying the <em>Old Wound</em> flare from last session's rooftop fall (setback, −1): <strong>4 dice</strong>, against the GM's 3 for a locked and shuttered building. About 81% — good odds, honestly earned. He can spend a perk to Prepare if he wants the fifth die back.</p>
+</div>
 
 ## The Opposition Pool
 

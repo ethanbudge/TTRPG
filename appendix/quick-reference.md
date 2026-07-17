@@ -7,14 +7,14 @@
 1. **Goal** — one sentence: what do you want to be true?
 2. **Stakes** — GM says what a loss means, before dice.
 3. **Stat** — your approach picks it; the rating is your pool.
-4. **Edges/setbacks** — ±1 die each. Sources (max one each): Craft (feature/gift) · Aid (one ally) · Position · Resources (1 stock = 1 edge, max 2). Clamp pool 1–5; overflow strips the other side's dice.
+4. **Edges/setbacks** — ±1 die each. Sources and caps: Craft 1 · Aid 1 · Position 1 · Resources 2 (1 stock = 1 edge) · Banked 1. Max budget +6. Clamp pool 1–5; overflow strips the other side's dice.
 5. **Roll & compare sums.**
 
 | Outcome | Effect |
 | --- | --- |
 | Win | Goal happens |
 | Win by 5+ | Goal + one boon |
-| **Tie** | **Acting side succeeds, at a cost** |
+| **Tie** | **Acting side succeeds — full teeth — and pays the cost** |
 | Lose | Stakes land |
 | Lose by 5+ | Stakes land hard |
 

@@ -59,16 +59,17 @@ Write down a plausible loadout for your fiction and genre — gear in The Party 
 
 ## The Character Sheet at a Glance
 
-```
-NAME · pronouns · concept
-OFFICE: class + calling          FACTION: name
+<div class="sheet-card">
+<h4>Character Sheet</h4>
+<div class="row"><span class="field"><b>Name</b> ___________</span> <span class="field"><b>Pronouns</b> _____</span> <span class="field"><b>Concept</b> ___________________</span></div>
+<div class="row"><span class="field"><b>Office</b> class + calling</span> <span class="field"><b>Faction</b> ___________________</span></div>
+<div class="row"><span class="field"><b>Physical</b> [ &nbsp; ]</span> <span class="field"><b>Mental</b> [ &nbsp; ]</span> <span class="field"><b>Emotional</b> [ &nbsp; ]</span> <span class="field"><b>Conviction</b> [ &nbsp; ]</span></div>
+<div class="row"><span class="field"><b>Strain</b> <span class="boxes">□□□□□</span></span> <span class="field"><b>Perks</b> ____</span> <span class="field"><b>Protection</b> ____</span></div>
+<div class="row"><span class="field"><b>Features</b> core · calling signature · two chosen</span></div>
+<div class="row"><span class="field"><b>Gifts</b> two</span> <span class="field"><b>Flaws</b> one or two</span> <span class="field"><b>Scars</b> —</span></div>
+<div class="row"><span class="field"><b>Bonds</b> three answers</span> <span class="field"><b>Kit</b> your loadout + up to two tagged items</span></div>
+</div>
 
-PHYSICAL [ n ]   MENTAL [ n ]   EMOTIONAL [ n ]   CONVICTION [ n ]
-
-STRAIN  □ □ □ □ □       PERKS: n
-FEATURES: core + calling signature + 2 chosen
-GIFTS: 2        FLAWS: 1–2       SCARS: —
-BONDS: 3 answers          KIT: fiction + up to 2 tagged items
-```
+A printable version — with the outcome table in the footer so new players never have to ask — is in [Sheets & Downloads](sheets/downloads.md).
 
 Everything a contest needs is one glance: a stat number, features that might grant an edge, conditions that might impose a setback.

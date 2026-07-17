@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Party — Character Sheet</title>
+<style>
+  @page { size: letter; margin: 0.45in; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root { --ink: #26201a; --soft: #6b5d4b; --red: #8f2b20; --line: #b9a67e; --fill: #f4eee0; }
+  body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: var(--ink); font-size: 9.5pt; width: 7.6in; margin: 0 auto; }
+  .serif { font-family: Palatino, 'Palatino Linotype', Georgia, serif; }
+
+  header { display: flex; align-items: flex-end; justify-content: space-between; border-bottom: 3px double var(--red); padding-bottom: 6px; margin-bottom: 8px; }
+  .wordmark { font-family: Palatino, Georgia, serif; font-weight: bold; font-size: 20pt; color: var(--red); letter-spacing: 1px; }
+  .wordmark small { display: block; font-size: 7.5pt; color: var(--soft); font-weight: normal; letter-spacing: 3px; text-transform: uppercase; }
+  .id-fields { display: flex; gap: 14px; }
+  .fld { display: flex; flex-direction: column; }
+  .fld .line { border-bottom: 1px solid var(--ink); min-width: 110px; height: 16px; }
+  .fld.wide .line { min-width: 170px; }
+  .fld label { font-size: 6.5pt; text-transform: uppercase; letter-spacing: 1px; color: var(--soft); margin-top: 2px; }
+
+  .office-row { display: flex; gap: 14px; margin-bottom: 8px; }
+  .office-row .fld { flex: 1; }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 8px; }
+  .stat { border: 2px solid var(--ink); border-radius: 4px; padding: 5px 7px; display: flex; align-items: center; gap: 8px; background: var(--fill); }
+  .stat .num { width: 34px; height: 34px; border: 2px solid var(--red); border-radius: 3px; background: #fff; flex-shrink: 0; }
+  .stat .name { font-family: Palatino, Georgia, serif; font-weight: bold; font-size: 10.5pt; }
+  .stat .desc { font-size: 6.3pt; color: var(--soft); line-height: 1.25; }
+
+  .cols { display: grid; grid-template-columns: 1fr 1.15fr; gap: 10px; }
+  section { border: 1.5px solid var(--ink); border-radius: 4px; padding: 5px 8px 6px; margin-bottom: 6px; }
+  section h3 { font-family: Palatino, Georgia, serif; font-size: 9.5pt; color: var(--red); text-transform: uppercase; letter-spacing: 1.5px; border-bottom: 1px solid var(--line); padding-bottom: 2px; margin-bottom: 5px; }
+  section h3 .hint { float: right; font-family: Helvetica, sans-serif; font-size: 6.3pt; color: var(--soft); text-transform: none; letter-spacing: 0; font-weight: normal; padding-top: 2px; }
+
+  .track { display: flex; gap: 5px; align-items: center; }
+  .track .box { width: 22px; height: 22px; border: 2px solid var(--ink); border-radius: 3px; background: #fff; }
+  .track .box.bonus { border-style: dashed; border-color: var(--soft); }
+  .track .lbl { font-size: 6.3pt; color: var(--soft); margin-left: 4px; line-height: 1.3; }
+
+  .minirow { display: flex; gap: 10px; margin-top: 6px; }
+  .minirow .half { flex: 1; }
+  .tinylabel { font-size: 6.5pt; text-transform: uppercase; letter-spacing: 1px; color: var(--soft); margin-bottom: 2px; }
+  .pips { display: flex; gap: 3px; flex-wrap: wrap; }
+  .pips .pip { width: 13px; height: 13px; border: 1.5px solid var(--red); border-radius: 50%; background: #fff; }
+  .writein { border-bottom: 1px solid var(--line); height: 13px; margin-bottom: 3px; }
+  .writein.tall { height: 24px; }
+
+  .feature { border: 1px solid var(--line); border-radius: 3px; padding: 4px 6px; margin-bottom: 5px; background: #fff; }
+  .feature .ftitle { display: flex; justify-content: space-between; font-size: 7pt; color: var(--soft); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2px; }
+  .feature .writein { margin-bottom: 3px; }
+
+  .trait { display: flex; gap: 6px; align-items: flex-start; margin-bottom: 5px; }
+  .trait .cb { width: 11px; height: 11px; border: 1.5px solid var(--ink); border-radius: 2px; margin-top: 2px; flex-shrink: 0; }
+  .trait .body { flex: 1; }
+  .trait .cb-label { font-size: 6pt; color: var(--soft); }
+
+  footer { border-top: 3px double var(--red); margin-top: 2px; padding-top: 6px; display: flex; gap: 12px; align-items: flex-start; }
+  footer table { border-collapse: collapse; font-size: 6.8pt; flex: 1; }
+  footer th, footer td { border: 1px solid var(--line); padding: 2px 6px; text-align: left; }
+  footer th { background: var(--red); color: #f6efe0; font-weight: bold; text-transform: uppercase; letter-spacing: .5px; font-size: 6.3pt; }
+  footer .oddsbox { font-size: 6.8pt; color: var(--soft); line-height: 1.5; width: 2.1in; }
+  footer .oddsbox b { color: var(--red); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wordmark">THE PARTY<small>Character Sheet</small></div>
+  <div class="id-fields">
+    <div class="fld wide"><div class="line"></div><label>Character Name</label></div>
+    <div class="fld"><div class="line" style="min-width:70px"></div><label>Pronouns</label></div>
+    <div class="fld"><div class="line"></div><label>Player</label></div>
+  </div>
+</header>
+
+<div class="office-row">
+  <div class="fld"><div class="line"></div><label>Concept — who are you?</label></div>
+  <div class="fld"><div class="line"></div><label>Office (Class · Calling)</label></div>
+  <div class="fld"><div class="line"></div><label>Faction</label></div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="num"></div><div><div class="name">Physical</div><div class="desc">strength, speed, endurance, hands-on skill</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Mental</div><div class="desc">reasoning, knowledge, perception, craft</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Emotional</div><div class="desc">charm, empathy, deception, nerve</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Conviction</div><div class="desc">willpower, faith, devotion, the cause</div></div></div>
+</div>
+
+<div class="cols">
+  <div><!-- LEFT COLUMN -->
+    <section>
+      <h3>Strain <span class="hint">mark 1 when you lose a harmful contest · 2 if by 5+</span></h3>
+      <div class="track">
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div>
+        <div class="box bonus"></div>
+        <div class="lbl">6th box:<br>Hand's Bulwark only</div>
+      </div>
+      <div class="minirow">
+        <div class="half"><div class="tinylabel">Protection tags — each negates 1 strain, once per scene</div><div class="writein"></div><div class="writein"></div></div>
+        <div class="half"><div class="tinylabel">Perks</div><div class="pips"><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div></div></div>
+      </div>
+    </section>
+
+    <section>
+      <h3>Conditions <span class="hint">−1 die when it plausibly applies</span></h3>
+      <div class="writein"></div><div class="writein"></div><div class="writein"></div>
+      <div class="tinylabel" style="margin-top:5px">Scars — permanent; you earned a perk for each</div>
+      <div class="writein"></div><div class="writein"></div>
+    </section>
+
+    <section>
+      <h3>Gifts <span class="hint">two — narrow, always yours</span></h3>
+      <div class="feature"><div class="writein"></div><div class="writein"></div></div>
+      <div class="feature"><div class="writein"></div><div class="writein"></div></div>
+    </section>
+
+    <section>
+      <h3>Flaws <span class="hint">when one bites, the trouble happens — and you gain 1 perk</span></h3>
+      <div class="trait"><div class="cb"></div><div class="body"><div class="writein"></div><div class="writein"></div></div></div>
+      <div class="trait"><div class="cb"></div><div class="body"><div class="writein"></div><div class="writein"></div></div></div>
+      <div class="tinylabel">☐ = perk earned this session (max one per flaw)</div>
+    </section>
+
+    <section>
+      <h3>Bonds</h3>
+      <div class="tinylabel">Why do you believe?</div><div class="writein"></div>
+      <div class="tinylabel">What has the faction cost you?</div><div class="writein"></div>
+      <div class="tinylabel">Whom do you trust with your life — and whom not quite?</div><div class="writein"></div>
+    </section>
+  </div>
+
+  <div><!-- RIGHT COLUMN -->
+    <section>
+      <h3>Features</h3>
+      <div class="feature"><div class="ftitle"><span>Core Feature — always on</span></div><div class="writein"></div><div class="writein"></div></div>
+      <div class="feature"><div class="ftitle"><span>Calling Signature</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
+      <div class="feature"><div class="ftitle"><span>Feature</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
+      <div class="feature"><div class="ftitle"><span>Feature</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
+      <div class="feature"><div class="ftitle"><span>Feature (advance)</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
+      <div class="feature"><div class="ftitle"><span>Feature (advance)</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
+      <div class="tinylabel">Every 3rd advance: Deepen a feature you own — Again · Wider · Sharper</div>
+    </section>
+
+    <section>
+      <h3>Kit <span class="hint">gear is permission — up to two items carry tags</span></h3>
+      <div class="writein"></div><div class="writein"></div><div class="writein"></div>
+      <div class="minirow">
+        <div class="half"><div class="tinylabel">Tagged item</div><div class="writein"></div></div>
+        <div class="half"><div class="tinylabel">Tagged item</div><div class="writein"></div></div>
+      </div>
+    </section>
+
+    <section>
+      <h3>Ambition <span class="hint">declared out loud — pursuing it earns perks</span></h3>
+      <div class="writein"></div>
+      <div class="tinylabel" style="margin-top:4px">Notes</div>
+      <div class="writein"></div><div class="writein"></div><div class="writein"></div>
+    </section>
+  </div>
+</div>
+
+<footer>
+  <table>
+    <tr><th>Contest Result</th><th>What Happens</th></tr>
+    <tr><td><b>Win</b></td><td>Your goal comes true</td></tr>
+    <tr><td><b>Win by 5+</b></td><td>…and pick a boon</td></tr>
+    <tr><td><b>Tie</b></td><td>Acting side succeeds, at a cost</td></tr>
+    <tr><td><b>Lose</b></td><td>The stated stakes land</td></tr>
+    <tr><td><b>Lose by 5+</b></td><td>They land hard</td></tr>
+  </table>
+  <div class="oddsbox">
+    <b>Your stat is your dice.</b> Edges +1 die, setbacks −1; pools stay 1–5.<br>
+    <b>Odds vs 3 dice:</b> 3 ≈ 55% · 4 ≈ 81% · 5 ≈ 94%<br>
+    <b>1 perk:</b> reroll one die, or Prepare (edge) — once per contest.
+  </div>
+</footer>
+
+</body>
+</html>

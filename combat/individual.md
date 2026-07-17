@@ -26,7 +26,7 @@ Personal conflict is the [conflict engine](combat/overview.md) at human scale: y
 
 *Brakk:* "Goal — I put myself between Ossler and that stairwell, and I want him hesitant." Physical 4 + banked edge = 5 dice vs. Ossler's 4. **Rolls 19 vs 16 — win.** Brakk fills the doorway; Ossler takes *Hesitant* (scene condition, setback to advance on Brakk).
 
-*GM (Ossler's goal):* "He waves the tariff men at you in a rush — they want you buried under bodies." Mooks swarm: pool 2 +1 edge (numbers) = 3 vs. Brakk's 4. **Rolls 11 vs 11 — tie.** Ossler initiated, so the swarm's goal lands *at a cost*: Brakk marks 1 strain (absorbed — protection tag, shield up, 0 taken) but he's *Pinned* (hard condition: can't change bands; exit named: break free with Physical, or an ally frees him).
+*GM (Ossler's goal):* "He waves the tariff men at you in a rush — they want you buried under bodies." Mooks swarm: pool 2 +1 edge (numbers) = 3 vs. Brakk's 4. **Rolls 11 vs 11 — tie.** The swarm initiated, so their goal lands with full teeth: Brakk marks 1 strain (absorbed — protection tag, shield up) and he's *Pinned* (hard condition: can't change bands; exit named: break free with Physical, or an ally frees him). But a costly success bills the *acting* side — the crush of bodies leaves the nearest tariff man sprawled across Brakk's shield, exposed: Brakk's next contest against the swarm carries a Position edge.
 
 **Beat 2.**
 *Sable:* "Goal — from the stairs I put a knife through the lantern rope; darkness in the taproom." Physical 3 vs. difficulty 3. **Rolls 12 vs 8 — win.** The room drops into dark. GM: mooks are *Blinded*; Sable and Brakk fight in the dark they chose (Sable has *Night Eyes* — no setback).

@@ -35,9 +35,11 @@ Actions are goal-based like everything else; this menu is examples, not walls:
 | **Spy / Sabotage** | Mental | Steal intel, cut routes, pin conditions quietly |
 | **Trade** | Emotional / Mental | Swap stock 2:1 with markets, 1:1 with Allies |
 | **Quell / Tend** | Emotional / Conviction | Clear node or faction conditions, heal node strain, recover Cohesion |
-| **Recruit** | Conviction | Gain Zeal or Force stock; grow a node's fiction |
+| **Recruit** | Conviction | Gain 1 stock of Zeal or Force (2 on a strong win); grow a node's fiction |
 
-If an action targets a rival faction, the GM rolls the rival's relevant stat as opposition. If it's against the world, the GM sets a difficulty pool. **Big swings deserve ventures:** the GM should regularly answer an ambitious faction action with *"that's a mission — do you want to play it?"* The faction turn is for the machine; the ventures are for the story.
+If an action targets a rival faction, the GM rolls the rival's relevant stat as opposition. If it's against the world, the GM sets a difficulty pool. **Stock committed to an action is spent win or lose** — the propaganda got printed, the troops got fed, whatever happened next. Commitment is real; that's what makes it commitment.
+
+**Big swings deserve ventures:** the GM should regularly answer an ambitious faction action with *"that's a mission — do you want to play it?"* The faction turn is for the machine; the ventures are for the story.
 
 ### 5 · Downtime
 

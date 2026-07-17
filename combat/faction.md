@@ -38,7 +38,9 @@ Faction conflicts mix actors of different sizes. The Party uses three **scale ti
 
 One rule governs crossings, in both directions:
 
-> **Against a larger tier, force alone can't mark their track — you need leverage.** Your wins instead grant edges, tick clocks, create conditions, or exploit what the fiction offers. With genuine leverage — the magazine, the flagship's helm, the beloved general alone on the balcony — you mark strain normally.
+> **Against a larger tier, force alone can't mark their track — you need leverage.** Your wins instead grant edges, tick clocks, create conditions, or exploit what the fiction offers. With genuine leverage, you mark strain normally.
+>
+> **The leverage test:** leverage is a *named vulnerability established in the fiction before the harmful goal is declared* — the magazine Dez rigged, the flagship's helm, the beloved general alone on the balcony. Mass is never leverage; if enough force gathers to genuinely threaten the larger tier, it has *become* that tier — treat the massed actor as one tier up and skip the excuse-making.
 >
 > **Against a smaller tier, your wins mark 2 strain — but the small are hard to pin:** smaller-tier actors gain an edge to evade, hide from, or slip through larger-tier attention.
 
@@ -64,12 +66,12 @@ This rule is what makes mixed-scale scenes sing: the fleet battle overhead sets 
 
 *Dez:* "Goal — blow the magazine and get to the pods." With leverage established, this can mark the Host. Physical 4 vs 4 (*Hunted* setback → 3 vs 4). **Loses.** Stakes land: captured at the charges — the detonator in Hegemony hands, Dez in a cell. (The table winces. The Eye starts planning.)
 
-*Yara,* seeing it unravel, **Commits 2 Force stock** (the reserve squadron held at Callis — route intact): channels the whole compact's strength, pool 3+2 = 5 vs Anvil's 4: "Goal — mass every gun on the Anvil's launch bays so no pursuit can follow the convoy." **Win by 6 — strong.** Anvil takes 1 strain (Company-vs-Host: the massed squadron *is* the leverage), plus boon: *Launch Bays Burning* condition. **Corridor Open → 4/6.**
+*Yara,* seeing it unravel, **Commits 2 Force stock** (the reserve squadron held at Callis — route intact): channels the whole compact's strength, pool 3+2 = 5 vs Anvil's 4: "Goal — mass every gun on the Anvil's launch bays so no pursuit can follow the convoy." **Win by 6 — strong.** Massed freighter guns can't gut a cruiser — Company against Host, and mass alone isn't leverage — so the win does what up-tier wins do: the goal itself. The Anvil takes *Launch Bays Burning* (condition — no pursuit launches while it holds), and the boon ticks the objective: **Corridor Open → 4/6.**
 
 **Beat 3.**
-The corvettes, *Out of Position*, race back — GM rules they can't reach Close this beat (two-band move is their whole goal). The convoy runs the corridor: one last channeled contest, freighters' 3 +1 (bays burning) +1 (militia screen) = 5 vs Anvil's 4 −1 (strain condition) = 3. **Win.** **Corridor Open → 6/6.** The blockade is broken.
+The corvettes, *Out of Position*, race back — GM rules they can't reach Close this beat (two-band move is their whole goal). The convoy runs the corridor: one last channeled contest, freighters' 3 +1 (Position — the burning bays can't launch pursuit) +1 (Aid — the militia screen) = 5 vs Anvil's 4 −1 (*Launch Bays Burning* hinders its gunnery solution as the convoy slips through its own smoke) = 3. **Win.** **Corridor Open → 6/6.** The blockade is broken.
 
-*The conflict ends by objective. The Anvil still floats — barely scratched, twice humiliated. Dez is her prisoner, which is next session. Total table time: three beats, nine rolls, one fleet action.*
+*The conflict ends by objective. The Anvil still floats — unscratched, twice humiliated, wearing a condition it will remember. Dez is her prisoner, which is next session. Total table time: three beats, nine rolls, one fleet action.*
 
 ## Wars That Take Months
 

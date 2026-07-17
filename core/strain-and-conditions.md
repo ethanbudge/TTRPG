@@ -58,6 +58,8 @@ A few conditions do more than hinder — they **forbid** a category of action un
 
 Every hard condition must come with a **known exit** when it's inflicted — the GM says what clears it as it lands. Nothing in The Party removes a player's agency without handing them a puzzle.
 
+A hard condition is still a condition: besides forbidding its category of action, it **also imposes the normal 1 setback** on any other contest it would plausibly hinder. *Blinded* forbids acting on distant targets *and* hinders the knife-fight at arm's reach.
+
 ### Condition Lifecycles
 
 - **Momentary** conditions (*Off-balance, Dazzled*) clear at the end of the current beat or when the fiction says.

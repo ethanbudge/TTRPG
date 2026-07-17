@@ -1,54 +1,52 @@
-# The Party
+# Welcome to The Party
 
 > *Every member matters. Every victory is shared. Every roll tells a story.*
 
-**The Party** is a tabletop roleplaying game about belonging to something bigger than yourself. Every player character is an essential officer of a **faction** — a heretical church clawing at a throne, a heist crew assembling the score of a lifetime, a steampunk insurgency, a starship and her crew, a thieves' guild spreading through a city's veins. The game is about succeeding as an individual *and* as an organization, and about the delicious moments where those two goals pull in different directions.
+**The Party** is a tabletop roleplaying game about belonging to something bigger than yourself. You and your friends play the essential officers of a **faction** — a heretical church clawing at a throne, a heist crew assembling the score of a lifetime, a revolutionary cell in a city of smoke and brass, a starship and her crew, a thieves' guild spreading through a city's veins. Together you'll scheme, fight, negotiate, and sacrifice — succeeding as individuals, succeeding as an organization, and living through the delicious moments where those two goals pull in opposite directions.
 
-This is a **first draft** produced from a design brief. Everything here is playable-on-paper but untested at a real table. Open design decisions are tracked in [Open Questions](appendix/open-questions.md).
+## Never Played a Tabletop RPG?
 
-## The Five Pillars
+Welcome — this book assumes nothing. A tabletop roleplaying game is **structured make-believe with dice**. One player, the **Game Master** (GM), describes the world and plays everyone in it except the heroes. Every other player creates and plays one **character** — deciding what they say, what they attempt, and what they believe. When a character tries something that could genuinely fail, dice settle it. The rules in this book exist to make those moments fair, fast, and dramatic — and then to get out of the way.
 
-1. **The faction is a character.** It has the same four stats you do, its own wounds, its own flaw, and its own arc. The table plays it together.
-2. **One engine, every scale.** A knife fight, a smear campaign, a months-long trade war, and a fleet battle all use the same contested roll, the same tracks, and the same conditions — only the timescale and the resources change.
-3. **Goals before rules.** On your turn you declare what you want to be true, not which button you press. The table works out the stat, the stakes, and the dice from your intent.
-4. **Small numbers forever.** Dice pools run 1–5. Damage tracks hold 5 boxes. Resources cap at 5 per node. Nothing inflates as you advance — you get *more options*, never bigger numbers to add.
-5. **Both sides can always win.** Every roll is a live contest. Even a 5-dice-versus-1 mismatch can, once in a great while, go the wrong way — and when it does, that's the story.
+**To play The Party you need:** 3–7 players plus a GM · about ten ordinary six-sided dice (the kind in any board game box) · pencils and the printed [sheets](sheets/downloads.md) · a few hours and a story you want to tell together.
 
-## How to Read These Rules
+There is no board, no winning, and no losing the game itself. There is only what happens next.
 
-If you read nothing else, read these three pages — they carry 80% of the system:
+## What Makes This Game Different
 
-1. [Contests — The Dice Engine](core/contests.md) — how every roll in the game works.
-2. [The Faction Turn](faction/faction-turn.md) — the organizational heartbeat between missions.
-3. [Conflict Overview](combat/overview.md) — how fights work at any scale.
+1. **The faction is a character.** Most games hand you a lone hero. The Party hands your whole table an *organization* — with the same four stats your character has, its own wounds, its own flaw, its own arc. Everyone plays it together, and it sits in the middle of the table demanding to be fed, defended, and believed in.
+2. **One engine, every scale.** A knife fight, a smear campaign, a months-long trade war, and a fleet battle all use the same dice, the same wound tracks, the same rules. When a duel spills into a riot, the game doesn't change systems — it just zooms out.
+3. **Say what you want, not which rule you use.** On your turn you declare a *goal* — "I want the guard captain convinced we're the relief shift" — and the table finds the dice. There is no list of allowed actions. There never will be.
+4. **Small numbers forever.** Dice pools run 1 to 5. Wound tracks hold 5 boxes. No number on your sheet ever inflates as you advance — you get *more options*, never bigger arithmetic.
+5. **Both sides can always win.** Every roll is a live contest between you and the world. Even a near-certain triumph can, once in a great while, go wrong — and when it does, that's the story everyone retells.
 
-Then build a character with [Character Creation](characters/creation.md) and a faction with [Faction Overview](faction/overview.md).
+## How to Read This Book
 
-## Viewing This Documentation Locally
+**If you're brand new:** read this page, then [How the Game Works](core/overview.md), then skim one [example of play](examples/overview.md) to see real people at a real table. That's enough to join a game as a player.
 
-This site is plain Markdown rendered with [Docsify](https://docsify.js.org). To browse it as a website:
+**If you're building a character:** [Character Creation](characters/creation.md) walks you through it step by step, and the [seven classes](characters/classes.md) are where the fun lives.
 
-```bash
-# from the repo root — any static file server works
-python3 -m http.server 4000
-# then open http://localhost:4000
-```
+**If you're the GM (or the group's rules-reader):** the three load-bearing chapters are [Contests](core/contests.md) (how every roll works), [The Faction Turn](faction/faction-turn.md) (the organizational heartbeat), and [Conflict](combat/overview.md) (fights at every scale). The [GM Guide](gm/running.md) and [Genre Frames](gm/genre-frames.md) carry the rest.
 
-or, with Node:
+**If a word confuses you** at any point, the [Glossary](appendix/glossary.md) defines every term of art in the book.
 
-```bash
-npx docsify-cli serve .
-```
+<div class="flourish">❖ ❖ ❖</div>
 
-You can also just read the `.md` files directly on GitHub — they're self-contained.
+## The Chapters
 
-## What's in the Box
-
-| Section | What it covers |
+| Section | What's inside |
 | --- | --- |
-| **Core Rules** | The contested d6 engine, the four stats, harm and conditions |
-| **Characters** | Creation, the seven classes and their callings, gifts and flaws, advancement |
-| **The Faction** | The shared faction sheet, the eight resource pools, nodes and routes, the faction turn |
-| **Conflict** | The unified conflict system at personal and faction scale, with worked examples |
-| **Running the Game** | GM guidance and five ready-to-skin genre frames |
-| **Appendix** | One-page quick reference, design research notes, open questions |
+| **Core Rules** | The dice, the four stats, and how harm works — the whole engine in three short chapters |
+| **Characters** | Creating your officer, the seven classes and their callings, gifts and flaws, advancement |
+| **The Faction** | The shared faction sheet, its resources, its territory, and the turn that keeps it alive |
+| **Conflict** | Fights, chases, standoffs, and wars — personal and organizational — with worked examples |
+| **Examples in Play** | Real-table scenes across genres and group sizes, including a full session-zero walkthrough |
+| **Running the Game** | The GM's toolkit and five ready-to-use genre frames |
+| **Sheets & Downloads** | Printable character sheets, faction sheets, and cards |
+| **Appendix** | Glossary, one-page quick reference, design notes, open questions, and an outside review |
+
+> **A note on this edition.** This is a **first playtest draft**. It is complete enough to run, but it has never survived contact with a real table. Decisions still open are tracked honestly in [Open Questions](appendix/open-questions.md), and an independent review with recommendations lives at the [very end of the book](appendix/review-recommendations.md).
+
+## Reading This as a Website
+
+This book is a folder of plain text files that renders as the site you're looking at. To open it on your own machine: download the repository, then from its folder run any static file server (for example `python3 -m http.server 4000`) and open `http://localhost:4000` in a browser. The files also read perfectly well as plain text on GitHub.

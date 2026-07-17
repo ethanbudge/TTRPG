@@ -1,40 +1,37 @@
 # How the Game Works
 
-The Party is played in a loop with two alternating modes. Both use the same dice.
+A session of The Party looks like conversation, because it is one. The GM describes a situation; you say what your character does about it; the GM says what changes. Rules enter only at the moments where the outcome is genuinely uncertain and genuinely matters — and then they resolve in a single roll of dice against dice.
 
-## The Loop
+Around that conversation, the game breathes in a loop with two alternating modes.
 
-```
-        ┌──────────────────┐
-        │     VENTURES     │  missions, scenes, conflicts —
-        │  (the PCs act)   │  the zoomed-in fiction
-        └────────┬─────────┘
-                 │ consequences, loot, intel, perks
-                 ▼
-        ┌──────────────────┐
-        │   FACTION TURN   │  yields, upkeep, logistics,
-        │ (the org breathes)│  faction actions, downtime
-        └────────┬─────────┘
-                 │ new missions, threats, opportunities
-                 └──────────► back to Ventures
-```
+<div class="sheet-card">
+<h4>The Loop of Play</h4>
+<div class="row"><span class="field"><b>Ventures</b> — the missions, jobs, voyages, and crises your characters undertake, played scene by scene. This is where you talk your way past checkpoints, crack vaults, and win fleet battles.</span></div>
+<div class="row"><span class="field" style="color:#a8834e">⟳ what you win, lose, learn, and break flows downward…</span></div>
+<div class="row"><span class="field"><b>The Faction Turn</b> — between ventures, the organization itself takes a breath: it produces resources, feeds its people, moves supplies, takes actions, and every character gets personal downtime. About 20–30 minutes, played together.</span></div>
+<div class="row"><span class="field" style="color:#a8834e">⟳ …and new missions, threats, and opportunities flow back up.</span></div>
+</div>
 
-**Ventures** are the missions, jobs, scores, voyages, and crises your characters undertake — anything from a single tense conversation to a multi-session infiltration. Ventures are played scene by scene, resolved with [Contests](core/contests.md).
-
-**Faction Turns** happen between ventures (typically once per session or two). The faction gathers resources, feeds its people, moves supplies between its [Nodes](faction/nodes.md), takes organizational actions, and each character gets a downtime move. A faction turn takes about 20–30 minutes and is played collectively — see [The Faction Turn](faction/faction-turn.md).
+Most sessions contain one venture and one [faction turn](faction/faction-turn.md). Some ventures sprawl across two or three sessions; some slow-burning campaigns run several faction turns between adventures. Both modes use the same dice — there is exactly one rule for rolling in this game, and it's called a [contest](core/contests.md).
 
 ## Who Does What
 
-- **Players** each control one character — an officer of the faction with a [class](characters/classes.md) that describes their *role in the organization*, not their day job. During faction turns, every player also steers part of the faction itself.
-- **The GM** controls the world, the opposition, and the [rival factions](faction/rivals.md). The GM rolls dice for the opposition in every contest — there are no unopposed rolls in The Party.
-- **The faction sheet** sits in the middle of the table. It belongs to everyone.
+**Each player** creates and plays one character — an officer of the faction, with a [class](characters/classes.md) that names their *role in the organization* rather than their job or their fighting style. During faction turns, every player also takes the wheel of some part of the faction itself.
+
+**The GM** plays everything else: the world, the bystanders, the enemies, and the [rival factions](faction/rivals.md) with agendas of their own. The GM also rolls the opposing dice in every contest — nothing in The Party is rolled against a silent target number. When you roll, someone rolls back.
+
+**The faction sheet** sits in the middle of the table, and this is the game's quiet radicalism: it belongs to everyone. Its victories are shared. So is its hunger.
 
 ## Scenes, Stakes, and Scale
 
-Play proceeds in **scenes**. When a scene contains real conflict — someone wants something and something stands in the way — the GM frames the **stakes** and calls for contests. When the conflict is bigger than a scene (a siege, a trade war, an election), the GM sets a [clock](core/contests.md#clocks) and the table chips away at it across many scenes or faction turns.
+Play moves in **scenes**, like a film. When a scene holds real opposition — someone wants something, and something stands in the way — the GM frames the **stakes** out loud and dice come out. When a struggle is too big for any single scene (a siege, an election, a trade war), the GM draws a [clock](core/contests.md#clocks) and the table fills it in across many scenes and faction turns.
 
-The same rules run at any **scale**. A scene can be four people in a cellar or two armadas in a debris field. When the scale of a conflict changes mid-scene — a duel spills into a riot, a boarding action becomes a fleet engagement — you **zoom** rather than switch systems: see [Conflict Overview](combat/overview.md#zooming).
+The same rules run at every **size of story**. A scene can be four people whispering in a cellar or two armadas closing in a debris field. When the size changes mid-scene — a duel spills into a riot, a boarding action becomes a fleet engagement — the game **zooms** instead of switching systems: see [Conflict](combat/overview.md#zooming).
 
-## The Table Size
+## The Table
 
-The Party is designed for **3–7 players plus a GM**. Nothing in the system requires any particular class to be present, and two players sharing a class works fine — classes make you *better* at a slice of the faction's life, they never gate it. Every faction-turn step and every faction action can be attempted by anyone; class features just make specialists shine.
+The Party seats **3–7 players plus a GM**. No class is required for the game to function, and two players sharing a class works beautifully — classes make you *better* at a slice of the faction's life; they never lock anyone else out of it. Every faction-turn step and every faction action can be attempted by anybody. The specialists just do it with style.
+
+<div class="callout" data-title="If you've never done this before">
+<p>You do not need to know the rules to play. You need one sentence: <em>say what your character is trying to do, and why</em>. The GM and the table will find the dice. Every rule in this book exists downstream of that sentence.</p>
+</div>

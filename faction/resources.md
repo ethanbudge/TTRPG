@@ -24,6 +24,7 @@ Resources are counted in **stock** — small integers, like everything in The Pa
 - Stock lives **at nodes**, not in an abstract treasury. Each node holds at most **5 stock total** (upgrades can raise this). Where things are *matters*: Force stockpiled at the Chapel can't defend the Docks tonight.
 - Stock moves along **routes** during the faction turn's Logistics step — free on safe routes, contested on threatened ones. Cut routes are how sieges work.
 - Stock is spent by saying where it comes from. Committing Force to a contest means *those* enforcers, from *that* node.
+- Stock **arrives** the same way: when a feature, synergy, or venture grants stock, it lands wherever the fiction says it materialized — the loot comes home to the node the crew returns to; a synergy's yield lands where that officer works. When nobody cares, it lands at the Stronghold.
 
 ## Gaining Stock
 
@@ -48,13 +49,13 @@ Resources are counted in **stock** — small integers, like everything in The Pa
 
 When a node's Needs go unpaid at Upkeep:
 
-1. **First miss:** the node takes a lasting condition matching the starved pool — *Starving* (Provisions), *Falling Apart* (Expertise), *Restless* (Morale), *Doubting* (Unity). Conditions impose setbacks on everything the node does, including its yields — hunger compounds.
+1. **First miss:** the node takes a lasting condition matching the starved pool — *Starving* (Provisions), *Falling Apart* (Expertise), *Restless* (Morale), *Doubting* (Unity). A condition setbacks the node's contests as usual, and its yields shrink: **the node produces 1 less stock per turn while any shortfall condition holds**. Hunger compounds.
 2. **Second consecutive miss:** mark 2 strain on the node's track and the condition worsens (the GM sharpens the fiction — desertions begin, the presses break, the congregation thins).
-3. **Third consecutive miss:** the node **flips** — it defects to a rival, dissolves, or goes dark, GM's choice, always foreshadowed. Mark 1 Cohesion.
+3. **Third consecutive miss:** the node **flips** — it defects to a rival, dissolves, or goes dark, GM's choice, always foreshadowed. Mark 1 Cohesion (2 if it was the Stronghold) — the standard mark for a lost node, once.
 
 ## Surplus — Feeding It Well
 
-A node whose needs are all paid *and* which holds 2+ unspent stock at the end of Upkeep becomes **Flourishing** until next turn: +1 edge on its yields or its defense (its people are fed, proud, and loyal). Distribution isn't just triage — generosity is a strategy.
+A node whose needs are all paid *and* which holds 2+ unspent stock at the end of Upkeep becomes **Flourishing** until next turn: it produces **+1 stock on one of its yields**, or gains an edge on its defense — the table picks (its people are fed, proud, and loyal). Distribution isn't just triage — generosity is a strategy.
 
 ## Design Note — Why Eight, Why Named-by-You
 

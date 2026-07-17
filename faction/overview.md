@@ -4,26 +4,19 @@ The faction is the game's shared character. It sits in the middle of the table, 
 
 ## The Faction Sheet
 
-```
-FACTION: name · emblem · what outsiders call you
-CAUSE: one sentence — what the faction exists to do
+<div class="sheet-card">
+<h4>Faction Sheet</h4>
+<div class="row"><span class="field"><b>Faction</b> name · emblem · what outsiders call you</span></div>
+<div class="row"><span class="field"><b>Cause</b> one sentence — what the faction exists to do</span></div>
+<div class="row"><span class="field"><b>Physical</b> [ &nbsp; ]</span> <span class="field"><b>Mental</b> [ &nbsp; ]</span> <span class="field"><b>Emotional</b> [ &nbsp; ]</span> <span class="field"><b>Conviction</b> [ &nbsp; ]</span></div>
+<div class="row"><span class="field"><b>Cohesion</b> <span class="boxes">□□□□□</span></span> <span class="field"><b>Flaw</b> one, chosen by the table</span></div>
+<div class="row"><span class="field"><b>Agenda</b> the cause as a ladder of clocks (see below)</span></div>
+<div class="row"><span class="field"><b>Resources</b> — the eight pools, named for this campaign: an internal and external pool each for Physical, Mental, Emotional, Conviction</span></div>
+<div class="row"><span class="field"><b>Nodes</b> 3+, one Stronghold</span> <span class="field"><b>Routes</b> connections between them</span></div>
+<div class="row"><span class="field"><b>Assets</b> deployable property</span> <span class="field"><b>Rivals</b> 2–4, each on the ladder</span></div>
+</div>
 
-PHYSICAL [ n ]   MENTAL [ n ]   EMOTIONAL [ n ]   CONVICTION [ n ]
-
-COHESION  □ □ □ □ □          FLAW: one, table-chosen
-
-AGENDA: the cause as a ladder of clocks (see below)
-
-RESOURCES (the eight pools — named for this campaign):
-              INTERNAL              EXTERNAL
-  Physical    ____________          ____________
-  Mental      ____________          ____________
-  Emotional   ____________          ____________
-  Conviction  ____________          ____________
-
-NODES: 3+ (one Stronghold)        ROUTES: connections between them
-ASSETS: deployable property        RIVALS: 2–4, each on the ladder
-```
+A printable faction sheet — including agenda clocks and the resource grid — is in [Sheets & Downloads](sheets/downloads.md).
 
 ## Faction Creation (Session Zero)
 
@@ -43,8 +36,7 @@ Built **together**, before or alongside characters. Nine steps, about an hour:
 
 The faction's strain track is called **Cohesion** — the organization's will to remain one thing. Mark Cohesion when:
 
-- a node is lost (2 marks if it was the Stronghold — plus you need a new Stronghold, fast),
-- a node misses upkeep twice running,
+- a node is lost — flipped, burned, or gone dark (1 mark; 2 if it was the Stronghold — plus you need a new Stronghold, fast). This is the same mark the [shortfall ladder's](faction/resources.md#shortfall--starving-the-body) third step inflicts; never mark twice for one loss,
 - the agenda suffers a public, humiliating setback,
 - the flaw or the fiction produces genuine internal schism.
 

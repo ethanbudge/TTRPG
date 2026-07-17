@@ -27,7 +27,7 @@ At creation, characters and factions each distribute one of these arrays across 
 | **Balanced** | 3 / 3 / 3 / 2 | Reliable at almost everything |
 | **Spiky** | 4 / 4 / 2 / 1 | Brilliant and badly flawed |
 
-A rating of 4 means you win an even contest about 3 times in 4 — starting characters are already *good*. Advancement (rarely) raises stats, but mostly widens what you can do: see [Perks & Advancement](characters/advancement.md).
+A rating of 4 means you beat standard opposition (3 dice) about 3 times in 4 — starting characters are already *good*. Advancement (rarely) raises stats, but mostly widens what you can do: see [Perks & Advancement](characters/advancement.md).
 
 ## What Stats Are Not
 

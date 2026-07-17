@@ -29,6 +29,10 @@ Each beat, **every actor gets one goal** — each PC, each significant NPC or ri
 
 **Goals, not moves.** Declare outcomes you want (*"I want their flank commander dead or fleeing"*), never mechanics (*"I attack twice"*). The table maps the sentence to a stat, edges, and stakes. Anything a person could try, a goal can attempt — disarm, humiliate, stampede the cattle, hold the door, buy time, change the subject of the war.
 
+<div class="callout" data-title="Defending is free">
+<p>Rolling to oppose someone else's goal <strong>never consumes your own</strong> — you always get your beat. Likewise, a feature costs you your goal only if its text says so; features that trigger "when" something happens (Interpose, Keep the Flame, Fire Rises) ride alongside your turn, not instead of it.</p>
+</div>
+
 ## Distance — The Four Bands
 
 Space is measured in four **range bands**, sized relative to the arena:
@@ -63,7 +67,7 @@ That's the entire equipment system. Anything more belongs in fiction.
 
 The combo engine — how snappy turns still produce crescendos:
 
-- **Set-up goals.** Any win can be *banked as an edge for a named ally* instead of taken as effect, if the fiction connects ("I pin them down — go!"). Banked edges expire at scene's end.
+- **Set-up goals.** Any win can be *banked as an edge for a named ally* instead of taken as effect, if the fiction connects ("I pin them down — go!"). A character can hold **at most one banked edge at a time** — it is its own edge source with its own cap ([the budget table](core/contests.md#edges-and-setbacks)) — and banked edges expire at scene's end. Set-ups chain drama, not dice: the second set-up on the same ally changes the fiction, not the pool.
 - **Strong wins** (margin 5+) hand out boons — extra strain, positions, conditions, clock ticks.
 - **Conditions are combos.** *Blinded* on the duelist, then the disarm. *Discredited* on the minister, then the vote. The payoff for teamwork isn't bigger numbers — it's changing what the situation *is* before the decisive roll.
 - **Clocks in conflict.** Objectives beyond "drop them" get clocks: *Overload the Reactor (4)*, *The Vault Opens (6)*, *Their Coalition Splits (8)*. Fights with clocks in them end by objective, not annihilation — usually faster, always more interesting.

@@ -4,16 +4,15 @@ The world is full of organizations that want what yours wants. Rivals use the sa
 
 ## The Rival Sheet
 
-```
-RIVAL: The Gilded Consortium
-CAUSE: own every wharf from here to the delta
-STATS  P 3 · M 4 · E 3 · C 2        COHESION □ □ □ □ □
-NODES  Counting House (stronghold) · Harbormaster's Office · Warehouse Row
-ASSETS Tariff Men (Force 3) · Ledger Spies (Intelligence 2)
-GOAL CLOCK  "Strangle the small traders" ⬤⬤⬤◯◯◯
-LADDER  −1 (Cold)
-TAGS   patient, litigious, allergic to open violence
-```
+<div class="sheet-card">
+<h4>Rival — The Gilded Consortium</h4>
+<div class="row"><span class="field"><b>Cause</b> own every wharf from here to the delta</span></div>
+<div class="row"><span class="field"><b>Stats</b> P 3 · M 4 · E 3 · C 2</span> <span class="field"><b>Cohesion</b> <span class="boxes">□□□□□</span></span></div>
+<div class="row"><span class="field"><b>Nodes</b> Counting House (stronghold) · Harbormaster's Office · Warehouse Row</span></div>
+<div class="row"><span class="field"><b>Assets</b> Tariff Men (Force 3) · Ledger Spies (Intelligence 2)</span></div>
+<div class="row"><span class="field"><b>Goal clock</b> "Strangle the small traders" <span class="boxes">⬤⬤⬤◯◯◯</span></span> <span class="field"><b>Ladder</b> −1 (Cold)</span></div>
+<div class="row"><span class="field"><b>Tags</b> patient, litigious, allergic to open violence</span></div>
+</div>
 
 Rivals don't track stock in eight pools — that bookkeeping is for the protagonist faction only. A rival's economy is abstracted into its stats, assets, and the GM's fiction. If the players cut a rival's routes, express it as conditions (*Starved*, *Overextended*) and setbacks, exactly like [everywhere else](core/strain-and-conditions.md#conditions-at-faction-scale).
 

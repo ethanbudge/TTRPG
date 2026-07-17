@@ -61,6 +61,6 @@ The GM approves combinations; a feature can be Deepened twice, with different te
 
 ## Power From Session One
 
-The math holds advancement honest: a starting character with a 4-stat wins even contests three times out of four *on day one*. Advances never raise those odds much — the stat cap is 5, edges cap at the pool clamp, and strain tracks never grow (Hand excepted). What advancement buys is **breadth**: more features, more once-per-session tricks, more of the faction's machinery answering to you. A veteran of thirty sessions isn't harder to kill than a rookie — they're *impossible to corner*, because they have an answer for everything.
+The math holds advancement honest: a starting character with a 4-stat beats standard opposition three times out of four *on day one*. Advances never raise those odds much — the stat cap is 5, edges cap at the pool clamp, and strain tracks never grow (Hand excepted). What advancement buys is **breadth**: more features, more once-per-session tricks, more of the faction's machinery answering to you. A veteran of thirty sessions isn't harder to kill than a rookie — they're *impossible to corner*, because they have an answer for everything.
 
 This is deliberate, and it's the core of the brief this game was designed from: **leveling up means doing additional cool things, not finally being able to do cool things.**
