@@ -1,6 +1,6 @@
 # The Faction
 
-The faction is the game's shared character. It sits in the middle of the table, everyone plays it, and it uses the rules you already know: the same four [stats](core/stats.md), the same 1–5 dice pools, the same 5-box track, even its own [flaw](characters/traits.md#the-faction-has-one-too).
+The faction is the game's shared character. It sits in the middle of the table, everyone plays it, and it uses rules you already know: the same four [stats](core/stats.md), the same 1–5 pools, its own strain boxes, its own [gift and flaw](characters/traits.md#the-factions-gifts--flaws).
 
 ## The Faction Sheet
 
@@ -8,48 +8,44 @@ The faction is the game's shared character. It sits in the middle of the table, 
 <h4>Faction Sheet</h4>
 <div class="row"><span class="field"><b>Faction</b> name · emblem · what outsiders call you</span></div>
 <div class="row"><span class="field"><b>Cause</b> one sentence — what the faction exists to do</span></div>
-<div class="row"><span class="field"><b>Physical</b> [ &nbsp; ]</span> <span class="field"><b>Mental</b> [ &nbsp; ]</span> <span class="field"><b>Emotional</b> [ &nbsp; ]</span> <span class="field"><b>Conviction</b> [ &nbsp; ]</span></div>
-<div class="row"><span class="field"><b>Cohesion</b> <span class="boxes">□□□□□</span></span> <span class="field"><b>Flaw</b> one, chosen by the table</span></div>
-<div class="row"><span class="field"><b>Agenda</b> the cause as a ladder of clocks (see below)</span></div>
-<div class="row"><span class="field"><b>Resources</b> — the eight pools, named for this campaign: an internal and external pool each for Physical, Mental, Emotional, Conviction</span></div>
-<div class="row"><span class="field"><b>Nodes</b> 3+, one Stronghold</span> <span class="field"><b>Routes</b> connections between them</span></div>
-<div class="row"><span class="field"><b>Assets</b> deployable property</span> <span class="field"><b>Rivals</b> 2–4, each on the ladder</span></div>
+<div class="row"><span class="field"><b>Physical</b> [ &nbsp; ]</span> <span class="field"><b>Mental</b> [ &nbsp; ]</span> <span class="field"><b>Emotional</b> [ &nbsp; ]</span> <span class="field"><b>Ideological</b> [ &nbsp; ]</span></div>
+<div class="row"><span class="field"><b>Cohesion</b> <span class="boxes">■■■■■</span> <em>starts full — drains toward Crisis</em></span> <span class="field"><b>Gift</b> one</span> <span class="field"><b>Flaw</b> one</span></div>
+<div class="row"><span class="field"><b>The Ledger</b> — stock in eight pools, each entry with a place and an <a href="#/faction/nodes?id=accessibility">accessibility</a> mark</span></div>
+<div class="row"><span class="field"><b>Holdings</b> the places that are yours</span> <span class="field"><b>Keep</b> what it costs to stay you</span></div>
+<div class="row"><span class="field"><b>Assets</b> property that acts</span> <span class="field"><b>Rivals</b> 2–4, each on the ladder</span></div>
 </div>
 
-A printable faction sheet — including agenda clocks and the resource grid — is in [Sheets & Downloads](sheets/downloads.md).
+A printable faction sheet is in [Sheets & Downloads](sheets/downloads.md).
 
 ## Faction Creation (Session Zero)
 
-Built **together**, before or alongside characters. Nine steps, about an hour:
+Built together, before or alongside characters. Eight steps, about an hour:
 
 1. **Pick a frame.** Genre and premise — use a [genre frame](gm/genre-frames.md) or invent one.
 2. **Name the cause.** One sentence with a verb in it. *"The Ember Synod will sit the true faith on the throne of Vael."*
-3. **Assign stats.** One array — Focused 4/3/2/2, Balanced 3/3/3/2, or Spiky 4/4/2/1. What kind of organization is this: strong-armed, brilliant, beloved, or burning?
-4. **Name the eight pools.** This is the single most important genre-adaptation step in the game — see [Resources](faction/resources.md). The table decides what internal-Physical *is* in this campaign (grain tithes? reactor fuel?) and so on for all eight.
-5. **Found three [nodes](faction/nodes.md).** One is your **Stronghold**. Draw the routes between them.
-6. **Seed the stockpile.** Distribute **8 stock** of your choice across your nodes (respecting caps).
-7. **Choose a faction flaw.** *Fanatical, Infiltrated, Indebted, Bloody Reputation, Schism-Prone, Overextended* — or invent one.
+3. **Assign stats.** One array — Focused 4/3/2/2, Broad 4/3/3/1, or Spiky 4/4/2/1. What kind of organization is this: strong-armed, brilliant, beloved, or burning?
+4. **Name the eight pools.** The load-bearing genre step — see [Resources](faction/resources.md). The table decides what internal Physical *is* in this campaign (grain tithes? reactor fuel?) and so on, eight times.
+5. **Sketch the map and your [holdings](faction/nodes.md).** Two or three places that are yours, one of them the **Stronghold**. Then place your **8 starting stock** — write where each sits.
+6. **Write the Keep.** The short list of what existing costs each [faction turn](faction/faction-turn.md#2--keep): who eats, who gets paid, what must stay believed. Check it against your income lines — a deficit is playable, but know you have one.
+7. **Take a faction gift and a faction flaw** from the [tables](characters/traits.md#the-factions-gifts--flaws).
 8. **Place 2–4 [rivals](faction/rivals.md)** on the relationship ladder with the GM.
-9. **Take the oath.** Each player answers: *what does the faction ask of your character that they're not sure they can give?*
 
 ## Cohesion
 
-The faction's strain track is called **Cohesion** — the organization's will to remain one thing. Mark Cohesion when:
+Cohesion is the faction's will to remain one thing. It starts at **5** and drains:
 
-- a node is lost — flipped, burned, or gone dark (1 mark; 2 if it was the Stronghold — plus you need a new Stronghold, fast). This is the same mark the [shortfall ladder's](faction/resources.md#shortfall--starving-the-body) third step inflicts; never mark twice for one loss,
-- the agenda suffers a public, humiliating setback,
-- the flaw or the fiction produces genuine internal schism.
+- **−1** when a holding is lost — burned, flipped, or gone dark (**−2** for the Stronghold, and you need a new one fast),
+- **−1** when the cause suffers a public, humiliating defeat,
+- **−1** when the flaw or the narrative produces genuine internal schism.
 
-Cohesion recovers through **Quell/Tend** faction actions and through fiction that heals the body — victories help, but so do funerals done right.
+Cohesion is restored by **Quell** and **Tend** actions, and by the story healing the body — victories help, but so do funerals done right.
 
-**When Cohesion fills, the faction enters Crisis.** Play it out: the schism, the mutiny, the purge, the night of long knives. A Crisis is a full venture whose stakes are the faction's shape — who leads it, what it believes, who walks away. Survive it and clear Cohesion to 2 marks. A faction can absolutely die in Crisis; what walks out wearing its name is a new faction with old scars.
+**At 0, the faction enters Crisis:** the schism, the mutiny, the purge. Play it out as a full mission whose stakes are the faction's shape — who leads it, what it believes, who walks away. A faction that survives Crisis rebuilds to Cohesion 2. A faction can also die there; whatever walks out wearing its name is a new faction with old scars.
 
 ## The Agenda
 
-The cause, made mechanical: a **ladder of clocks**. The current rung is an 8-segment clock (*Win the Dockworkers*), and completing it unlocks the next, bigger rung (*Control the Harbor* → *Strangle the Capital's Trade* → *The Throne*). Faction actions, ventures, and session play tick the current rung. The agenda ladder is the campaign's spine — when the last rung fills, that's not "the end of the game," it's the end of an era: the table decides whether to retire the faction in glory or discover what victory costs.
+The cause needs milestones, and [countdowns](core/contests.md#countdowns) are the tool: *Win the Dockworkers (8)*, then *Control the Harbor (8)*, then whatever the victory before last makes possible. How many, how large, and how strictly they chain is the GM's call, not a rule — see [running the campaign](gm/running.md#running-the-long-game) for how to pace them. What matters at the table is that the current milestone is visible, that faction actions and missions strike segments from it, and that the rivals' own countdowns tick in plain view. Nothing motivates a faction turn like watching the Consortium's numbers fall.
 
-The GM's rival factions run agendas of their own, at the same speed the table does. Nothing motivates a faction turn like watching the Consortium's clock tick.
+## The Faction Makes Demands
 
-## The Faction Is Not a Vending Machine
-
-One rule of table culture, learned from every faction game that came before: the faction makes **demands**. It needs feeding, defending, arbitrating, believing-in. The GM should give the faction a voice — named NPC members, nodes with personalities, letters that arrive at bad times. Players who treat the faction sheet as a resource dispenser should find, gently but firmly, that the dispenser has opinions.
+One point of table culture, learned from every faction game before this one: the faction is not a vending machine. It needs feeding, defending, arbitrating, believing-in. The GM should give it a voice — named members, holdings with moods, letters that arrive at bad times. The players built it; the world should keep asking if they meant it.

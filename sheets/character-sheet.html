@@ -76,7 +76,7 @@
 
 <div class="office-row">
   <div class="fld"><div class="line"></div><label>Concept — who are you?</label></div>
-  <div class="fld"><div class="line"></div><label>Office (Class · Calling)</label></div>
+  <div class="fld"><div class="line"></div><label>Seat (Seat · Calling)</label></div>
   <div class="fld"><div class="line"></div><label>Faction</label></div>
 </div>
 
@@ -84,28 +84,28 @@
   <div class="stat"><div class="num"></div><div><div class="name">Physical</div><div class="desc">strength, speed, endurance, hands-on skill</div></div></div>
   <div class="stat"><div class="num"></div><div><div class="name">Mental</div><div class="desc">reasoning, knowledge, perception, craft</div></div></div>
   <div class="stat"><div class="num"></div><div><div class="name">Emotional</div><div class="desc">charm, empathy, deception, nerve</div></div></div>
-  <div class="stat"><div class="num"></div><div><div class="name">Conviction</div><div class="desc">willpower, faith, devotion, the cause</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Ideological</div><div class="desc">willpower, faith, principle, the cause</div></div></div>
 </div>
 
 <div class="cols">
   <div><!-- LEFT COLUMN -->
     <section>
-      <h3>Strain <span class="hint">mark 1 when you lose a harmful contest · 2 if by 5+</span></h3>
+      <h3>Strain <span class="hint">mark 1 when you lose a harmful contest · 2 on a Disaster</span></h3>
       <div class="track">
         <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div>
         <div class="box bonus"></div>
         <div class="lbl">6th box:<br>Hand's Bulwark only</div>
       </div>
       <div class="minirow">
-        <div class="half"><div class="tinylabel">Protection tags — each negates 1 strain, once per scene</div><div class="writein"></div><div class="writein"></div></div>
-        <div class="half"><div class="tinylabel">Perks</div><div class="pips"><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div><div class="pip"></div></div></div>
+        <div class="half"><div class="tinylabel">Protection tags — each negates 1 strain, once per conflict</div><div class="writein"></div><div class="writein"></div></div>
+        <div class="half"><div class="tinylabel">Perks — banked</div><div class="writein"></div><div class="tinylabel">Perks — earned lifetime (hone a feature at every 15)</div><div class="writein"></div></div>
       </div>
     </section>
 
     <section>
       <h3>Conditions <span class="hint">−1 die when it plausibly applies</span></h3>
       <div class="writein"></div><div class="writein"></div><div class="writein"></div>
-      <div class="tinylabel" style="margin-top:5px">Scars — permanent; you earned a perk for each</div>
+      <div class="tinylabel" style="margin-top:5px">Broken under mortal stakes: choose the scar (a new flaw, return with 1 box cleared) or the exit</div>
       <div class="writein"></div><div class="writein"></div>
     </section>
 
@@ -116,17 +116,17 @@
     </section>
 
     <section>
-      <h3>Flaws <span class="hint">when one bites, the trouble happens — and you gain 1 perk</span></h3>
-      <div class="trait"><div class="cb"></div><div class="body"><div class="writein"></div><div class="writein"></div></div></div>
-      <div class="trait"><div class="cb"></div><div class="body"><div class="writein"></div><div class="writein"></div></div></div>
-      <div class="tinylabel">☐ = perk earned this session (max one per flaw)</div>
+      <h3>Flaws <span class="hint">one at creation · scars add more · a flaw snags what it plausibly bites</span></h3>
+      <div class="writein"></div><div class="writein"></div>
+      <div class="writein"></div><div class="writein"></div>
+      <div class="writein"></div><div class="writein"></div>
     </section>
 
     <section>
       <h3>Bonds</h3>
-      <div class="tinylabel">Why do you believe?</div><div class="writein"></div>
-      <div class="tinylabel">What has the faction cost you?</div><div class="writein"></div>
-      <div class="tinylabel">Whom do you trust with your life — and whom not quite?</div><div class="writein"></div>
+      <div class="tinylabel">Why you're here</div><div class="writein"></div>
+      <div class="tinylabel">What it has cost</div><div class="writein"></div>
+      <div class="tinylabel">Who these people are to you</div><div class="writein"></div>
     </section>
   </div>
 
@@ -139,7 +139,7 @@
       <div class="feature"><div class="ftitle"><span>Feature</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
       <div class="feature"><div class="ftitle"><span>Feature (advance)</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
       <div class="feature"><div class="ftitle"><span>Feature (advance)</span><span>☐ used</span></div><div class="writein"></div><div class="writein"></div></div>
-      <div class="tinylabel">Every 3rd advance: Deepen a feature you own — Again · Wider · Sharper</div>
+      <div class="tinylabel">At every 15 lifetime perks: Hone a feature you own — Again · Wider · Sharper</div>
     </section>
 
     <section>
@@ -152,7 +152,7 @@
     </section>
 
     <section>
-      <h3>Ambition <span class="hint">declared out loud — pursuing it earns perks</span></h3>
+      <h3>Ambition <span class="hint">declared out loud — pursuing it is what perks are for</span></h3>
       <div class="writein"></div>
       <div class="tinylabel" style="margin-top:4px">Notes</div>
       <div class="writein"></div><div class="writein"></div><div class="writein"></div>
@@ -164,15 +164,15 @@
   <table>
     <tr><th>Contest Result</th><th>What Happens</th></tr>
     <tr><td><b>Win</b></td><td>Your goal comes true</td></tr>
-    <tr><td><b>Win by 5+</b></td><td>…and pick a boon</td></tr>
-    <tr><td><b>Tie</b></td><td>Acting side succeeds, at a cost</td></tr>
+    <tr><td><b>Triumph</b> — win by 8+</td><td>…and pick a boon</td></tr>
+    <tr><td><b>Tie</b></td><td>Acting side succeeds, and pays the cost</td></tr>
     <tr><td><b>Lose</b></td><td>The stated stakes land</td></tr>
-    <tr><td><b>Lose by 5+</b></td><td>They land hard</td></tr>
+    <tr><td><b>Disaster</b> — lose by 8+</td><td>They land hard</td></tr>
   </table>
   <div class="oddsbox">
-    <b>Your stat is your dice.</b> Edges +1 die, setbacks −1; pools stay 1–5.<br>
-    <b>Odds vs 3 dice:</b> 3 ≈ 55% · 4 ≈ 81% · 5 ≈ 94%<br>
-    <b>1 perk:</b> reroll one die, or Prepare (edge) — once per contest.
+    <b>Your stat is your dice.</b> Edges +1 die, snags −1; pools stay 1–5.<br>
+    <b>Edge sources, one each:</b> Craft · Aid · Position · Personal Resource · Faction Resource · Primed.<br>
+    <b>Odds vs 3 dice:</b> 3 ≈ 55% · 4 ≈ 81% · 5 ≈ 94%
   </div>
 </footer>
 

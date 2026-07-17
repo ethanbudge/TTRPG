@@ -1,62 +1,53 @@
 # Resources — The Eight Pools
 
-Faction resources come in **eight pools**: one **internal** and one **external** pool for each of the four stats. The rules below are hard-coded; the *names and fictions* of the pools are not — every campaign names its own eight during faction creation. That single step is what lets one resource system run a monastery, a heist crew, and a battle fleet.
+Faction resources come in **eight pools**: an internal and an external pool for each of the four stats. The rules below are fixed; the names are not — every campaign names its own eight during faction creation, and that single step is what lets one resource system run a monastery, a heist crew, and a battle fleet.
 
 ## The Grid
 
 | Stat | Internal — *keeps you alive* | External — *projects power* |
 | --- | --- | --- |
 | **Physical** | **Provisions** — food, fuel, medicine, ammunition, life support | **Force** — troops, muscle, warships, enforcers, war machines |
-| **Mental** | **Expertise** — training, competent staff, maintenance knowledge | **Intelligence** — secrets, maps, blackmail, R&D breakthroughs |
+| **Mental** | **Expertise** — training, competent staff, working knowledge | **Intelligence** — secrets, maps, blackmail, breakthroughs |
 | **Emotional** | **Morale** — comfort, celebration, camaraderie, rest | **Influence** — reputation, propaganda reach, favors, diplomatic capital |
-| **Conviction** | **Unity** — shared ritual, discipline, doctrine, identity | **Zeal** — fervor, recruitment energy, willingness to sacrifice |
+| **Ideological** | **Unity** — shared ritual, discipline, doctrine, identity | **Zeal** — fervor, recruitment energy, willingness to sacrifice |
 
-The names above are the *canonical examples* used throughout these rules. Your campaign should rename them — the [genre frames](gm/genre-frames.md) show eight-pool spreads for five different settings.
+The names above are the canonical examples used throughout this book. Rename them for your campaign — the [genre frames](gm/genre-frames.md) show eight-pool spreads for five settings.
 
-**Internal pools are consumed by your own nodes** at every faction turn's Upkeep step. They are the cost of existing. Starve a node of Provisions and it starves; starve it of Unity and it stops believing it's part of you.
+**Internal pools** are what the faction consumes to stay itself — they pay the [Keep](faction/faction-turn.md#2--keep). **External pools** are spent at the world: [Faction Resource edges](core/contests.md#edges-and-snags), faction actions, and [assets](faction/nodes.md#assets).
 
-**External pools are spent at the world.** They fuel [Resource edges](core/contests.md#edges-and-setbacks) in contests, power faction actions, and purchase [assets](faction/nodes.md#assets). They are the cost of *acting*.
+## Stock and the Ledger
 
-## Stock
+Resources are counted in **stock** — small whole numbers, like everything else in the game. The faction sheet's **Ledger** lists every stock the faction owns, and every entry answers two questions:
 
-Resources are counted in **stock** — small integers, like everything in The Party.
+- **Where is it?** Stock sits somewhere real: a holding, a cache, a wagon, a ship's hold. Spending it means spending *that* stock, from *that* place. Play with a map if you like — mark where each cache and asset sits, and the next question answers itself.
+- **Can you get at it?** From wherever the characters are operating, each entry is Ready, Reachable, Remote, or Cut Off — see [Accessibility](faction/nodes.md#accessibility). Only **Ready** stock can be committed to a contest.
 
-- Stock lives **at nodes**, not in an abstract treasury. Each node holds at most **5 stock total** (upgrades can raise this). Where things are *matters*: Force stockpiled at the Chapel can't defend the Docks tonight.
-- Stock moves along **routes** during the faction turn's Logistics step — free on safe routes, contested on threatened ones. Cut routes are how sieges work.
-- Stock is spent by saying where it comes from. Committing Force to a contest means *those* enforcers, from *that* node.
-- Stock **arrives** the same way: when a feature, synergy, or venture grants stock, it lands wherever the fiction says it materialized — the loot comes home to the node the crew returns to; a synergy's yield lands where that officer works. When nobody cares, it lands at the Stronghold.
+When a feature, synergy, or job grants stock, it lands wherever the narrative says it arrived; if nobody cares, it lands at the Stronghold.
 
 ## Gaining Stock
 
 | Source | How |
 | --- | --- |
-| **Node yields** | Each node produces 1–2 stock per faction turn (its Yields line) — farms yield Provisions, temples yield Unity, listening posts yield Intelligence. |
-| **Ventures** | Loot, prizes, converts, and secrets won in play become stock at the GM's ruling — a robbed vault might be +2 Influence... or +2 of whatever the campaign calls money. |
-| **Trade actions** | Swap stock types at 2:1 with the market, or 1:1 with an Allied faction. |
-| **Class synergies** | Duplicated offices each add +1 stock of their type at Yield ([see classes](characters/classes.md)). |
-| **Rival misfortune** | Raid their routes, flip their nodes, catch their couriers. |
+| **Income** | Each holding and enterprise produces 1–2 stock per [faction turn](faction/faction-turn.md#1--income), per its income line — farms yield Provisions, temples Unity, listening posts Intelligence. |
+| **Missions** | Loot, prizes, converts, and secrets won in play become stock at the GM's ruling. |
+| **Trade actions** | Swap stock 2:1 with the market, 1:1 with an Allied faction. |
+| **Seat synergies** | Doubled Seats each add 1 stock of their type at Income ([classes](characters/classes.md)). |
+| **Rival misfortune** | Raid their caravans, flip their people, catch their couriers. |
 
 ## Spending Stock
 
 | Use | Cost |
 | --- | --- |
-| **Resource edge** in a contest | 1 stock = 1 edge, max 2 per contest; type must plausibly power the approach; stock must be present (on site, or at a node connected by an unbroken route). |
-| **Faction actions** | Some actions burn stock — a Campaign runs on Influence or Zeal, a Strike on Force. Typically 1, listed with the [action](faction/faction-turn.md#4-actions). |
+| **Faction Resource edge** in a contest | 1 stock = 1 edge, max 1 per contest; the type must plausibly power the approach; the stock must be Ready. |
+| **Faction actions** | Some actions burn stock — a Campaign runs on Influence or Zeal, a Strike on Force. Typically 1, listed with the [action](faction/faction-turn.md#3--actions). Committed stock is spent win or lose. |
 | **Assets** | 2 stock of the matching external type + a faction action, or 3 perks. |
-| **Emergency upkeep** | Cover a missing internal need with 2 stock of the same stat's *external* pool (the troops eat the war-chest; morale is patched with propaganda). Ugly, and everyone knows it. |
+| **The Keep** | Internal needs, paid at each faction turn. In a pinch, external stock of the same stat covers an internal need at 2:1 — the troops eat the war-chest, and everyone knows it. |
 
-## Shortfall — Starving the Body
+## Going Hungry
 
-When a node's Needs go unpaid at Upkeep:
+When a need in the Keep goes unpaid:
 
-1. **First miss:** the node takes a lasting condition matching the starved pool — *Starving* (Provisions), *Falling Apart* (Expertise), *Restless* (Morale), *Doubting* (Unity). A condition setbacks the node's contests as usual, and its yields shrink: **the node produces 1 less stock per turn while any shortfall condition holds**. Hunger compounds.
-2. **Second consecutive miss:** mark 2 strain on the node's track and the condition worsens (the GM sharpens the fiction — desertions begin, the presses break, the congregation thins).
-3. **Third consecutive miss:** the node **flips** — it defects to a rival, dissolves, or goes dark, GM's choice, always foreshadowed. Mark 1 Cohesion (2 if it was the Stronghold) — the standard mark for a lost node, once.
+1. **First miss:** the people or place affected take a lasting condition matching the starved pool — *Starving* (Provisions), *Falling Apart* (Expertise), *Restless* (Morale), *Doubting* (Unity). The condition snags faction contests where it plausibly applies, and the related income line produces 1 less while it holds.
+2. **Kept unpaid:** the GM starts a visible [countdown](core/contests.md#countdowns), usually 3 segments — *The Kitchens Go Dark*, *The Congregation Thins*. It ticks each further miss. At zero, something is genuinely lost: people walk, a holding flips or empties, and [Cohesion](faction/overview.md#cohesion) drains 1 (2 for the Stronghold).
 
-## Surplus — Feeding It Well
-
-A node whose needs are all paid *and* which holds 2+ unspent stock at the end of Upkeep becomes **Flourishing** until next turn: it produces **+1 stock on one of its yields**, or gains an edge on its defense — the table picks (its people are fed, proud, and loyal). Distribution isn't just triage — generosity is a strategy.
-
-## Design Note — Why Eight, Why Named-by-You
-
-Four stats × internal/external gives the faction economy the same shape as the character sheet: the same four words describe what a *person* is and what an *organization* is, which is the thematic core of The Party. Leaving the pool names to the table (with strong defaults) is what the brief called generalizability — the rules govern *flows* (yield, upkeep, movement, spend), and flows are genre-proof even when grain tithes become reactor fuel. See [Design Notes](appendix/design-notes.md) for the research trail.
+Paying every need with stock left over has its own reward: the faction is **Flourishing** until the next turn — one income line produces 1 extra, or its people defend their places with an edge. The table picks. Generosity is a strategy.

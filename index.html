@@ -26,10 +26,12 @@
     }
 
     /* ————— base type ————— */
+    html, body, main {
+      background: var(--page);
+    }
     body {
       font-family: 'Alegreya Sans', 'Gill Sans', 'Segoe UI', sans-serif;
       color: var(--ink);
-      background: var(--parchment);
     }
     .markdown-section {
       font-family: 'Alegreya', 'Palatino', 'Georgia', serif;
@@ -83,7 +85,10 @@
       color: var(--ink);
       margin: 2rem 0 .8rem;
     }
-    .markdown-section h1 a, .markdown-section h2 a, .markdown-section h3 a { border-bottom: none; color: inherit; }
+    .markdown-section h1 a, .markdown-section h2 a, .markdown-section h3 a,
+    .markdown-section h1 a:hover, .markdown-section h2 a:hover, .markdown-section h3 a:hover,
+    .markdown-section h4 a, .markdown-section h4 a:hover,
+    .markdown-section h5 a, .markdown-section h5 a:hover { border-bottom: none; color: inherit; }
 
     /* ————— tables: rulebook style ————— */
     .markdown-section table {

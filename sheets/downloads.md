@@ -20,12 +20,12 @@ One per table, kept in the middle where it belongs. Includes the agenda clock, t
 <a class="dl-button" href="sheets/faction-sheet.html" target="_blank">Browser version<small>print from any browser</small></a>
 </div>
 
-## Node Cards, Asset Cards & Clocks
+## Holding Cards, Asset Cards & Countdowns
 
-Four node cards and four asset cards to a page, plus blank 4-, 6-, and 8-segment clocks. Print one node page per few holdings; cut along the borders if you like physical pieces to slide across the map.
+Holding and asset cards four to a page, plus blank 4-, 6-, and 8-segment countdown wheels. Cut along the borders if you like physical pieces to slide across the map.
 
 <div class="dl-row">
-<a class="dl-button" href="sheets/cards.pdf" target="_blank" download>Node & Asset Cards — PDF<small>two pages, letter</small></a>
+<a class="dl-button" href="sheets/cards.pdf" target="_blank" download>Holding & Asset Cards — PDF<small>two pages, letter</small></a>
 <a class="dl-button" href="sheets/cards.html" target="_blank">Browser version<small>print from any browser</small></a>
 </div>
 

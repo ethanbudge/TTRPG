@@ -79,47 +79,49 @@
   <div class="stat"><div class="num"></div><div><div class="name">Physical</div><div class="desc">muscle, fleets, territory, industry</div></div></div>
   <div class="stat"><div class="num"></div><div><div class="name">Mental</div><div class="desc">intelligence, technology, planning</div></div></div>
   <div class="stat"><div class="num"></div><div><div class="name">Emotional</div><div class="desc">reputation, reach, public love or fear</div></div></div>
-  <div class="stat"><div class="num"></div><div><div class="name">Conviction</div><div class="desc">cohesion of belief, loyalty, zeal</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Ideological</div><div class="desc">shared belief, loyalty, zeal</div></div></div>
 </div>
 
 <div class="cols">
   <section>
-    <h3>Cohesion <span class="hint">full = Crisis</span></h3>
+    <h3>Cohesion <span class="hint">starts at 5 — strike boxes as it drains · 0 = Crisis</span></h3>
     <div class="cohesion-flaw">
       <div class="track"><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div></div>
-      <div><div class="tinylabel">Faction Flaw</div><div class="writein"></div></div>
+      <div><div class="tinylabel">Faction Gift</div><div class="writein"></div><div class="tinylabel">Faction Flaw</div><div class="writein"></div></div>
     </div>
   </section>
   <section>
-    <h3>Agenda <span class="hint">the cause as a ladder of clocks</span></h3>
+    <h3>Agenda <span class="hint">the current milestone, as a countdown</span></h3>
     <div class="agenda">
       <div class="clockslot">
         <svg width="52" height="52" viewBox="0 0 100 100"><circle cx="50" cy="50" r="45" fill="none" stroke="#26201a" stroke-width="3"/><line x1="50" y1="50" x2="95" y2="50" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="81.8" y2="81.8" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="50" y2="95" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="18.2" y2="81.8" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="5" y2="50" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="18.2" y2="18.2" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="50" y2="5" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="81.8" y2="18.2" stroke="#b9a67e" stroke-width="1.5"/></svg>
-        <div class="tinylabel">current rung</div>
+        <div class="tinylabel">countdown</div>
       </div>
       <div class="lines">
-        <div class="tinylabel">This rung</div><div class="writein"></div>
-        <div class="tinylabel">Next rung</div><div class="writein"></div>
+        <div class="tinylabel">This milestone</div><div class="writein"></div>
+        <div class="tinylabel">What it unlocks</div><div class="writein"></div>
       </div>
     </div>
   </section>
 </div>
 
 <section>
-  <h3>Resources — The Eight Pools <span class="hint">name each pool for this campaign · stock lives at nodes, not here</span></h3>
+  <h3>Resources — The Eight Pools <span class="hint">name each pool for this campaign · every stock has a place — see the Ledger</span></h3>
   <table class="grid">
-    <tr><th style="width:72px"></th><th>Internal — keeps you alive <span class="sub">consumed by node needs at Upkeep</span></th><th>External — projects power <span class="sub">spent for edges, actions, assets</span></th></tr>
+    <tr><th style="width:72px"></th><th>Internal — keeps you alive <span class="sub">pays the Keep</span></th><th>External — projects power <span class="sub">spent for edges, actions, assets</span></th></tr>
     <tr><td class="rowname">Physical</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
     <tr><td class="rowname">Mental</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
     <tr><td class="rowname">Emotional</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
-    <tr><td class="rowname">Conviction</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td class="rowname">Ideological</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
   </table>
 </section>
 
 <div class="cols">
   <section>
-    <h3>Nodes <span class="hint">★ = stronghold · details on node cards</span></h3>
-    <div class="writein"></div><div class="writein"></div><div class="writein"></div><div class="writein"></div><div class="writein"></div><div class="writein"></div>
+    <h3>Holdings &amp; the Keep <span class="hint">★ = stronghold · gives / asks</span></h3>
+    <div class="writein"></div><div class="writein"></div><div class="writein"></div>
+    <div class="tinylabel" style="margin-top:4px">The Keep — what existing costs each turn</div>
+    <div class="writein"></div><div class="writein"></div>
   </section>
   <section>
     <h3>Rivals <span class="hint">−3 War · −2 Hostile · −1 Cold · 0 · +1 Warm · +2 Friendly · +3 Allied</span></h3>
@@ -130,18 +132,20 @@
 </div>
 
 <section>
-  <h3>Assets <span class="hint">rating 2–4 · track 3 · an asset is somewhere</span></h3>
+  <h3>The Ledger — Stock &amp; Assets <span class="hint">R = Ready · Rch = Reachable · Rm = Remote · X = Cut Off</span></h3>
   <table class="grid">
-    <tr><th>Name</th><th style="width:70px">Type</th><th style="width:44px">Rating</th><th style="width:56px">Track</th><th style="width:100px">Location</th><th style="width:110px">Tags</th></tr>
-    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
-    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
-    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
-    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><th>Stock / Asset</th><th style="width:64px">Amount / Rating</th><th style="width:56px">Strain (assets)</th><th style="width:110px">Place</th><th style="width:56px">Access</th><th style="width:92px">Tags</th></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
   </table>
 </section>
 
 <footer>
-  <b>The Faction Turn:</b> 1 · Yield (nodes produce) &nbsp; 2 · Upkeep (nodes eat — shortfall bites) &nbsp; 3 · Logistics (move stock along routes) &nbsp; 4 · Actions (one per player, +1 per Head) &nbsp; 5 · Downtime (one move each; spend perks) — then the rivals move.
+  <b>The Faction Turn</b> (when the GM lets time pass): 1 · Income (holdings give) &nbsp; 2 · Keep (needs come due — hunger bites; time moves the map: Remote → Reachable → Ready) &nbsp; 3 · Actions (one per player, +1 per Head) &nbsp; 4 · Downtime (one move each; spend perks) — then the rivals move.
 </footer>
 
 </body>
