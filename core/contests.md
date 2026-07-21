@@ -1,5 +1,8 @@
 # Contests — The Dice Engine
 
+> *"Two of us wanted the same door open. The dice were only how we found out who wanted it more."*
+> — a Fixer, explaining the trade to a nervous client
+
 Every roll in The Party is a **contest**: a handful of six-siders against a handful of six-siders. The player rolls, the GM rolls, higher sum wins. The rest of this chapter covers how many dice each side picks up and what winning means.
 
 ## The Contest Procedure

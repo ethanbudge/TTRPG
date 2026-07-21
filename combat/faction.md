@@ -44,7 +44,7 @@ One rule governs crossings, both directions:
 >
 > **Against a smaller tier, your wins mark 2 strain — but the small are hard to pin:** smaller actors gain an edge to evade, hide from, or slip through larger attention.
 
-The lone Hand on the flagship's bridge can't cut down a fleet with a sword — but killing the admiral (leverage) pins *Headless* on the whole formation. And the fleet can vaporize the Hand's position, if it can find one person in the smoke.
+The lone Fist on the flagship's bridge can't cut down a fleet with a sword — but killing the admiral (leverage) pins *Headless* on the whole formation. And the fleet can vaporize the Fist's position, if it can find one person in the smoke.
 
 ## Worked Example — The Anvil of Callis Reach
 
@@ -55,7 +55,7 @@ The lone Hand on the flagship's bridge can't cut down a fleet with a sword — b
 **Exchange 1.**
 *Yara (Head — Strategist)* channels the *Vindicta*: "Goal — draw both corvettes out of formation toward the refinery debris." Pool 3, +1 Commit (1 Intelligence stock, Ready — their patrol doctrine, bought dear last season), +1 Position (she chose this debris field) = 5 vs. the corvettes' 3. **Win.** Corvettes take *Out of Position*; **Corridor Open: 5 left.**
 
-*Dez (Hand — Breaker)*, already aboard the *Anvil* from an earlier infiltration — Personal against Host, no strain without leverage. "Goal — I'm *making* leverage: charges on the primary magazine." Physical 4 vs. difficulty 4. **Tie — costly success.** Charges set, leverage established; the cost: boarding alarms. Dez is *Hunted* aboard.
+*Dez (Fist — Breaker)*, already aboard the *Anvil* from an earlier infiltration — Personal against Host, no strain without leverage. "Goal — I'm *making* leverage: charges on the primary magazine." Physical 4 vs. difficulty 4. **Tie — costly success.** Charges set, leverage established; the cost: boarding alarms. Dez is *Hunted* aboard.
 
 *GM (the Anvil acts):* Host guns rake the militia barges — one tier down, 2 strain on a win. Anvil 4 +1 (Long, uncontested range) = 5 vs. militia 3. **Rolls 21 vs 9 — a Triumph.** The militia marks 2, and the boon pins *Routed*. The dockhands break.
 

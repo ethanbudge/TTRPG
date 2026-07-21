@@ -22,7 +22,7 @@ There is no board, no winning, and no losing the game itself. There is only what
 
 **Brand new?** Read this page, then [How the Game Works](core/overview.md), then one [example of play](examples/overview.md). That's enough to join a game.
 
-**Building a character?** [Character Creation](characters/creation.md) walks you through it, and the [seven Seats](characters/classes.md) are where the fun lives.
+**Building a character?** [Character Creation](characters/creation.md) walks you through it, and the [nine Seats](characters/classes.md) are where the fun lives.
 
 **Running the game?** The three load-bearing chapters are [Contests](core/contests.md), [The Faction Turn](faction/faction-turn.md), and [Conflict](combat/overview.md). The [GM Guide](gm/running.md) and [Genre Frames](gm/genre-frames.md) carry the rest, and the [reference sheets](appendix/quick-reference.md) belong at your elbow.
 
@@ -35,7 +35,7 @@ If a word confuses you, the [Glossary](appendix/glossary.md) has it.
 | Section | What's inside |
 | --- | --- |
 | **Core Rules** | The dice, the four stats, and how harm works |
-| **Characters** | Your officer, the seven Seats and their callings, gifts and flaws, advancement |
+| **Characters** | Your officer, the nine Seats and their callings, gifts and flaws, advancement |
 | **The Faction** | The shared faction sheet, its resources and holdings, and the turn that keeps it alive |
 | **Conflict** | Fights, chases, standoffs, and wars — personal and organizational — with worked examples |
 | **Examples in Play** | Real-table scenes across genres and group sizes, including a full session zero |

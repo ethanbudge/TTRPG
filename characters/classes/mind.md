@@ -1,45 +1,45 @@
 # The Mind
 
-> *"The Senate banned the engine. The Guild burned the plans. The plans were never the important part."*
-> — Master Artificer Odessa Vane, at her third trial
+> *"By the time the Senate voted, I had read the vote, the recount, and the three careers it would end. I attended for the pleasure of watching."*
+> — Loremaster Adrin Vwhere
 
-The Mind holds the Seat of **expertise and the impossible**: the engineer, wizard, surgeon, forger, alchemist, ritualist, or systems operator. Every setting has an art that bends its rules — medicine, sorcery, code, chemistry — and the Mind has given their life to one of them.
+The Mind holds the Seat of **knowledge and foresight**: the sage, scholar, scribe, strategist, or seer. Where the [Arm](characters/classes/arm.md) makes and mends, the Mind *knows* — reads the past, solves the present, and models the future, whether by scholarship, game theory, or genuine prophecy. The Mind is the faction's memory and its crystal ball.
 
-## Core Feature — Of Course I Can
+## Core Feature — The Long Calculation
 
-Once per session, name a feat of your art that the table agrees is possible for your discipline but absurd under pressure — recalibrating the drive mid-burn, open-heart surgery in a moving wagon, forging the treaty overnight. The GM must allow the goal to be attempted, and you roll it with an edge. Your art doesn't make the impossible safe. It makes it *available*.
+Once per scene, model what's coming: name a situation and roll Mental against 3. Win: the GM tells you one concrete, useful truth about how it is about to develop — an opponent's next move, a hidden danger, the variable everyone else missed — and you gain an edge acting on it. Loss: the picture stays clouded; you learn nothing certain, but you've lost nothing but the guess.
 
 ## Faction Synergy
 
-**Develop** actions (research, construction, innovation) gain an edge when a Mind helps run them. If the faction has more than one Mind, it also gains 1 extra internal Mental stock at [Income](faction/faction-turn.md#1--income).
+**Develop** actions (research, analysis, doctrine, long-range planning) gain an edge when a Mind helps run them. If the faction has more than one Mind, it also gains 1 extra **internal Mental** stock (*Expertise*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 
 | Feature | Effect |
 | --- | --- |
-| **Jury-Rig** | Once per conflict, work your art on whatever's at hand and choose what the result does: it opens one barred way (a door, a channel, a wound closed), or it grants a Personal Resource edge to one contest, or it serves as a protection tag. Whatever it was, it dies spectacularly when the conflict ends. |
-| **Initiate's Sight** | After real time inside a structure, system, or working, roll Mental against 3. Win: you know its layout, its weak point, and one secret it keeps. Loss: the layout only — and one thing you think you know is wrong. |
-| **The Good Stuff** | Your personal kit is masterwork. Each session, choose one extra tag for it — protection or descriptive. |
-| **Triage** | Once per conflict, treat a person or machine: clear 1 strain, or downgrade one condition (hard → normal, conflict → momentary). |
-| **Peer Review** | Your aid on Mental contests doesn't count against the one-Aid limit. Two practitioners of the art genuinely are better than one. |
-| **Forbidden Working** | You keep one working the world says should not exist — name it with the GM: the engine that eats distance, the ink that remembers, the blade that sings. It grants one impossible permission when used. Each use in a conflict, roll Mental against 3 afterward; on a loss, the working exacts its price — a condition, a rumor, attention from something that collects such things. |
+| **Peer Review** | Your aid on Mental contests doesn't count against the one-Aid limit. Two scholars of the art genuinely are better than one. |
+| **Polymath** | Edge on contests of pure knowledge, recall, and academic skill. You have studied a little of everything, and it shows at the worst moments for whoever bet against you. |
+| **Cryptology** | Edge on codes, ciphers, dead languages, and hidden meanings. Once per session, decode or translate the one thing the situation turns on. |
+| **The Gambit** | Study an opponent for an exchange, then predict their approach aloud. If they act as you called it, they take a snag and you gain an edge against them — game theory, made flesh. |
+| **Forewarned** | When you brief allies on something you've foreseen or studied, up to two of them gain a primed edge against it. Knowing is half; telling the right people is the other half. |
+| **Forbidden Lore** | You hold one piece of knowledge the world agrees should stay buried — a true name, a broken law of nature, a heresy that works. It grants one impossible permission when invoked; each use in a conflict, roll Mental against 3 afterward, and on a loss the knowledge extracts its price. |
 
 ## Callings
 
-### The Artificer — *makes the future*
-
-Your workshop is where the setting changes.
-
-**Signature — Works of Wonder:** on project countdowns you personally lead, even your losses strike 1 segment — genius profits from failure. Once per campaign arc, you may propose a wonder that bends the setting's rules — an airship, a vaccine, an ansible — as a faction project.
-
-### The Sage — *already read about it*
+### The Sage — *what was*
 
 Somewhere in the archive, the old songs, or the burned library's surviving crate, this exact problem has happened before.
 
-**Signature — I've Read About This:** once per session, when facing a mystery your studies could plausibly cover, roll Mental against 3. Win: the GM answers one question truthfully and completely. Triumph: and hands you a connection nobody else has made. Loss: a half-remembered account — one true detail, and the certain knowledge that your sources had a gap.
+**Signature — I've Read About This:** once per session, facing a mystery your studies could plausibly cover, roll Mental against 3. Win: the GM answers one question truthfully and completely. Triumph: and hands you a connection nobody else has made. Loss: a half-remembered account — one true detail, and the certainty that your sources had a gap.
 
-### The Operator — *one with the machine*
+### The Oracle — *what will be*
 
-Pick your system at creation — vehicles, networks, bodies, wards. Inside it, you don't think. You flow.
+Cards, entrails, market futures, the pattern in the noise. You see it coming.
 
-**Signature — In the Zone:** while operating your chosen system, once per conflict you may reroll one of your dice.
+**Signature — The Sight:** once per session, ask the GM what is likely to come to pass if the present course holds. You receive a true glimpse of a near-future turn of events — and you, and any ally you warn, gain a primed edge to meet it or a chance to bend it away before it lands.
+
+### The Savant — *what is*
+
+Give the Savant the unsolvable problem and a little quiet. That's all it ever takes.
+
+**Signature — Solved It:** once per session, declare you have cracked an intractable problem the table agrees is possible-but-absurd under pressure — the sealed cipher, the impossible proof, the unwinnable position. Roll Mental with an edge. Win: a real, usable solution is yours. Tie: a solution with a catch the GM names. Loss: you know exactly what you'd need to finish, and you don't have it yet.

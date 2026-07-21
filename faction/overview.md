@@ -1,5 +1,8 @@
 # The Faction
 
+> *"A rival you can kill. A faction you have to disappoint, defund, and outlast. Give me the rival any day of the week."*
+> — a tired inquisitor, retiring
+
 The faction is the game's shared character. It sits in the middle of the table, everyone plays it, and it uses rules you already know: the same four [stats](core/stats.md), the same 1–5 pools, its own strain boxes, its own [gift and flaw](characters/traits.md#the-factions-gifts--flaws).
 
 ## The Faction Sheet

@@ -1,5 +1,8 @@
 # Gifts & Flaws
 
+> *"Everyone worth a story has a gift and everyone worth a story has a crack. Show me one with neither and I'll show you the scenery."*
+> — a playwright of the Vael court, twice exiled for accuracy
+
 The Party has no ancestries and no race features. Instead, every character takes **two gifts and one flaw** — traits open to anyone, in any genre. The mechanical text of each is fixed; what it looks like is yours. *Night Eyes* might be elf blood, cybernetic pupils, a cave-born childhood, or a saint's favor.
 
 Gifts and flaws are mirror images. A gift grants an edge on a narrow slice of life; a flaw imposes a [snag](core/contests.md#edges-and-snags) on one. Both are permanent, both are visible on your sheet, and both should come up every few sessions — if one never does, sharpen it with the GM.

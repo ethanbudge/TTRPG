@@ -2,7 +2,7 @@
 
 A full seven-player table running **Smoke & Brass** ([genre frame](gm/genre-frames.md#smoke--brass--a-steampunk-insurgency)) — the night the Movement decides to hold Fettler's Junction against the Ministry of Order. A [faction conflict](combat/faction.md) with everything switched on: all four resource moves, doubled Seats, mixed [scale tiers](combat/faction.md#scale), and the pacing that keeps a big table fast.
 
-*At the table: the GM · Lena, **Mouth** (Herald) · Rafe, **Eye** (Seeker) · Old Marta, **Spine** (Quartermaster) · Odile, **Heart** (Kindler) · Pieter, **Head** (Firstblade) · and two Hands — Cass (Champion) and Brand (Breaker) — because when the frame says insurgency, two players want to swing hammers, and the game is built for that.*
+*At the table: the GM · Lena, **Mouth** (Herald) · Rafe, **Eye** (Seeker) · Old Marta, **Spine** (Quartermaster) · Odile, **Heart** (Kindler) · Pieter, **Head** (Firstblade) · and two Fists — Cass (Champion) and Brand (Breaker) — because when the frame says insurgency, two players want to swing hammers, and the game is built for that.*
 
 *On the field: the Movement's militia cells (asset, Force 3, strain 3, Sweeping) and the barricade itself. Against them: Ministry constable companies (Company tier, pool 3) and the **Ironshod** — an armored steam-walker (Company tier, Physical 4, strain 3, protection 1). Countdowns: <strong>Hold Until Dawn (6)</strong> against the Ministry's <strong>Break the Junction (6)</strong>. The GM says it plainly: barricades are mortal stakes.*
 
@@ -36,5 +36,5 @@ By the fourth exchange, *Hold Until Dawn* strikes to zero with *Break the Juncti
 At the next faction turn the Junction becomes the Movement's newest holding, born from a *Put Down Roots* countdown three sessions old, and seven players argue happily over what its income line should feed.
 
 <div class="callout" data-title="Worth noticing">
-<p>Seven players, four exchanges, one GM — under two hours. The doubled Hands never stepped on each other: one held the line, one broke things, and their synergy paid a Force stock at the next Income. The resource moves gave the non-fighters a full battle without a single attack roll among them. And the best moment came from the scale rule saying <em>no</em> to a saber and <em>yes</em> to a boarding ladder.</p>
+<p>Seven players, four exchanges, one GM — under two hours. The doubled Fists never stepped on each other: one held the line, one broke things, and their synergy paid a Force stock at the next Income. The resource moves gave the non-fighters a full battle without a single attack roll among them. And the best moment came from the scale rule saying <em>no</em> to a saber and <em>yes</em> to a boarding ladder.</p>
 </div>

@@ -1,5 +1,8 @@
 # Conflict Overview
 
+> *"Every fight I lived through ended the same way — not when someone ran out of blood, but when someone ran out of want."*
+> — Torren, who lived through several
+
 The Party has one conflict system. A cellar knife-fight, a shouted parliamentary ambush, a three-month trade war, and a fleet action in a debris field all run on the same procedure — **exchanges, goals, contests, strain** — at different zoom levels. [Personal Conflict](combat/individual.md) and [Faction Conflict](combat/faction.md) add scale-specific texture; this page is the engine they share.
 
 ## When to Enter Conflict
@@ -21,10 +24,10 @@ Nothing else changes. A goal at Blitz is *"I drag the captain behind the barrica
 
 ## Exchanges & the Spotlight
 
-Each exchange, every actor gets **one goal** — each PC, each significant NPC or rival asset. There is no initiative count:
+Each exchange, **every actor gets one goal** — every PC, and every enemy too. The opposition is not a set of targets waiting their turn to be hit; each significant foe acts each exchange, pressing their own goal, exactly as the players do. There is no initiative count:
 
-- The table picks the order from the situation — who's moving *now*? When in doubt, go around the table, players first.
-- The GM's significant actors take their goals woven between player goals. Mooks and hazards mostly don't take goals at all — they act through **stakes**, arriving as the cost of player losses and ties.
+- The table picks the order from the situation — who's moving *now*? When in doubt, go around the table, players first, then the GM's actors answer.
+- Each significant NPC, rival asset, or nemesis takes its own goal, woven between the player goals. A crowd of **mooks** is the one shortcut: rather than rolling a goal for each, the GM either has them act together as one goal or lets them act through **stakes** — arriving as the cost of a player's loss or tie. A single professional gets a goal; a dozen thugs get one goal between them.
 - A goal is one sentence. If a turn is taking more than a couple of minutes, the GM asks for the sentence, sets the dice, and rolls.
 
 **Goals, not moves.** Declare the outcome you want (*"I want their flank commander dead or fleeing"*), never a mechanic (*"I attack twice"*). The table maps the sentence to a stat, edges, and stakes. Anything a person could try, a goal can attempt — disarm, humiliate, stampede the cattle, hold the door, buy time, change the subject of the war.

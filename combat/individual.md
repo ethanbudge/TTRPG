@@ -5,21 +5,21 @@ Personal conflict is the [conflict engine](combat/overview.md) at human scale: y
 ## The Shape of a Fight
 
 1. The GM sets the clockspeed (usually Blitz), sketches the arena in bands, and names the opposition out loud — pools, strain, visible tags, and whether this conflict can kill. The Party doesn't hide the enemy's dice; tension comes from odds, not ignorance.
-2. Each exchange: every actor declares one goal and resolves one contest. Harm on a lost contest is 1 strain, 2 on a Disaster. [Protection](core/strain-and-conditions.md#protection) absorbs; [conditions](core/strain-and-conditions.md#conditions) change what's possible.
+2. Each exchange: every actor declares one goal and resolves one contest — the players *and* every enemy that can act, each pressing their own goal. Harm on a lost contest is 1 strain, 2 on a Disaster. [Protection](core/strain-and-conditions.md#protection) absorbs; [conditions](core/strain-and-conditions.md#conditions) change what's possible.
 3. The fight ends when a side's will breaks — broken actors, a settled objective, terms offered. Most fights end inside three to five exchanges. If it's dragging, the GM escalates stakes or offers terms.
 
 ## Opposition Templates
 
 | Threat | Pool | Strain | Notes |
 | --- | --- | --- | --- |
-| Mook / obstacle | 2 | 1–2 | Usually acts via stakes, not goals; *Sweeping* goals clear groups |
-| Professional | 3 | 3 | One tag or trick |
+| Mook / obstacle | 2 | 1–2 | A crowd acts as one goal or via stakes; *Sweeping* goals clear groups |
+| Professional | 3 | 3 | One tag or trick; takes its own goal each exchange |
 | Lieutenant | 4 | 4 | A gift-equivalent and a protection tag |
-| Nemesis | 4–5 | 5 | Features like a PC; earns their name |
+| Nemesis | 4–5 | 4–5 | Features like a PC; earns their name |
 
 ## Worked Example — The Grinning Lantern Goes Loud
 
-*Fantasy frame. Sable (**Eye**, Physical 3 / Mental 4) and Brakk (**Hand — Warden**, Physical 4) are extracting a defecting clerk from a tavern when four Consortium tariff men (mooks, pool 2, strain 1) and their captain, Ossler (lieutenant, pool 4, strain 4, protection 1), block the door. Clockspeed: Blitz. Arena: taproom, Contact to Close. The GM notes the stakes plainly: steel is out — this one can kill.*
+*Fantasy frame. Sable (**Eye**, Physical 3 / Mental 4) and Brakk (**Fist — Warden**, Physical 4) are extracting a defecting clerk from a tavern when four Consortium tariff men (mooks, pool 2, strain 1) and their captain, Ossler (lieutenant, pool 4, strain 4, protection 1), block the door. Clockspeed: Blitz. Arena: taproom, Contact to Close. The GM notes the stakes plainly: steel is out — this one can kill.*
 
 **Exchange 1.**
 *Sable:* "Goal — I get the clerk to the cellar stairs before anyone can grab her." Physical 3, +1 edge (*Small*, weaving the crowd) = 4 dice vs. the mooks' 2. **Rolls 16 vs 7 — a Triumph.** The clerk reaches the stairs, and Sable spends the boon priming an edge for Brakk ("I shoulder a table over as cover — go!").

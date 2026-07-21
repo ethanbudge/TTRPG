@@ -10,6 +10,8 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Aid** — Helping an ally's roll. One helper grants one *edge* by saying how — and shares the consequences.
 
+**Arm** — The *Seat* of building and repair: engineer, artificer, wright, sapper, shipwright.
+
 **Asset** — Faction property that can act: a strike team, a spy ring, a gunboat. Has a rating (its dice), 3 strain boxes, and a place on the map.
 
 **Band** — One of four distances: **Contact, Close, Far, Distant**. Sized relative to the arena — a band spans a room in a brawl and a star system in a fleet action.
@@ -38,7 +40,7 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Disaster** — Losing a contest by 8 or more. The stakes land hard, and harm marks 2 strain.
 
-**Downtime** — Each character's personal move during the *faction turn*: recover, treat, prepare, work, scheme, or tend the flame.
+**Downtime move** — A *personal move* a character may take on the *faction turn* instead of a faction action: Prepare, Recover, Pursue, or Reach Out.
 
 **Edge / Snag** — One die added to (edge) or removed from (snag) a pool. Pools stay between 1 and 5; extra edges past 5 strip dice from the opposition.
 
@@ -46,7 +48,11 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Faction** — The organization the player characters belong to. Shared by the whole table; has stats, a Ledger, holdings, a gift, a flaw, and *Cohesion*.
 
-**Faction turn** — The twenty-odd minutes when the faction earns, pays its *Keep*, acts, and everyone takes *downtime*. Runs whenever the GM lets real time pass.
+**Faction turn** — The twenty-odd minutes when the faction earns (Income), pays its *Keep*, and each player takes one move — a faction action or a *downtime move*. Runs whenever the GM lets real time pass.
+
+**Fist** — The *Seat* of force and protection: champion, enforcer, bodyguard, siege-breaker.
+
+**Heel** — The *Seat* of movement and reconnaissance: scout, ranger, pilot, navigator, messenger.
 
 **Flaw** — A gift in reverse: a permanent, narrow *snag* with a life of its own. Characters start with one; *scars* add more. The faction has one too.
 
@@ -60,13 +66,15 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Hone** — The free feature upgrade earned at every 15 lifetime *perks*.
 
-**Keep** — The faction's cost of existing: the short list of needs paid at each *faction turn*. Unpaid needs mean [going hungry](faction/resources.md#going-hungry).
+**Keep** — The faction's cost of existing: the short list of needs settled at each *faction turn*. A **consumed need** is spent each turn (rations); a **standing need** must merely be present (a garrison's loyalty). Unmet needs mean [going hungry](faction/resources.md#going-hungry).
 
 **Ledger** — The faction sheet's list of every *stock* it owns — type, place, and *accessibility*.
 
 **Perk** — The currency of growth, awarded by the GM and spent on personal or faction *advances*.
 
-**Primed** — An edge set up in advance for a specific character — by an ally's set-up goal, or by Prepare in *downtime*. One at a time, and it expires when the conflict (or the job) ends.
+**Personal move** — See *downtime move*.
+
+**Primed** — An edge set up in advance for a specific character — by an ally's set-up goal, or by Prepare on the *faction turn*. One at a time, and it expires when the conflict (or the job) ends.
 
 **Protection tag** — Armor, cover, or its social equivalent: once per conflict, negate 1 incoming *strain*.
 
@@ -76,7 +84,9 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Scene** — One continuous piece of the story in one place and time. The GM calls when a scene ends.
 
-**Seat** — Your role in the faction: Head, Mouth, Hand, Eye, Mind, Heart, or Spine. Describes your place in the organization, never your day job.
+**Seat** — Your role in the faction: Head, Mouth, Fist, Eye, Heel, Mind, Arm, Heart, or Spine. Describes your place in the organization, never your day job.
+
+**Standing need** — A *Keep* need that must be present but is never spent (a garrison's loyalty, a shrine's holiness); it fails only when that stock leaves.
 
 **Session** — One sitting of play, typically 2–4 hours.
 

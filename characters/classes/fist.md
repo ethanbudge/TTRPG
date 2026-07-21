@@ -1,9 +1,9 @@
-# The Hand
+# The Fist
 
 > *"The door held for eight minutes. Torren held for eleven."*
 > — after-action report, the Red Landing mutiny
 
-The Hand holds the Seat of **force and protection**: the champion, enforcer, marine, duelist, bodyguard, gunslinger, or siege engineer. Every faction needs one, even the gentle ones — especially the gentle ones. The Hand is the only Seat allowed to bend the small-numbers rule, because absorbing punishment is the job.
+The Fist holds the Seat of **force and protection**: the champion, enforcer, marine, duelist, bodyguard, or siege-breaker. Every faction needs one, even the gentle ones — especially the gentle ones. The Fist is the only Seat allowed to bend the small-numbers rule, because absorbing punishment is the job.
 
 ## Core Feature — Interpose
 
@@ -11,7 +11,7 @@ Twice per session, when an ally within Contact or Close range would mark strain,
 
 ## Faction Synergy
 
-**Strike** actions and contests to defend the faction's places and people gain an edge when a Hand helps run them. If the faction has more than one Hand, it also gains 1 extra external Physical stock at [Income](faction/faction-turn.md#1--income).
+**Strike** actions and contests to defend the faction's places and people gain an edge when a Fist helps run them. If the faction has more than one Fist, it also gains 1 extra **external Physical** stock (*Force*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 
@@ -36,7 +36,7 @@ Single combat is the oldest theater, and you are its star.
 
 You are the wall between the faction and the world.
 
-**Signature — Aegis:** you carry two extra protection tags (refresh each conflict), and you may spend your protection tags to negate strain for anyone within Contact range.
+**Signature — Aegis:** you carry one extra protection tag (refreshes each conflict), and you may spend your protection tags to negate strain for anyone within Contact range, not just yourself.
 
 ### The Breaker — *against the wall itself*
 

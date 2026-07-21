@@ -2,7 +2,7 @@
 
 A five-player table running **the Big Job** ([genre frame](gm/genre-frames.md#the-big-job--a-modern-crew-assembles-a-heist)) — a modern crew whose faction is a garage, a fence, and a reputation. Tonight: the vault of Marlowe & Associates, private bank to people who don't use banks.
 
-*At the table: the GM · Dana as **Rook** (Head, Strategist) · Leo as **Tam** (Eye, Shadow) · Grace as **Wires** (Mind, Operator — chosen system: networks) · Sofia as **Delle** (Mouth, Idol) · Ben as **Coyle** (Spine, Fixer).*
+*At the table: the GM · Dana as **Rook** (Head, Strategist) · Leo as **Tam** (Heel, Shadow) · Grace as **Wires** (Arm, Mechanic) · Sofia as **Delle** (Mouth, Idol) · Ben as **Coyle** (Spine, Fixer).*
 
 ## The Brief
 
@@ -10,7 +10,7 @@ Planning doesn't drag: the crew states the shape of the job and banks what prepa
 
 ## The Job, Until It Isn't
 
-Tam ghosts in through the freight elevator (win). Wires loops the cameras from a bakery Wi-Fi across the street (win). Delle keeps the night manager charmed in the lobby (win — he hands her his keycard *voluntarily*, "just for a moment"). Then the vault.
+Tam ghosts in through the freight elevator (win — *Vanish* means he was never on a single frame of tape). Wires splices the camera loop from a bakery Wi-Fi across the street (win). Delle keeps the night manager charmed in the lobby (win — he hands her his keycard *voluntarily*, "just for a moment"). Then the vault.
 
 <div class="callout example" data-title="The tie that turns the night">
 <p><span class="speaker">Grace (Wires):</span> "Goal — I want the vault's time-lock convinced it's 6 a.m. Friday." <em>Mental 4, primed edge from the War Council, 1 War Chest stock committed, and her own signal cloner — a Personal Resource if anything ever was. Four plus three: the pool caps at 5, and the leftover edge overflows, stripping the vault's Formidable 5 to 4.</em> "Rolling: 18."</p>
@@ -20,7 +20,7 @@ Tam ghosts in through the freight elevator (win). Wires loops the cameras from a
 ## Ninety Seconds, Five Goals
 
 <div class="callout example" data-title="One exchange around the whole table">
-<p><span class="speaker">Dana (Rook):</span> "<em>Contingency.</em> That tie is exactly the kind of wrong we planned for. Revealing it: the getaway isn't the van — it's the armored courier truck Marlowe's expects at dawn, which Coyle's guy delivered early. It's parked in their own loading dock."</p>
+<p><span class="speaker">Dana (Rook):</span> "<em>Contingency.</em> That tie is exactly the kind of wrong we planned for. I'm declaring the getaway was never the van — it's the armored courier truck Marlowe's expects at dawn, delivered early by Coyle's guy, parked in their own loading dock." <em>Mental against 3 for a save this big: 15 to 9 — the plan was real.</em> "It's been sitting there since midnight."</p>
 <p><span class="speaker">Leo (Tam):</span> "Goal: the Aldana deposit boxes, emptied before that phone gets answered." <em>Physical 4 vs 3: 18–10 — a Triumph.</em> "Strike The Take twice. Two segments left."</p>
 <p><span class="speaker">Sofia (Delle):</span> "I'm still in the lobby with a terrified night manager. Goal: he remembers me as the woman who <em>saved</em> him tonight." <em>Emotional 4 +1 Position — he already trusts her: 19 to 7, a Triumph.</em></p>
 <p><span class="speaker">GM:</span> "He will tell the police a story with no Delle in it, forever — and your boon makes it better: he walks you out the front door on his own arm. Response Arrives ticks anyway. Sirens, distant. Wires — the dock cameras?"</p>

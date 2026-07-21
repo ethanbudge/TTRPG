@@ -55,7 +55,7 @@ A condition isn't a stun. It's the situation growing a fact that every later rol
 ## The Perk Question — [Advancement](characters/advancement.md)
 
 <div class="callout example" data-title="A courtyard at dusk — any genre">
-<p><span class="speaker">Dev (Brakk, the Hand):</span> "Four perks banked. I could finally take <em>Terror of the Field</em>…"</p>
+<p><span class="speaker">Dev (Brakk, the Fist):</span> "Four perks banked. I could finally take <em>Terror of the Field</em>…"</p>
 <p><span class="speaker">GM:</span> "The recruits are drilling in the courtyard below your window. Badly."</p>
 <p><span class="speaker">Dev:</span> "…or three perks turns them into an actual strike team. The whole guild fights better, or <em>I</em> do."</p>
 <p><span class="speaker">Maya:</span> "The guild watched you spend the last one on yourself."</p>

@@ -1,5 +1,8 @@
 # Perks & Advancement
 
+> *"Nobody at this table hits harder than they did last year. They've just run clean out of ways to be surprised."*
+> — a retired duelist, on what makes a veteran dangerous
+
 There are no levels and no experience points. There is one currency — the **perk** — and one recurring question: yourself, or the faction?
 
 ## Earning Perks
@@ -50,4 +53,4 @@ The GM approves combinations. A feature can be honed twice, with different templ
 
 ## Power From Session One
 
-A starting character with a 4 beats standard opposition three times in four on day one, and advancement never moves that number much — the stat cap is 5, pools clamp at 5 dice, and strain boxes never multiply (one exception, and it belongs to the [Hand](characters/classes/hand.md)). What advancement buys is breadth: more features, more tricks, more of the faction's machinery answering to you. A veteran of thirty sessions isn't harder to kill than a rookie. They're harder to *corner*.
+A starting character with a 4 beats standard opposition three times in four on day one, and advancement never moves that number much — the stat cap is 5, pools clamp at 5 dice, and strain boxes never multiply (one exception, and it belongs to the [Fist](characters/classes/fist.md)). What advancement buys is breadth: more features, more tricks, more of the faction's machinery answering to you. A veteran of thirty sessions isn't harder to kill than a rookie. They're harder to *corner*.

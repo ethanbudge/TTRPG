@@ -8,12 +8,14 @@
 
 - Characters
   - [Character Creation](characters/creation.md)
-  - [The Seven Seats](characters/classes.md)
+  - [The Nine Seats](characters/classes.md)
     - [The Head](characters/classes/head.md)
     - [The Mouth](characters/classes/mouth.md)
-    - [The Hand](characters/classes/hand.md)
+    - [The Fist](characters/classes/fist.md)
     - [The Eye](characters/classes/eye.md)
+    - [The Heel](characters/classes/heel.md)
     - [The Mind](characters/classes/mind.md)
+    - [The Arm](characters/classes/arm.md)
     - [The Heart](characters/classes/heart.md)
     - [The Spine](characters/classes/spine.md)
   - [Gifts & Flaws](characters/traits.md)

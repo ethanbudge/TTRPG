@@ -1,5 +1,8 @@
 # Rival Factions
 
+> *"We are one wolf in a wood full of wolves. Survival begins with never forgetting the second half of that sentence."*
+> — attributed to three different Upright Men, all of whom died
+
 The world is full of organizations that want what yours wants. Rivals use the same anatomy as the players' faction, compressed to what the GM actually needs at the table.
 
 ## The Rival Sheet

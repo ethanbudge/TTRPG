@@ -1,5 +1,8 @@
 # The Four Stats
 
+> *"Strong, clever, charming, or true. Lead with whichever you like — the day will still come that asks for the one you didn't."*
+> — drill-master's welcome, the Coldharbor levies
+
 Everything in The Party — a person, a squad, a starship, a whole faction — is described by the same four stats. A stat is rated **1 to 5**, and the rating is your dice pool when that stat is contested. There are no derived modifiers and no skill list: read the number, pick up that many dice.
 
 | Stat | A person's… | A faction's… |

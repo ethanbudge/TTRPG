@@ -30,6 +30,19 @@
 | *Headless* | coordinated faction action | crown a new Stronghold |
 | *Oathbreaker* | being trusted, ever | long, public penance |
 
+## Genre-Specific Conditions
+
+Skin the list for your setting. A condition is just a named fact with a snag attached, so mint whatever the genre wants — these are starting stock.
+
+| Setting | Conditions to reach for |
+| --- | --- |
+| **Fantasy** | *Cursed* · *Hexed* · *Marked by the Fae* · *Oathbound* · *Poisoned* · *Blessed* (an edge, not a snag) · *Petrified* (hard) |
+| **Science fiction** | *Irradiated* · *Depressurized* (hard) · *Hacked* · *EMP'd* (hard, to machines) · *Zero-G Adrift* · *Contaminated* · *Flagged by the AI* |
+| **Modern / crime** | *Made* (your cover is blown) · *Wired* (being recorded) · *Tailed* · *Burned* (no longer trusted) · *Concussed* · *Holding Evidence* |
+| **Steampunk / industrial** | *Boiler-Fatigued* · *Sooted* (fouled lungs or lens) · *Overpressured* (hard, to machines) · *Blacklisted by the Ministry* · *Gears Fouled* |
+| **Horror** | *Terrified* (hard — you flee or freeze) · *Marked* (it knows your name) · *Unraveling* (sanity fraying) · *Bleeding Out* (worsens each exchange) · *Alone* |
+| **Political / court** | *Discredited* · *Out of Favor* · *Scandalized* · *Indebted* · *Watched* · *In Someone's Pocket* |
+
 ## Rulings in Five Seconds
 
 - Does the condition plausibly hinder this contest? Snag. Would it not? No snag. The table decides in one breath.

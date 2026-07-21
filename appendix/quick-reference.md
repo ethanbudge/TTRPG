@@ -24,10 +24,10 @@
 
 ## Harm
 
-- Lose a harmful contest: mark **1 strain** (2 on a Disaster). People have 5 boxes; squads and assets 3; mooks 1–2.
-- **Protection tag:** negate 1 strain, once per conflict each.
-- Last box marked = **broken** — the winner narrates, within stakes. Mortal stakes: the player chooses the **scar** (a new flaw; return with 1 box cleared) or the **exit**.
-- Strain clears with a real breather. Conditions persist by tier: momentary / conflict / lasting / permanent.
+- Lose a harmful contest: mark **1 strain** (2 on a Disaster). Strain boxes: PCs & elites **5**; nemeses, tough lieutenants, war machines **4**; squads & professionals **3**; mooks **1–2**.
+- **Protection tag:** negate 1 strain, once per conflict each — unless the GM rules it doesn't apply to this threat (said in advance).
+- Last box marked = **broken** — out for the rest of the fight. The winner narrates, within stakes. Mortal stakes: the player chooses the **scar** (a new flaw; return next time with 1 box cleared) or the **exit**. A broken ally only gets back up this fight via the [Heart's Get Up](characters/classes/heart.md).
+- Strain clears with a real breather (a thin one clears only 1–2). Conditions persist by tier: momentary / conflict / lasting / permanent.
 - **Condition:** −1 die where it plausibly applies. **Hard conditions** also forbid an action type; they always land with a named exit.
 
 ## Countdowns

@@ -1,6 +1,6 @@
 # Three Players and a Throne
 
-A small table running **the Crooked Mitre** ([genre frame](gm/genre-frames.md#the-crooked-mitre--a-medieval-religion-takes-a-kingdom)) — a heretical order maneuvering its faith toward the crown of Vael. Three players, no [Hand](characters/classes/hand.md), no [Eye](characters/classes/eye.md), and a campaign about why they don't need them.
+A small table running **the Crooked Mitre** ([genre frame](gm/genre-frames.md#the-crooked-mitre--a-medieval-religion-takes-a-kingdom)) — a heretical order maneuvering its faith toward the crown of Vael. Three players, no [Fist](characters/classes/fist.md), no [Eye](characters/classes/eye.md), and a campaign about why they don't need them.
 
 *At the table: the GM · Ines as **Abbess Rochelle** (Head, Sovereign) · Marcus as **Friar Talbot** (Mouth, Herald) · Ana as **Sister Wren** (Spine, Steward).*
 
@@ -19,16 +19,16 @@ The order's rival, Cardinal Osmund, has called a surprise conclave to brand thei
 <p>A conclave uses the exact rules of a sword fight — exchanges, goals, strain, conditions — reskinned per <a href="#/combat/individual?id=duels-of-every-kind">Duels of Every Kind</a>. And the tie produced the session's best scene, which is what ties are for.</p>
 </div>
 
-## The Faction Turn, Three Hands Short
+## The Faction Turn, Three Seats Deep
 
-After the conclave, the GM lets a month pass, and the machine turns. Three players plus Rochelle's Head synergy makes four actions. No Eye means no edge on Spy actions — it does not mean nobody spies.
+After the conclave, the GM lets a month pass, and the machine turns. Each of the three takes one move, and Rochelle — a Head — takes an extra faction action on top: four moves in play, and the table has to decide how to spend them. No Eye means no edge on Spy actions — it does not mean nobody spies.
 
 <div class="callout example" data-title="Working without an Eye">
-<p><span class="speaker">Ana (Wren):</span> "Fourth action: eyes inside Osmund's household. No Eye at this table, so no Seat edge — we do it Wren's way. Goal: place a tithe-auditor in his kitchen accounts." <em>Faction Mental 3, plus 1 stock of</em> Confessional Secrets <em>committed — his cook owes the order a quiet debt. Four dice against his Mental 4: 17 against 14.</em></p>
+<p><span class="speaker">Ana (Wren):</span> "I'm spending my move on a faction action: eyes inside Osmund's household. No Eye at this table, so no Seat edge — we do it Wren's way. Goal: place a tithe-auditor in his kitchen accounts." <em>Faction Mental 3, plus 1 stock of</em> Confessional Secrets <em>committed — his cook owes the order a quiet debt. Four dice against his Mental 4: 17 against 14.</em></p>
 <p><span class="speaker">GM:</span> "The auditor is in. You don't get an Eye's tricks — you get what the dice say: a source. New countdown, <em>Osmund's Ledger Opens</em>, 4 segments, one already struck."</p>
 <p><span class="speaker">Marcus:</span> "Missing Seats just means we do it with our own hands. Slower, weirder, more us."</p>
 </div>
 
-## The Downtime Question
+## Yourself, or the Cause?
 
-The turn ends with downtime, and the session's real cliffhanger isn't the conclave — it's Ana announcing she's saving toward founding a new holding (5 perks): a poorhouse-priory inside the capital walls. Ines points out those perks could raise the faction's Ideological instead. The table adjourns arguing about it, which is the game working.
+Talbot spends his move on the cause too — a Campaign to seed the martyr's tale — but Rochelle uses hers on a **personal move**, *Pursue*: a quiet countdown toward reclaiming her family's confiscated lands, a thread that's all her own. That's the turn's real tension in miniature — every move is a choice between the order and the self. And the session's cliffhanger isn't the conclave at all: it's Wren announcing she's banking perks toward founding a new holding, a poorhouse-priory inside the capital walls, while Rochelle argues those same perks should raise the faction's Ideological instead. The table adjourns mid-argument, which is the game working.

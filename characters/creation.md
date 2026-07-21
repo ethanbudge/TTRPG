@@ -17,13 +17,17 @@ A ship's cook can hold the Heart's Seat. The accountant can be the faction's Eye
 
 ### 2. Seat & Calling
 
-Choose one of the seven Seats — **Head, Mouth, Hand, Eye, Mind, Heart, Spine** — and one of its three **callings**. You get:
+Choose one of the nine Seats — **Head, Mouth, Fist, Eye, Heel, Mind, Arm, Heart, Spine** — and one of its three **callings**. You get:
 
 - your Seat's **core feature**, always on,
 - your calling's **signature feature**,
 - **two more features** from your Seat's list.
 
-Two players holding the same Seat is fine and works as intended — two Hands are a formidable pair. If you double up, consider taking different callings and deciding together what history sits between you: mentor and student, rivals for the same post, siblings in the trade. Missing Seats are also fine; anyone can perform any faction function. Seat-holders just do it with sharper tools.
+Two players holding the same Seat is fine and works as intended — two Fists are a formidable pair. If you double up, consider taking different callings and deciding together what history sits between you: mentor and student, rivals for the same post, siblings in the trade. Missing Seats are also fine; anyone can perform any faction function. Seat-holders just do it with sharper tools.
+
+<div class="callout" id="a-note-on-the-head" data-title="A note on the Head">
+<p>One Seat, the <a href="#/characters/classes/head">Head</a>, is the faction's commander — <em>in the fiction.</em> That is a role the <em>character</em> holds, not the player. Nobody at the table is in charge of anyone else's fun: the Head's player doesn't decide what your character does, doesn't overrule the group, and doesn't get the final word out of character. The Party is a game you build with your friends, and the person playing the boss is just as much a guest at it as everyone else. When the Head barks an order, you choose how your character answers — that tension is the whole point of the Seat.</p>
+</div>
 
 ### 3. Stats
 

@@ -12,7 +12,7 @@ The one constant is the question the game keeps asking: with limited time, limit
 
 ## Who Does What
 
-Each player creates and plays one character — an officer of the faction, holding one of its seven [Seats](characters/classes.md). The Seat describes your role in the organization, not your day job; the ship's cook can be the faction's Heart.
+Each player creates and plays one character — an officer of the faction, holding one of its nine [Seats](characters/classes.md). The Seat describes your role in the organization, not your day job; the ship's cook can be the faction's Heart.
 
 The GM plays everything else: the world, the bystanders, the enemies, and the [rival factions](faction/rivals.md) with agendas of their own. The GM also rolls the opposing dice in every contest. Nothing in The Party is rolled against a silent target number — when you roll, someone rolls back.
 

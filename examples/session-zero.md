@@ -47,8 +47,8 @@ For the faction's traits, the table takes the gift **Beloved** — the harbor pr
 ## The Officers
 
 <div class="callout example" data-title="Character choices, around the table">
-<p><span class="speaker">Maya:</span> "Sable. <a href='#/characters/classes/eye'>Eye</a>, Shadow calling — second-story artist, casing the Consortium's counting house since before it was cool. Focused array, the 4 in Physical. Flaw: <em>Wanted</em>."</p>
-<p><span class="speaker">Dev:</span> "Brakk, <a href='#/characters/classes/hand'>Hand</a>, Warden. Ex-harbor watchman who couldn't stomach the evictions. Gifts: <em>Big</em> and <em>Iron Frame</em>. Flaw: <em>Soft Heart</em> — which, given the soup line, is going to be a problem."</p>
+<p><span class="speaker">Maya:</span> "Sable. <a href='#/characters/classes/eye'>Eye</a>, Seeker calling — she's had the Consortium's counting house cased since before it was fashionable, and she reads a room like a ledger. Focused array, the 4 in Mental. Flaw: <em>Wanted</em>."</p>
+<p><span class="speaker">Dev:</span> "Brakk, <a href='#/characters/classes/fist'>Fist</a>, Warden. Ex-harbor watchman who couldn't stomach the evictions. Gifts: <em>Big</em> and <em>Iron Frame</em>. Flaw: <em>Soft Heart</em> — which, given the soup line, is going to be a problem."</p>
 <p><span class="speaker">Priya:</span> "Vess, <a href='#/characters/classes/mouth'>Mouth</a>, Envoy. She talks to harbormasters, magistrates, and worse. Day job: divorce solicitor. Flaw: <em>Proud</em> — she has never once lost an argument gracefully."</p>
 <p><span class="speaker">Sam:</span> "Mother Halla. <a href='#/characters/classes/heart'>Heart</a>, Shepherd. She runs the soup line out of the cellars — she <em>is</em> the faction flaw. Spiky array: Ideological 4, Emotional 4, Mental 2, and a Physical 1 she intends to make everyone else's problem. Flaw: <em>Soft Heart</em>, obviously."</p>
 <p><span class="speaker">GM:</span> "No Head, no Spine, no Mind. You know that's fine, right? Anyone can lead a faction action — you'll just feel where the style is missing."</p>

@@ -11,7 +11,7 @@ A holding is one line on the faction sheet, not a sub-ledger:
 </div>
 
 - **Gives** — the holding's line in the faction's [Income](faction/faction-turn.md#1--income).
-- **Asks** — its line in the [Keep](faction/faction-turn.md#2--keep). What does this place consume to stay yours?
+- **Asks** — its line in the [Keep](faction/faction-turn.md#2--keep). What does this place need to stay yours — and is that need **consumed** each turn (rations, wages) or merely **standing** (a garrison that must *have* Morale to hold, never spending it)? See [Two Kinds of Need](faction/resources.md#two-kinds-of-need).
 - **Notes** — what makes it itself, including any conditions it's carrying. A holding under real attack defends itself (below); a holding starved too long is eventually lost ([Going Hungry](faction/resources.md#going-hungry)).
 
 One holding is the **Stronghold** — the seat, the mother church, the home port. Losing it drains **2 Cohesion**, and the faction must crown a new Stronghold by the end of the next faction turn or take *Headless* as a lasting condition.
@@ -44,15 +44,15 @@ This is the whole logistics system. Where you stashed the rifles last month deci
 
 ## Areas of Need
 
-Places where the faction operates can carry needs of their own, written into the Keep. A garrisoned border holding asks for Provisions; an occupied district stays sympathetic only while Influence flows; a flock stays faithful for Unity. If the faction expands somewhere new, the GM adds the line: *this is what operating here costs.* Unpaid, these follow the normal [hunger rules](faction/resources.md#going-hungry) — which is how territory is really lost: not stormed, but starved.
+Places where the faction operates can carry needs of their own, written into the Keep. A garrisoned border holding *consumes* Provisions each turn; an occupied district stays sympathetic only while it *has* Influence on hand (a standing need — you never spend it, but the day it's gone, the district remembers it was occupied); a flock stays faithful for Unity. If the faction expands somewhere new, the GM adds the line: *this is what operating here costs.* Unmet, these follow the normal [hunger rules](faction/resources.md#going-hungry) — which is how territory is really lost: not stormed, but starved.
 
 ## Defending What's Yours
 
-When a rival strikes at a holding, cache, or asset, it defends with a normal contest: the faction rolls whichever stat fits the defense — Force met at the barricade is Physical, an infiltration caught is Mental, a smear campaign weathered is Emotional — plus edges from a [Hand's synergy](characters/classes/hand.md), a stationed asset, and any Ready stock committed. Characters present can fight it as a full [conflict](combat/faction.md) instead: their place, their fight. A defense lost means the rival's goal happens — stock taken, the place burned or flipped, the asset mauled.
+When a rival strikes at a holding, cache, or asset, it defends with a normal contest: the faction rolls whichever stat fits the defense — Force met at the barricade is Physical, an infiltration caught is Mental, a smear campaign weathered is Emotional — plus edges from a [Fist's synergy](characters/classes/fist.md), a stationed asset, and any Ready stock committed. Characters present can fight it as a full [conflict](combat/faction.md) instead: their place, their fight. A defense lost means the rival's goal happens — stock taken, the place burned or flipped, the asset mauled.
 
 ## Growing the Map
 
-New holdings come from **Put Down Roots** [faction actions](faction/faction-turn.md#3--actions) — start a 4-segment countdown; each successful action or supporting mission strikes it; at zero the holding opens, and the table writes its Gives and Asks lines with the GM. Or a player spends **5 perks** to found one personally, in which case it's theirs to define and the story should show their fingerprints on it forever.
+New ground comes from **Put Down Roots** [faction actions](faction/faction-turn.md#3--actions) — start a countdown whose length matches what you're planting: a **cache** (2), a **safehouse** (4), a full **holding** (6), a claim on a whole **region** (8). Each successful action or supporting mission strikes it; at zero the thing opens, and the table writes its Gives and Asks lines with the GM. Or a player spends **5 perks** to found a holding personally, in which case it's theirs to define and the story should show their fingerprints on it forever.
 
 ## Assets
 

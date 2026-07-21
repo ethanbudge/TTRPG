@@ -5,13 +5,19 @@
 
 The Mouth holds the Seat of **image and persuasion**: the propagandist, diplomat, media star, herald, hype man, court poet, or comms officer. The Mouth fights on the battlefield of what people believe is true — and that battlefield uses the same dice as any other.
 
-## Core Feature — Spin
+## Core Feature — Hold Court
 
-Once per session, when the faction or an ally suffers a public setback, describe how you reframe the story and roll Emotional against 3. Win: gain 1 stock of the faction's external Emotional pool, or stop one reputation-damaging condition before it sticks. Loss: the true version is already moving, and now your fingerprints are on the counter-story.
+Once per conflict, seize the room: raise your voice, your glass, or your banner, and make yourself the thing everyone present has to reckon with. Roll Emotional against the strongest opposing presence (or a difficulty for an unruly crowd). On a **win, choose two**; on a **tie, choose one**:
+
+- an ally gains a primed edge, lifted by the moment you've made;
+- one foe who can hear you takes a snag as doubt takes root;
+- the mood of the crowd or bystanders shifts to your side — a useful condition on the scene.
+
+On a loss, the spotlight turns on you: the room's attention is yours, but so is its skepticism.
 
 ## Faction Synergy
 
-**Campaign** actions (influence, propaganda, diplomacy) gain an edge when a Mouth helps run them. If the faction has more than one Mouth, it also gains 1 extra external Emotional stock at [Income](faction/faction-turn.md#1--income).
+**Campaign** actions (influence, propaganda, diplomacy) gain an edge when a Mouth helps run them. If the faction has more than one Mouth, it also gains 1 extra **external Emotional** stock (*Influence*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 

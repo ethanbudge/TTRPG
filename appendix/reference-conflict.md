@@ -10,11 +10,15 @@
 
 ## Each Exchange
 
-- Every actor gets **one goal**, one sentence, resolved as one contest. No initiative — the situation picks the order; when in doubt, players first.
-- Mooks mostly act through **stakes** — as the cost of player losses and ties — not through goals of their own.
+- **Every actor gets one goal** — every PC *and* every enemy that can act. One sentence, one contest. No initiative — the situation picks the order; when in doubt, players first, then the GM's actors answer.
+- A crowd of **mooks** is the shortcut: they act as one shared goal, or through **stakes** (the cost of player losses and ties). One professional gets a goal; a dozen thugs get one between them.
 - **Defending is free**: opposing someone's goal never consumes yours.
 - **Movement:** one band rides along with your goal if unopposed; two or more bands is the whole goal.
 - **Set-up:** any win can **prime an edge** for a named ally instead of taking effect. One primed edge held per character; expires with the conflict.
+
+## Harm & Strain
+
+Lose a harmful contest: mark **1 strain** (2 on a Disaster). Strain boxes by actor: PCs & elites **5** · nemeses, tough lieutenants, war machines **4** · squads & professionals **3** · mooks **1–2**. **Protection tags** negate 1 each per conflict — but the GM may rule a tag doesn't apply to a given threat (said in advance). Last box = **broken**: out for the rest of the fight, even if you took a scar. Only the [Heart's Get Up](characters/classes/heart.md) puts a broken ally back on their feet.
 
 ## Ending
 
