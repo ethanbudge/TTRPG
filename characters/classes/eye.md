@@ -1,44 +1,45 @@
 # The Eye
 
-*The faction sees what you see. Pray you see it first.*
+> *"You've been sitting in my chair for six minutes. In four more, my colleagues stop photographing your driver."*
+> — intercepted recording, source unknown
 
-The Eye is the office of **secrets and infiltration**: the spy, scout, hacker, inquisitor, second-story artist, or sensor officer. Information is the one resource that moves faster than armies, and the Eye is its harvester.
+The Eye holds the Seat of **secrets and intelligence**: the spymaster, analyst, inquisitor, handler, or sensor officer. The Eye is where the faction *knows* things — who is lying, what a rival will do next, which secret is worth a war. The hands-on work of getting into the room belongs to the [Heel](characters/classes/heel.md); the Eye is the mind that decides which room matters.
 
-## Core Feature — I Was Never Here
+## Core Feature — The Mark
 
-Once per scene, retroactively establish that you were somewhere unnoticed nearby, within plausibility. Arrive in scenes uninvited; exit them unseen. A contest is only needed if someone was actively watching for you.
+Name a person, faction, or place as your **mark**. You gain an edge on every contest to study, anticipate, expose, or see through that mark, and you can never be caught off guard by it. You hold one mark at a time; turning your attention to a new one takes real time — usually a downtime move, sometimes a quiet night with the files.
 
 ## Faction Synergy
 
-**Spy** and **Sabotage** actions gain an edge when an Eye helps run them. If the faction has more than one Eye, it also gains +1 external Mental stock (*Intelligence*) at the Yield step.
+**Spy** and **Sabotage** actions gain an edge when an Eye helps run them. If the faction has more than one Eye, it also gains 1 extra **external Mental** stock (*Intelligence*) at [Income](faction/faction-turn.md#1--income).
 
-## Class Features (start with two)
+## Seat Features (start with two)
 
 | Feature | Effect |
 | --- | --- |
-| **Dossier** | Once per session, reveal you already hold a file on a named person or place: ask the GM two questions, get true answers, and gain an edge when acting on them. |
-| **Shadow Network** | If you spent any downtime working your sources, you personally add 1 Intelligence stock at the faction turn's Yield step. |
-| **Tail** | Gain an edge on following or observing unnoticed. Against a target you've observed for a full scene, your first contest gains an additional edge — patience is a weapon. |
-| **Lockstep** | Bring one ally through your infiltrations: your stealth results cover both of you, and your *I Was Never Here* can place you both. |
-| **Poisoned Well** | When you successfully feed false information to an enemy, their next contest or faction action based on it suffers two setbacks. |
-| **Vanish** | Once per session, when everything goes wrong, you are simply not caught. Exit the scene without a contest; explain the improbable escape whenever you're ready. |
+| **Dossier** | Once per session, reveal you already hold a file on a named person or place, and roll Mental against 3. Win: ask the GM two questions and get true answers. Loss: one true answer, and gathering the file left a trace someone could find. |
+| **Shadow Network** | When the story gives you days to work your sources, roll Mental against 3. Win: add 1 external Mental stock to the faction, placed where your sources sit (2 on a Triumph). Loss: nothing solid, and one of your sources asks a favor. |
+| **Poisoned Well** | When you successfully feed false information to an enemy, their next contest or faction action built on it takes two snags. |
+| **Overwatch** | When you spend your exchange watching rather than acting, name what you're looking for. Until your next turn, any ally who acts on the intelligence you call out gains an edge, and you may reveal one hidden thing about the scene. |
+| **Cold Read** | Edge on contests to judge whether someone is lying, afraid, bluffing, or about to break. Once per session, ask the GM one true thing a target is trying to hide. |
+| **Counterintelligence** | Rival Spy and Sabotage actions against the faction take a snag while you're active, and when one fails, you may learn who sent it. |
 
 ## Callings
 
-### The Shadow — *goes where nothing goes*
-
-Locked doors and sealed decks are suggestions.
-
-**Signature — Ghost Protocol:** once per session, ignore one hard condition or barrier restricting movement or perception — the lockdown, the tractor field, the sealed vault — entirely, for you alone.
-
 ### The Broker — *everyone talks eventually*
 
-You don't sneak. You *own people who sneak.*
+You don't gather secrets. You *own* them, and set their price.
 
-**Signature — Everyone Talks to Me:** once per faction turn, convert 1 Intelligence stock into any other external stock, or trade 2 Intelligence for any 2 stock. Secrets are the universal currency, and you set the exchange rate.
+**Signature — Everyone Talks to Me:** once per faction turn, convert 1 external Mental stock into 1 stock of any other external pool, or trade 2 for any 2. Secrets are the universal currency, and you hold the exchange rate.
 
 ### The Seeker — *sees the pattern*
 
-Scout, analyst, precog by way of spreadsheet.
+Analyst, codebreaker, the one who reads the board three moves before it's played.
 
-**Signature — Pattern Recognition:** once per scene, before committing to a goal, demand the GM reveal an opposing pool (dice count and any edges). If you act on that knowledge, gain an edge.
+**Signature — Pattern Recognition:** once per conflict, before committing to a goal, the GM must reveal an opposing pool to you — dice count and any edges.
+
+### The Whisperer — *authors the truth*
+
+You don't hide the lie. You publish it, sign someone else's name, and let it spread.
+
+**Signature — The Bigger Lie:** when you have time to seed a falsehood through your channels, roll Mental against the target's pool to pin a lasting condition of belief — *Discredited*, *Compromised*, *Chasing Ghosts* — on a person, place, or rival faction. While it holds, the target's every plan is built on the story you wrote.

@@ -2,27 +2,275 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>The Party — A Faction-First TTRPG</title>
+  <title>The Party — A Faction-First Tabletop Roleplaying Game</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="The Party: a genre-agnostic, faction-first tabletop roleplaying game.">
+  <meta name="description" content="The Party: a tabletop roleplaying game about belonging to something bigger than yourself. One dice engine for duels, heists, trade wars, and fleet battles.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;0,800;1,400;1,500&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Alegreya+SC:wght@500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <style>
     :root {
-      --theme-color: #b03a2e;
+      --theme-color: #8f2b20;
+      --crimson: #8f2b20;
+      --crimson-deep: #6e1f16;
+      --bronze: #a8834e;
+      --bronze-pale: #d8c49a;
+      --ink: #2b241c;
+      --ink-soft: #55493a;
+      --parchment: #f2ead9;
+      --parchment-deep: #e9dfc8;
+      --page: #fbf7ec;
+      --page-edge: #e3d7bc;
     }
-    .sidebar-nav li ul { font-size: 14px; }
-    .markdown-section table { display: table; width: 100%; }
-    .app-name-link { font-weight: 700; }
-    .cover.show { background: linear-gradient(to bottom right, #2c3e50, #b03a2e) !important; }
-    .cover.show h1, .cover.show h1 a, .cover.show h1 span, .cover.show blockquote, .cover.show p, .cover.show li { color: #f8f5f0 !important; }
-    .cover.show h1 small { color: rgba(248, 245, 240, 0.65) !important; }
-    .cover-main > p:last-child a { border-color: #f8f5f0 !important; color: #f8f5f0 !important; background: transparent !important; }
-    .cover-main > p:last-child a:last-child { background: #f8f5f0 !important; color: #b03a2e !important; }
+
+    /* ————— base type ————— */
+    html, body, main {
+      background: var(--page);
+    }
+    body {
+      font-family: 'Alegreya Sans', 'Gill Sans', 'Segoe UI', sans-serif;
+      color: var(--ink);
+    }
+    .markdown-section {
+      font-family: 'Alegreya', 'Palatino', 'Georgia', serif;
+      font-size: 17.5px;
+      line-height: 1.65;
+      color: var(--ink);
+      max-width: 46em;
+      padding: 2.5rem 2rem 6rem;
+    }
+    .markdown-section p, .markdown-section ul, .markdown-section ol { color: var(--ink); }
+    .markdown-section strong { color: var(--crimson-deep); }
+    .markdown-section a { color: var(--crimson); text-decoration: none; border-bottom: 1px dotted var(--bronze); font-weight: 500; }
+    .markdown-section a:hover { border-bottom: 1px solid var(--crimson); }
+
+    /* ————— headings ————— */
+    .markdown-section h1 {
+      font-family: 'Alegreya', serif;
+      font-weight: 800;
+      font-size: 2.5rem;
+      color: var(--crimson-deep);
+      margin: 0 0 1.6rem;
+      padding-bottom: .8rem;
+      border-bottom: 3px double var(--bronze);
+      position: relative;
+    }
+    .markdown-section h1::after {
+      content: "❖";
+      position: absolute;
+      bottom: -0.72rem;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--page);
+      padding: 0 .6rem;
+      color: var(--bronze);
+      font-size: .9rem;
+    }
+    .markdown-section h2 {
+      font-family: 'Alegreya SC', 'Alegreya', serif;
+      font-weight: 700;
+      font-size: 1.45rem;
+      letter-spacing: .03em;
+      color: var(--crimson);
+      border-bottom: 1px solid var(--bronze-pale);
+      padding-bottom: .25rem;
+      margin: 2.6rem 0 1.1rem;
+    }
+    .markdown-section h3 {
+      font-family: 'Alegreya', serif;
+      font-weight: 700;
+      font-size: 1.18rem;
+      color: var(--ink);
+      margin: 2rem 0 .8rem;
+    }
+    .markdown-section h1 a, .markdown-section h2 a, .markdown-section h3 a,
+    .markdown-section h1 a:hover, .markdown-section h2 a:hover, .markdown-section h3 a:hover,
+    .markdown-section h4 a, .markdown-section h4 a:hover,
+    .markdown-section h5 a, .markdown-section h5 a:hover { border-bottom: none; color: inherit; }
+
+    /* ————— tables: rulebook style ————— */
+    .markdown-section table {
+      display: table; width: 100%;
+      border: 1px solid var(--bronze-pale);
+      box-shadow: none;
+      margin: 1.4rem 0;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-size: .93em;
+    }
+    .markdown-section thead th {
+      background: var(--crimson);
+      color: #f8f2e4;
+      font-family: 'Alegreya SC', serif;
+      font-weight: 700;
+      letter-spacing: .04em;
+      border: none;
+      padding: .55rem .8rem;
+    }
+    .markdown-section td { border: none; border-top: 1px solid var(--page-edge); padding: .5rem .8rem; }
+    .markdown-section tr { border: none; }
+    .markdown-section tbody tr:nth-child(2n) { background: rgba(216, 196, 154, .16); }
+
+    /* ————— blockquotes: margin notes ————— */
+    .markdown-section blockquote {
+      border-left: 4px solid var(--bronze);
+      background: var(--parchment);
+      color: var(--ink-soft);
+      padding: .9rem 1.2rem;
+      margin: 1.4rem 0;
+      border-radius: 0 4px 4px 0;
+    }
+    .markdown-section blockquote p { color: var(--ink-soft); font-size: 1em; }
+
+    /* ————— code ————— */
+    .markdown-section code {
+      background: var(--parchment-deep);
+      color: var(--crimson-deep);
+      border-radius: 3px;
+      font-size: .82em;
+    }
+    .markdown-section pre {
+      background: var(--parchment-deep);
+      border: 1px solid var(--page-edge);
+      border-radius: 4px;
+    }
+    .markdown-section pre > code { background: transparent; color: var(--ink); }
+
+    /* ————— callout boxes ————— */
+    .callout {
+      margin: 1.6rem 0;
+      padding: 1.1rem 1.3rem 1rem;
+      border: 1px solid var(--bronze-pale);
+      border-left: 5px solid var(--bronze);
+      background: linear-gradient(to bottom, rgba(216,196,154,.18), rgba(216,196,154,.06));
+      border-radius: 0 6px 6px 0;
+      font-family: 'Alegreya', serif;
+      font-size: .95em;
+    }
+    .callout::before {
+      content: attr(data-title);
+      display: block;
+      font-family: 'Alegreya SC', serif;
+      font-weight: 700;
+      letter-spacing: .06em;
+      color: var(--bronze);
+      font-size: .9rem;
+      margin-bottom: .5rem;
+    }
+    .callout.example { border-left-color: var(--crimson); }
+    .callout.example::before { color: var(--crimson); content: "❖ " attr(data-title); }
+    .callout p { margin: .4rem 0; }
+    .callout p:last-child { margin-bottom: 0; }
+    .callout .speaker { font-family: 'Alegreya SC', serif; font-weight: 700; color: var(--crimson-deep); }
+
+    /* ————— sheet preview cards ————— */
+    .sheet-card {
+      margin: 1.6rem 0;
+      border: 2px solid var(--ink-soft);
+      border-radius: 6px;
+      background: #fffdf6;
+      padding: 1.2rem 1.4rem;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-size: .88em;
+      box-shadow: 3px 3px 0 var(--page-edge);
+    }
+    .sheet-card h4 {
+      font-family: 'Alegreya SC', serif;
+      margin: 0 0 .8rem;
+      font-size: 1.15rem;
+      color: var(--crimson-deep);
+      border-bottom: 2px solid var(--crimson);
+      padding-bottom: .3rem;
+    }
+    .sheet-card .row { display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; margin: .35rem 0; }
+    .sheet-card .field { color: var(--ink-soft); }
+    .sheet-card .field b { color: var(--ink); font-family: 'Alegreya SC', serif; font-weight: 700; letter-spacing: .03em; }
+    .sheet-card .boxes { letter-spacing: .18em; color: var(--crimson); font-size: 1.05em; }
+
+    .flourish { text-align: center; color: var(--bronze); margin: 2.2rem 0; letter-spacing: .8em; }
+
+    /* ————— download buttons ————— */
+    .dl-row { display: flex; flex-wrap: wrap; gap: .8rem; margin: 1.2rem 0; }
+    a.dl-button {
+      display: inline-block;
+      padding: .6rem 1.2rem;
+      background: var(--crimson);
+      color: #f8f2e4 !important;
+      border-radius: 4px;
+      border-bottom: none !important;
+      font-family: 'Alegreya SC', serif;
+      font-weight: 700;
+      letter-spacing: .04em;
+      box-shadow: 2px 2px 0 var(--bronze-pale);
+    }
+    a.dl-button:hover { background: var(--crimson-deep); }
+    a.dl-button small { display: block; font-family: 'Alegreya Sans', sans-serif; font-weight: 400; letter-spacing: 0; opacity: .85; }
+
+    /* ————— sidebar ————— */
+    .sidebar {
+      background: var(--parchment-deep);
+      border-right: 1px solid var(--page-edge);
+      color: var(--ink);
+      font-family: 'Alegreya Sans', sans-serif;
+    }
+    .sidebar > h1 { margin: 1.4rem auto .6rem; }
+    .sidebar > h1 a {
+      font-family: 'Alegreya SC', serif;
+      font-weight: 700;
+      font-size: 1.7rem;
+      color: var(--crimson-deep);
+    }
+    .sidebar ul li a { color: var(--ink-soft); font-size: 14.5px; }
+    .sidebar ul li a:hover { color: var(--crimson); }
+    .sidebar ul li.active > a { color: var(--crimson); font-weight: 700; border-right: 2px solid var(--crimson); }
+    .sidebar ul li ul { font-size: 13.5px; }
+    .sidebar::-webkit-scrollbar-thumb { background: var(--bronze-pale); }
+    .sidebar-nav > ul > li > p, .sidebar-nav > ul > li > strong {
+      font-family: 'Alegreya SC', serif;
+      font-weight: 700;
+      color: var(--crimson);
+      letter-spacing: .05em;
+      font-size: 15px;
+      margin: 1.1em 0 .3em;
+    }
+    .search { border-bottom: 1px solid var(--page-edge); }
+    .search input {
+      background: transparent;
+      color: var(--ink);
+      font-family: 'Alegreya Sans', sans-serif;
+    }
+    .search .results-panel { background: var(--parchment-deep); }
+    .search .matching-post { border-bottom: 1px solid var(--page-edge); }
+    .search h2 { border: none; }
+    .content { background: var(--page); }
+    body .app-nav { font-family: 'Alegreya Sans', sans-serif; }
+    .github-corner svg { fill: var(--crimson); }
+    .sidebar-toggle { background-color: rgba(251, 247, 236, .8); }
+    .sidebar-toggle span { background-color: var(--crimson); }
+
+    /* ————— cover ————— */
+    .cover.show { background: linear-gradient(150deg, #241c14 0%, #4a231b 55%, var(--crimson-deep) 100%) !important; }
+    .cover.show h1, .cover.show h1 a, .cover.show h1 span { color: #f4ead2 !important; font-family: 'Alegreya SC', serif; font-weight: 700; }
+    .cover.show h1 small { color: rgba(244, 234, 210, 0.6) !important; }
+    .cover.show blockquote, .cover.show blockquote p { color: #e8dcc0 !important; font-family: 'Alegreya', serif; font-style: italic; font-size: 1.3rem; background: transparent; border: none; }
+    .cover.show p, .cover.show li { color: #d9cbab !important; font-family: 'Alegreya Sans', sans-serif; }
+    .cover-main > p:last-child a { border: 1px solid #f4ead2 !important; color: #f4ead2 !important; background: transparent !important; border-radius: 3px !important; font-family: 'Alegreya SC', serif; letter-spacing: .05em; }
+    .cover-main > p:last-child a:last-child { background: #f4ead2 !important; color: var(--crimson-deep) !important; }
+    .cover-main > p:last-child a:hover { opacity: .85; }
+
+    @media (max-width: 768px) {
+      .markdown-section { padding: 1.6rem 1.2rem 4rem; font-size: 16.5px; }
+      .markdown-section h1 { font-size: 2rem; }
+    }
+    @media print {
+      .sidebar, .sidebar-toggle, .github-corner, .search { display: none; }
+      .content { left: 0; background: #fff; }
+    }
   </style>
 </head>
 <body>
-  <div id="app">Loading The Party…</div>
+  <div id="app">Unrolling the scrolls…</div>
   <script>
     window.$docsify = {
       name: 'The Party',
@@ -34,7 +282,7 @@
       auto2top: true,
       search: {
         placeholder: 'Search the rules…',
-        noData: 'No results.',
+        noData: 'Nothing in the archives.',
         depth: 3
       }
     }

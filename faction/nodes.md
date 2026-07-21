@@ -1,60 +1,72 @@
-# Nodes & Routes
+# Holdings, the Map & Accessibility
 
-A **node** is a place where the faction *is*: a chapel, a safehouse, a dry dock, a caravanserai, a forum server, a sympathetic precinct, a moon base. The faction's presence in the world is exactly the sum of its nodes — growing the map **is** gaining prominence. Recommended count: **3–6 nodes**. More than that, and the faction turn slows; consolidate or abstract.
+A **holding** is a place that is genuinely the faction's: a chapel, a safehouse, a dry dock, a caravanserai, a forum server, a sympathetic precinct, a moon base. The faction's footprint in the world is the sum of its holdings — growing the map is gaining prominence.
 
-## Anatomy of a Node
+A holding is one line on the faction sheet, not a sub-ledger:
 
-```
-NODE: The Grinning Lantern — dockside tavern & listening post
-TRACK   □ □ □ □ □         STOCK CAP: 5
-NEEDS   1 Provisions, 1 Morale          (paid every faction turn)
-YIELDS  1 Intelligence, 1 Influence     (earned every faction turn)
-STOCK   2 Intelligence, 1 Force
-UPGRADES  Hidden Cellar (warehouse: +2 cap)
-CONDITIONS  —
-ROUTES  → The Undercroft (tunnels, safe) · → Harbor Row (streets, Watched)
-```
+<div class="sheet-card">
+<h4>Holding — The Grinning Lantern <span style="font-weight:400; color:#55493a">· dockside tavern &amp; listening post</span></h4>
+<div class="row"><span class="field"><b>Gives</b> 1 Intelligence, 1 Influence at Income</span> <span class="field"><b>Asks</b> 1 Provisions in the Keep</span></div>
+<div class="row"><span class="field"><b>Notes</b> cellar cache · the landlady knows everything · <em>conditions live here when things go wrong</em></span></div>
+</div>
 
-- **Track** — 5 boxes, marked when the node is attacked, sabotaged, or starved. A node taken out is occupied, burned, or scattered — it can sometimes be retaken, but its people remember who failed them.
-- **Needs** — 1–2 internal stock per faction turn. What does this place consume to stay yours? Shortfall rules are in [Resources](faction/resources.md#shortfall--starving-the-body).
-- **Yields** — 1–2 stock per faction turn. What does it produce? Any pool, internal or external.
-- **Stock cap** — 5, before upgrades. Full warehouses are targets; empty ones are liabilities.
-- **Upgrades** — up to 3 per node. Examples: **Fortified** (+1 protection tag), **Warehouse** (+2 stock cap), **Workshop** (+1 to one yield), **Cell Structure** (raids against it get a setback), **Beloved** (its people resist rival Influence with an edge), **Hidden** (rivals must find it before they can touch it).
-- **Conditions** — same rules as [everywhere else](core/strain-and-conditions.md#conditions-at-faction-scale).
+- **Gives** — the holding's line in the faction's [Income](faction/faction-turn.md#1--income).
+- **Asks** — its line in the [Keep](faction/faction-turn.md#2--keep). What does this place need to stay yours — and is that need **consumed** each turn (rations, wages) or merely **standing** (a garrison that must *have* Morale to hold, never spending it)? See [Two Kinds of Need](faction/resources.md#two-kinds-of-need).
+- **Notes** — what makes it itself, including any conditions it's carrying. A holding under real attack defends itself (below); a holding starved too long is eventually lost ([Going Hungry](faction/resources.md#going-hungry)).
 
-## The Stronghold
+One holding is the **Stronghold** — the seat, the mother church, the home port. Losing it drains **2 Cohesion**, and the faction must crown a new Stronghold by the end of the next faction turn or take *Headless* as a lasting condition.
 
-One node is the **Stronghold** — the seat, the mother church, the home port. It follows all normal rules, plus: losing it marks **2 Cohesion** and the faction must crown a new Stronghold by the end of the next faction turn or take a second condition (*Headless*). Strongholds are worth fortifying first.
+## The Map
 
-## Routes
+Stock and assets sit in real places — mostly holdings, sometimes a cache under a floorboard three cities away. Mark where everything is. A map isn't required, but the game assumes the table always knows two things: where the characters are operating, and where the faction's things sit. Everything else in this chapter is the distance between those two answers.
 
-Routes connect nodes: roads, sea lanes, courier relays, encrypted channels, hyperspace corridors. Stock only moves along routes, during Logistics.
+## Accessibility
 
-- **Safe** routes move stock freely.
-- **Threatened** routes (contested territory, patrols, tariffs, pirates) require a contest per shipment — typically faction Physical or Mental vs. the threat.
-- **Cut** routes move nothing until cleared by a faction action or venture. Cutting a rival's routes is often better strategy than burning their nodes: a rich node that can't be fed is a gift that keeps giving.
+From wherever the characters are currently operating, every entry in the Ledger — each stock and each asset — is at one of four levels of reach. The GM declares levels at the start of a scene or conflict, and they're rarely arguable: the map already said.
 
-Rivals can **Raid** (steal moving stock), **Blockade** (cut a route), or **Watch** (their Intelligence yields +1 while they observe your logistics) — and so can you.
+| Level | Meaning | In play |
+| --- | --- | --- |
+| **Ready** | On hand — here, or minutes away | Commit it to contests; deploy it now |
+| **Reachable** | Nearby — across town, an hour, a call | One goal (or a stretch of narrative time) fetches it to Ready |
+| **Remote** | Elsewhere — another city, another front | Unusable this conflict; time or a faction action brings it closer |
+| **Cut Off** | Blocked — besieged, seized, watched, snowed in | Unusable until whatever blocks it is dealt with in play |
+
+Two standing rules:
+
+- **Time moves things.** At each [faction turn](faction/faction-turn.md), Remote stock becomes Reachable and Reachable becomes Ready where the faction intends to use it — unless it's Cut Off. Couriers walk, wagons roll, people carry things where they're needed. The [Spine's synergy](characters/classes/spine.md) accelerates one entry a turn.
+- **Enemies move things too.** Rivals can raid a cache (steal or destroy stock), cut one off (a blockade, a seizure, a watched road), or watch it (they learn what moves through). Countering them is a faction action or a mission.
+
+This is the whole logistics system. Where you stashed the rifles last month decides what you can commit tonight — a question with no dice in it, and more drama than most dice.
+
+<div class="callout example" data-title="Accessibility at the table">
+<p>The crew is operating in the capital. The GM reads the Ledger at the top of the job: "Your Force stock from the vineyard cellars — Remote. The Influence you banked with the magistrates — Ready; that's a phone call. The two Provisions in the mountain cache — Cut Off since the pass snowed in. And the strike team? Reachable — they can be here by midnight if someone spends a goal getting them moving."</p>
+</div>
+
+## Areas of Need
+
+Places where the faction operates can carry needs of their own, written into the Keep. A garrisoned border holding *consumes* Provisions each turn; an occupied district stays sympathetic only while it *has* Influence on hand (a standing need — you never spend it, but the day it's gone, the district remembers it was occupied); a flock stays faithful for Unity. If the faction expands somewhere new, the GM adds the line: *this is what operating here costs.* Unmet, these follow the normal [hunger rules](faction/resources.md#going-hungry) — which is how territory is really lost: not stormed, but starved.
+
+## Defending What's Yours
+
+When a rival strikes at a holding, cache, or asset, it defends with a normal contest: the faction rolls whichever stat fits the defense — Force met at the barricade is Physical, an infiltration caught is Mental, a smear campaign weathered is Emotional — plus edges from a [Fist's synergy](characters/classes/fist.md), a stationed asset, and any Ready stock committed. Characters present can fight it as a full [conflict](combat/faction.md) instead: their place, their fight. A defense lost means the rival's goal happens — stock taken, the place burned or flipped, the asset mauled.
 
 ## Growing the Map
 
-New nodes come from **Expand** [faction actions](faction/faction-turn.md#4-actions) (start a 4-segment clock; each successful Expand or supporting venture ticks it; on completion, the node opens with a basic profile you design with the GM) — or from a player spending 5 perks to *personally* found one, in which case it's theirs to define and the fiction should show their fingerprints on it forever.
-
-Nodes gain upgrades via **Fortify/Develop** actions or 3 perks.
+New ground comes from **Put Down Roots** [faction actions](faction/faction-turn.md#3--actions) — start a countdown whose length matches what you're planting: a **cache** (2), a **safehouse** (4), a full **holding** (6), a claim on a whole **region** (8). Each successful action or supporting mission strikes it; at zero the thing opens, and the table writes its Gives and Asks lines with the GM. Or a player spends **5 perks** to found a holding personally, in which case it's theirs to define and the story should show their fingerprints on it forever.
 
 ## Assets
 
-An **asset** is faction property that *acts*: a strike team, a smear machine, a spy ring, a missionary circuit, a gunboat, a lawyer on retainer. Assets are the faction's limbs in [faction conflicts](combat/faction.md) and can work autonomously between sessions.
+An **asset** is faction property that acts: a strike team, a smear machine, a spy ring, a missionary circuit, a gunboat, a lawyer on retainer. Assets are the faction's limbs in [faction conflicts](combat/faction.md) and can work autonomously between sessions.
 
-```
-ASSET: The Red Choir — fanatic street preachers
-TYPE Conviction   RATING 3   TRACK □ □ □   LOCATION The Undercroft
-TAG  Sweeping (their sermons hit crowds, not people)
-```
+<div class="sheet-card">
+<h4>Asset — The Red Choir <span style="font-weight:400; color:#55493a">· fanatic street preachers</span></h4>
+<div class="row"><span class="field"><b>Type</b> Ideological</span> <span class="field"><b>Rating</b> 3</span> <span class="field"><b>Strain</b> <span class="boxes">□□□</span></span> <span class="field"><b>Place</b> the Undercroft cellars</span></div>
+<div class="row"><span class="field"><b>Tag</b> Sweeping — their sermons hit crowds, not people</span></div>
+</div>
 
 - **Type** — the stat it embodies; also the external pool that buys it (2 matching stock + a faction action, or 3 perks).
-- **Rating (2–4)** — its dice pool when it acts alone or is [channeled](combat/faction.md#channeling). Assets are deliberately capped below 5: organizations are strong, people are exceptional.
-- **Track** — 3 boxes. Assets are more expendable than people, and the game says so out loud.
-- **Location** — an asset is *at a node*, and moves like stock. The gunboat defends the harbor it's anchored in.
+- **Rating (2–4)** — its pool when it acts alone or is [channeled](combat/faction.md#channel). Assets cap below 5: organizations are strong, people are exceptional.
+- **Strain** — 3 boxes. Assets are more expendable than people, and the game says so out loud.
+- **Place** — an asset sits somewhere and has accessibility like stock. The gunboat defends the harbor it's anchored in, not the one it isn't.
 
-During a faction turn, an idle asset can attempt one simple job on its own (rating vs. difficulty, no PC involved): the spy ring watches a rival, the strike team guards a route. Autonomous assets that fail contests take the consequences alone — which is how PCs find out something has gone wrong.
+During a faction turn, an idle asset can attempt one simple job on its own — rating against difficulty, no character involved. Autonomous assets that fail take the consequences alone, which is how the faction finds out something has gone wrong.

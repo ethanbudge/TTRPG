@@ -1,11 +1,10 @@
-# The Party <small>first draft</small>
+# The Party
 
-> A faction-first tabletop roleplaying game for 3–7 players.
+> A tabletop roleplaying game about belonging to something bigger than yourself.
 
 - One dice engine for duels, heists, trade wars, and fleet battles
-- Classes are roles in an organization, not day jobs
-- Small numbers forever — no HP bloat, no math soup
-- Your faction is the eighth character at the table
+- Nine Seats at the faction's table, playable in any genre
+- For 3–7 players, a Game Master, and a handful of six-sided dice
 
-[Start Reading](README.md)
+[Open the Book](README.md)
 [Quick Reference](appendix/quick-reference.md)

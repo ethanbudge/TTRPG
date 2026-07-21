@@ -1,38 +1,51 @@
-# Classes — The Seven Offices
+# The Nine Seats
 
-A class in The Party is an **office**: the role you hold in the faction's living body. The seven offices are named for the body because every organization, in every genre, has the same anatomy — something that decides, something that speaks, something that strikes, something that watches, something that knows, something that binds, and something that carries.
+A class in The Party is a **Seat**: the chair you hold in the faction's inner circle. Every organization, in every genre, has the same anatomy — something that decides, something that speaks, something that strikes, something that watches, something that knows, something that makes, something that ranges out, something that binds, and something that carries. The Seats are named for that anatomy.
 
-| Office | Role | Archetypes across genres |
+| Seat | Role | Archetypes across genres |
 | --- | --- | --- |
 | [**The Head**](characters/classes/head.md) | Command & decision | captain, high priest, don, cell leader, CEO, warband chief |
-| [**The Voice**](characters/classes/voice.md) | Image & persuasion | propagandist, diplomat, media star, herald, hype man, comms officer |
-| [**The Hand**](characters/classes/hand.md) | Force & protection | champion, enforcer, marine, duelist, bodyguard, gunslinger |
-| [**The Eye**](characters/classes/eye.md) | Secrets & infiltration | spy, scout, hacker, inquisitor, second-story artist, sensor officer |
-| [**The Mind**](characters/classes/mind.md) | Expertise & the impossible | engineer, wizard, surgeon, forger, alchemist, systems operator |
-| [**The Heart**](characters/classes/heart.md) | Morale & cohesion | chaplain, medic, quartermaster of spirits, bard, counselor, cook |
+| [**The Mouth**](characters/classes/mouth.md) | Image & persuasion | propagandist, diplomat, media star, herald, hype man, comms officer |
+| [**The Fist**](characters/classes/fist.md) | Force & protection | champion, enforcer, marine, duelist, bodyguard, gunslinger |
+| [**The Eye**](characters/classes/eye.md) | Secrets & intelligence | spymaster, analyst, inquisitor, handler, sensor officer |
+| [**The Heel**](characters/classes/heel.md) | Movement & reconnaissance | scout, ranger, outrider, pilot, navigator, messenger |
+| [**The Mind**](characters/classes/mind.md) | Knowledge & foresight | sage, scholar, scribe, strategist, seer, savant |
+| [**The Arm**](characters/classes/arm.md) | Building & repair | engineer, artificer, wright, sapper, shipwright, siege-maker |
+| [**The Heart**](characters/classes/heart.md) | Morale & cohesion | chaplain, medic, bard, counselor, cook, den mother |
 | [**The Spine**](characters/classes/spine.md) | Supply & administration | logistician, fence, purser, smuggler, steward, guildmaster of coin |
 
-## How a Class Is Built
+## How a Seat Is Built
 
-Every class has the same chassis:
+Every Seat has the same chassis:
 
-- **Core feature** — an always-available signature ability that defines the office. Usable from session one; you never wait to be cool.
-- **Feature list** — six features unique to the class. You start with two and buy more with [advances](characters/advancement.md).
-- **Three callings** — subclasses that angle the office toward a style. Each grants a signature feature at creation and colors how you play. *(This draft ships one feature per calling; deeper calling tiers are handled by the [Deepen rule](characters/advancement.md#deepening) — see Open Questions.)*
-- **Faction synergy** — a standing bonus the office grants during the [faction turn](faction/faction-turn.md). This is what makes every character organizationally load-bearing, and it stacks (gently) if two players share the office.
+- **Core feature** — the signature ability that defines the Seat, available from session one.
+- **Feature list** — six features unique to the Seat. You start with two and buy more with [advances](characters/advancement.md).
+- **Three callings** — styles within the Seat. Each grants a signature feature at creation and colors how you play.
+- **Faction synergy** — a standing benefit the Seat grants during the [faction turn](faction/faction-turn.md): an edge on the kind of action the Seat is built for, and, when two players share the Seat, an extra stock of one pool at Income. The eight non-Head Seats each feed a different one of the [eight pools](faction/resources.md), so a broad table quietly enriches its whole economy — while the Head, who feeds no pool, grants the faction an extra action instead.
 
-## Design Rules for Classes
+| Seat | Doubled-Seat stock |
+| --- | --- |
+| Fist | External Physical — *Force* |
+| Spine | Internal Physical — *Provisions* |
+| Eye | External Mental — *Intelligence* |
+| Mind | Internal Mental — *Expertise* |
+| Mouth | External Emotional — *Influence* |
+| Heart | Internal Emotional — *Morale* |
+| Arm | External Ideological — *grand works* |
+| Heel | Internal Ideological — *Unity* |
+| Head | *— (an extra faction action instead)* |
 
-These are the constraints the seven classes were written under — and the constraints any homebrew class should follow:
+## Design Rules for Seats
 
-1. **Role, not day job.** A class must make sense for a priest, a pilot, and a pickpocket simultaneously. If a feature only works with swords or spells, it's mis-scoped.
-2. **No gates.** Anything a class does *well*, anyone can attempt. Features grant edges, extra uses, and unique twists — never exclusive permission to participate in a pillar of play.
-3. **Both scales.** Every class must matter in a knife fight *and* in a faction turn. The synergy line guarantees the latter; at least two features per class should reach personal-scale conflict.
-4. **Small numbers.** Features grant edges, rerolls, ticks, stock, and conditions. They never grant flat bonuses, extra dice beyond the 5-cap, or bigger tracks (one exception, and it's the Hand's whole identity).
-5. **Combos over buttons.** Features should create set-ups other players can pay off — The Party's answer to the "cool builds" of D&D is cross-*player* combos, not solo rotations.
+The constraints the nine were written under, and the constraints any homebrew Seat should follow:
 
-## Multiclassing
+1. **Role, not day job.** A Seat must make sense for a priest, a pilot, and a pickpocket at once. If a feature only works with swords or spells, it's mis-scoped.
+2. **No gates.** Anything a Seat does well, anyone can attempt. Features grant edges, extra uses, and unique twists — never exclusive permission to participate in a whole pillar of play.
+3. **Both scales.** Every Seat matters in a knife fight and in a faction turn. The synergy line guarantees the latter; at least two features per Seat reach personal conflict.
+4. **Small numbers.** Features grant edges, rerolls, countdown segments, stock, and conditions — never flat bonuses, dice past the 5-cap, or extra strain boxes (one exception: the Fist's Bulwark).
+5. **The dice stay live.** Features shift probabilities; they don't delete them. Anything that "just happens" should be narrow, mundane, and dramatic never — the moment a feature would decide a scene, there's a roll in it.
+6. **Combos over buttons.** Features should create set-ups other players can pay off. The Party's answer to character builds is cross-*player* combos.
 
-When you buy a new feature with an advance, you may buy from **another class's list at +1 perk cost**, provided the fiction supports your character genuinely working that office (train with the Spine, shadow the Eye). Core features and calling signatures are never cross-buyable — offices can be learned; being *the* Head cannot.
+## Learning Other Seats
 
-You may also formally **change office** during downtime if the faction's fiction supports it (a promotion, a demotion, a coup). Swap core features; keep bought features; your old calling signature becomes a normal feature.
+When you buy a new feature with an advance, you may buy from **another Seat's list at +1 perk**, provided the narrative shows your character genuinely learning that trade — training with the Spine, shadowing the Eye. Core features and calling signatures are never cross-buyable. A Seat's craft can be learned; being *the* Head cannot.

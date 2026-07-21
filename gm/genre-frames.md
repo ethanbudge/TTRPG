@@ -1,99 +1,99 @@
 # Genre Frames
 
-Five worked skins of the same rulebook — the five test cases the system was designed against. Each shows the only things that actually change between genres: the fourth stat's flavor, the eight pool names, the map, the clockspeeds, and one line per class.
+Five worked skins of the same rulebook — the five test cases the system was built against. Each shows the only things that change between genres: the fourth stat's flavor, the eight pool names, the map, the usual clockspeeds, and one line per Seat.
 
 ---
 
 ## The Crooked Mitre — *a medieval religion takes a kingdom*
 
-**Conviction reads as:** faith.
-**Beats mostly at:** Season/Era, with Blitz for assassinations and Operation for conclaves.
+**Ideological reads as:** faith.
+**Runs mostly at:** Season and Era, with Blitz for assassinations and Operation for conclaves.
 
 | | Internal | External |
 | --- | --- | --- |
 | Physical | Tithes & granaries | Sword-brothers |
 | Mental | Literate clergy | Confessional secrets |
 | Emotional | Festivals & alms | The love of the crowds |
-| Conviction | Liturgy & doctrine | Zealots & pilgrims |
+| Ideological | Liturgy & doctrine | Zealots & pilgrims |
 
-**Nodes:** the Cathedral (stronghold), rural parishes, a convent scriptorium, a sympathetic ducal court. **Routes:** pilgrim roads, letters between abbots.
-**The classes:** Head = the Archimandrite · Voice = the pulpit-firebrand · Hand = the militant order's champion · Eye = the confessor who hears everything · Mind = the theologian-physician · Heart = the beloved village priest · Spine = the tithe-master.
+**The map:** the Cathedral (stronghold), rural parishes, a convent scriptorium, a sympathetic ducal court. Stock moves by pilgrim road and abbots' letters — winter and interdicts cut things off.
+**The Seats:** Head = the Archimandrite · Mouth = the pulpit-firebrand · Fist = the militant order's champion · Eye = the confessor who hears everything · Heel = the circuit-rider carrying word between parishes · Mind = the theologian and canon-lawyer · Arm = the cathedral-builder and reliquary-wright · Heart = the beloved village priest · Spine = the tithe-master.
 **Sample rival:** the Crown (Host tier, slow, legitimate, everywhere).
 
 ---
 
 ## The Big Job — *a modern crew assembles a heist*
 
-**Conviction reads as:** professionalism — the code.
-**Beats mostly at:** Blitz/Operation; the faction turn is "between jobs."
+**Ideological reads as:** professionalism — the code.
+**Runs mostly at:** Blitz and Operation; the faction turn is "between jobs."
 
 | | Internal | External |
 | --- | --- | --- |
 | Physical | Safehouse funds | Guns & drivers |
 | Mental | Tradecraft | The score's blueprints |
 | Emotional | Crew trust | Reputation in the life |
-| Conviction | The code | Nerve |
+| Ideological | The code | Nerve |
 
-**Nodes:** the garage (stronghold), a fence's pawnshop, a corrupt precinct contact, an offshore account. **Routes:** burner phones, the fence's channels.
-**The classes:** Head = the mastermind · Voice = the face · Hand = the muscle · Eye = the inside man · Mind = the safecracker · Heart = the getaway driver everyone actually trusts · Spine = the fence.
+**The map:** the garage (stronghold), a fence's pawnshop, a corrupt precinct contact, an offshore account. Accessibility is the whole game here — what's Ready tonight versus what's sitting offshore.
+**The Seats:** Head = the mastermind · Mouth = the face · Fist = the muscle · Eye = the surveillance man who runs the take · Heel = the wheelman and the casing legs · Mind = the planner who reads the mark · Arm = the safecracker and gadget-maker · Heart = the fixer everyone actually trusts · Spine = the fence.
 **Sample rival:** the Albanian outfit that thinks this town is theirs.
 
 ---
 
 ## Smoke & Brass — *a steampunk insurgency*
 
-**Conviction reads as:** the ideology.
-**Beats mostly at:** Operation/Season; Blitz when the barricades go up.
+**Ideological reads as:** the ideology.
+**Runs mostly at:** Operation and Season; Blitz when the barricades go up.
 
 | | Internal | External |
 | --- | --- | --- |
 | Physical | Bread & coal | Street fighters & bombs |
 | Mental | Skilled machinists | Stolen patents & troop schedules |
 | Emotional | Union halls & songs | Broadsheets & strikes |
-| Conviction | The Manifesto | Martyrs |
+| Ideological | The Manifesto | Martyrs |
 
-**Nodes:** the underground press (stronghold), factory cells, a rooftop signal network, a friendly music hall. **Routes:** sewer lines, coded telegraphs.
-**The classes:** Head = the cell commander · Voice = the pamphleteer · Hand = the barricade captain · Eye = the housemaid in the governor's mansion · Mind = the bomb-wright · Heart = the soup-kitchen matron · Spine = the smuggler of type and powder.
-**Sample rival:** the Ministry of Order, whose clocks are always two ticks further than you hoped.
+**The map:** the underground press (stronghold), factory cells, a rooftop signal network, a friendly music hall. The sewers move what the streets can't; a Ministry checkpoint is how a cache goes Cut Off.
+**The Seats:** Head = the cell commander · Mouth = the pamphleteer · Fist = the barricade captain · Eye = the spymistress running the housemaids · Heel = the rooftop runner and rail-yard scout · Mind = the theorist and codebreaker · Arm = the bomb-wright and barricade-builder · Heart = the soup-kitchen matron · Spine = the smuggler of type and powder.
+**Sample rival:** the Ministry of Order, whose countdowns are always two segments shorter than you hoped.
 
 ---
 
 ## The Long Haul — *a spaceship crew operates their craft*
 
-**Conviction reads as:** the ship — what the crew owes her and each other. The faction *is* the vessel: nodes are decks and holdings; the ship's hull is the Stronghold.
-**Beats mostly at:** Operation; Season for the trade routes; Blitz when the boarding klaxons sound.
+**Ideological reads as:** the ship — what the crew owes her and each other. The faction *is* the vessel; the hull is the Stronghold.
+**Runs mostly at:** Operation; Season for the trade routes; Blitz when the boarding klaxons sound.
 
 | | Internal | External |
 | --- | --- | --- |
 | Physical | Fuel & air & rations | The guns, the marines, the ship herself |
 | Mental | Maintenance hours | Charts & manifests & sensor logs |
 | Emotional | Shore leave & mess-hall rituals | Standing with ports & guilds |
-| Conviction | The crew's compact | The name the ship carries |
+| Ideological | The crew's compact | The name the ship carries |
 
-**Nodes:** the ship (stronghold), a homeport berth, a partner station's dock rights, a smuggler's cache. **Routes:** shipping lanes — contested ones are the whole campaign.
-**The classes:** Head = the captain · Voice = the purser who talks to ports · Hand = the master-at-arms · Eye = the sensors chief · Mind = the engineer · Heart = the cook (fight me) · Spine = the cargo master.
+**The map:** the ship (stronghold), a homeport berth, a partner station's dock rights, a smuggler's cache two systems out. Accessibility is measured in burn-days, and a blockade is the classic Cut Off.
+**The Seats:** Head = the captain · Mouth = the purser who talks to ports · Fist = the master-at-arms · Eye = the sensors and signals chief · Heel = the helmsman and boarding-scout · Mind = the navigator and ship's savant · Arm = the engineer who keeps her flying · Heart = the cook (fight me) · Spine = the cargo master.
 **Sample rival:** the Hegemony picket fleet; see [the worked fleet battle](combat/faction.md#worked-example--the-anvil-of-callis-reach).
 
 ---
 
 ## The Undercroft — *a thieves' guild in a fantasy city*
 
-**Conviction reads as:** the guild's law.
-**Beats mostly at:** Operation; Season for the long war over the city's districts.
+**Ideological reads as:** the guild's law.
+**Runs mostly at:** Operation; Season for the long war over the city's districts.
 
 | | Internal | External |
 | --- | --- | --- |
 | Physical | Safehouse bread & bribes | Knives in the dark |
 | Mental | Apprenticeships | Every lock's secret & every noble's debt |
 | Emotional | The family feeling | Fear with your name on it |
-| Conviction | Guild law | The oath that binds |
+| Ideological | Guild law | The oath that binds |
 
-**Nodes:** the Undercroft itself (stronghold), a riverside fence, corrupted watch-houses, rooftop highways. **Routes:** tunnels, rooftops, and the fence's ledger.
-**The classes:** Head = the Upright Man · Voice = the beggar-king who runs the whisper trade · Hand = the leg-breaker · Eye = the second-story artist · Mind = the alchemist-forger · Heart = the den mother · Spine = the fence.
+**The map:** the Undercroft cellars (stronghold), a riverside fence, corrupted watch-houses, rooftop highways. Tunnels and rooftops keep things Reachable; a Watch crackdown is what Cut Off looks like.
+**The Seats:** Head = the Upright Man · Mouth = the beggar-king who runs the whisper trade · Fist = the leg-breaker · Eye = the spymaster who buys secrets · Heel = the second-story artist and rooftop runner · Mind = the cipher-clerk and fortune-teller · Arm = the alchemist-forger and lockwright · Heart = the den mother · Spine = the fence.
 **Sample rival:** a rival guild that found something old beneath the city — and the Watch, suddenly, strangely well-funded.
 
 ---
 
 ## Rolling Your Own
 
-Any premise where the answer to *"who do the characters belong to?"* is interesting will run. The frame template is exactly six lines: fourth-stat skin, eight pools, nodes & routes, clockspeeds, class skins, first rival. If you can fill those, The Party can play it — that's the design contract of the whole system.
+Any premise where *"who do the characters belong to?"* has an interesting answer will run. The frame template is six lines: fourth-stat skin, eight pools, the map, clockspeeds, Seat skins, first rival. Fill those and The Party can play it.

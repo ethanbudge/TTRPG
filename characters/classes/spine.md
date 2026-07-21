@@ -1,27 +1,28 @@
 # The Spine
 
-*Amateurs argue about tactics. You already moved the winter stores, bribed the harbormaster, and double-booked the enemy's freight.*
+> *"You counted the rifles. Nobody counts the wagons. That's why you lost."*
+> — Quartermaster-General Osei Brandt, to a captured colonel
 
-The Spine is the office of **supply and administration**: the logistician, fence, purser, smuggler, steward, or guildmaster of coin. In a game where committed resources swing every contest by whole dice, the person who decides *where the resources are* is quietly the most dangerous player at the table.
+The Spine holds the Seat of **supply and administration**: the logistician, fence, purser, smuggler, steward, or guildmaster of coin. In a game where a committed resource swings a contest by a whole die, the person who decides where the resources sit is quietly the most dangerous player at the table.
 
 ## Core Feature — There's a Ledger for That
 
-Once per session, produce exactly the mundane resource the moment needs — transport, bribe money, spare parts, permits, rations — without a roll. You arranged it already. If it's genuinely scarce or contested, it costs 1 appropriate stock instead of being impossible.
+Once per session, produce exactly the mundane resource the moment needs — transport, bribe money, spare parts, permits, rations — without a roll. You arranged it already. If it's genuinely scarce or contested, it costs 1 fitting stock instead of being impossible.
 
 ## Faction Synergy
 
-During the **Logistics** step, move stock along one route for free even if the route is contested (you found a way). **Trade** actions gain an edge when a Spine helps run them. If the faction has more than one Spine, it also gains +1 internal Physical stock (*Provisions*) at the Yield step.
+**Trade** actions gain an edge when a Spine helps run them. If the faction has more than one Spine, it also gains 1 extra **internal Physical** stock (*Provisions*) at [Income](faction/faction-turn.md#1--income).
 
-## Class Features (start with two)
+## Seat Features (start with two)
 
 | Feature | Effect |
 | --- | --- |
-| **Grease the Wheels** | Gain an edge on contests involving markets, bureaucracies, customs, and anyone who can be paid. |
-| **Strategic Reserve** | The faction may bank 2 stock above node caps, held personally by you. Nobody else knows where. Not even the Head. Especially not the Head. |
-| **Supply Lines Hold** | Once per faction turn, negate one route disruption or raid outcome — the convoy got through after all. Narrate the routing. |
+| **Grease the Wheels** | Edge on contests involving markets, bureaucracies, customs, and anyone who can be paid. |
+| **Strategic Reserve** | 2 stock of the faction's, held personally by you, always count as [Ready](faction/nodes.md#accessibility) wherever you are. Nobody knows where you keep it. Not even the Head. Especially not the Head. |
+| **Supply Lines Hold** | Once per faction turn, when stock the faction needs is Cut Off, raided, or out of reach, roll Mental against the obstacle (default 3). Win: it arrives anyway — narrate the routing. Loss: it's truly stuck, and you know exactly who to blame. |
 | **Everything Has a Price** | Once per session, convert 2 stock of any one type into 1 stock of any other. You know a guy. |
-| **Auditor's Eye** | You notice embezzlement, shortfall, and cooked books on sight. Gain an edge tracing where resources actually went, and once per session ask the GM "what's wrong with this operation?" for a true answer. |
-| **War Chest** | When a venture begins, stake up to 2 stock as mission budget: anyone on the venture may spend it for Resource edges mid-mission, no node access required. |
+| **Nose for Supply** | Edge on contests to sniff out a new source — an untapped patron, a smuggling lane, a vein of ore, a quartermaster with loose scruples. Once per session, the GM hands you a live lead toward a new income line or holding, and where to start pulling. |
+| **War Chest** | When a job begins, stake up to 2 stock as its budget. For that job, the staked stock is Ready for everyone on it — anyone may commit it for Faction Resource edges. |
 
 ## Callings
 
@@ -35,10 +36,10 @@ Every nail counted, every ration stretched.
 
 There is always a market. You just have to be willing to shop there.
 
-**Signature — Gray Channels:** once per faction turn, acquire 1 stock of any external type — no action, no roll, no questions. But the GM secretly rolls a d6: on a 1, it comes with a string attached (a favor owed, tainted goods, watching eyes) that surfaces later.
+**Signature — Gray Channels:** once per faction turn, acquire 1 stock of any external type — no action, no roll, no questions. The GM secretly rolls a d6: on a 1, it came with a string attached — a favor owed, tainted goods, watching eyes — that surfaces later.
 
-### The Steward — *the machine hums*
+### The Logistician — *everything, where it needs to be*
 
-Rotas, cisterns, tithes, maintenance schedules. Boring is a superpower.
+Roads, relays, manifests, and the quiet art of being early.
 
-**Signature — Well-Oiled Machine:** each faction turn, waive the upkeep needs of one node of your choice (efficiency covers it), and Quell actions you administer gain an edge.
+**Signature — Forward Depots:** each faction turn, improve the [accessibility](faction/nodes.md#accessibility) of up to two stored resources by one step — you moved them before anyone knew they'd be wanted. And you may move stock along a route others would call impassable, once per turn, without a contest.

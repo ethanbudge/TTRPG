@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Party — Faction Sheet</title>
+<style>
+  @page { size: letter; margin: 0.45in; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root { --ink: #26201a; --soft: #6b5d4b; --red: #8f2b20; --line: #b9a67e; --fill: #f4eee0; }
+  body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: var(--ink); font-size: 9.5pt; width: 7.6in; margin: 0 auto; }
+
+  header { display: flex; align-items: flex-end; justify-content: space-between; border-bottom: 3px double var(--red); padding-bottom: 6px; margin-bottom: 8px; }
+  .wordmark { font-family: Palatino, Georgia, serif; font-weight: bold; font-size: 20pt; color: var(--red); letter-spacing: 1px; }
+  .wordmark small { display: block; font-size: 7.5pt; color: var(--soft); font-weight: normal; letter-spacing: 3px; text-transform: uppercase; }
+  .id-fields { display: flex; gap: 14px; align-items: flex-end; }
+  .fld { display: flex; flex-direction: column; }
+  .fld .line { border-bottom: 1px solid var(--ink); min-width: 150px; height: 16px; }
+  .fld label { font-size: 6.5pt; text-transform: uppercase; letter-spacing: 1px; color: var(--soft); margin-top: 2px; }
+  .emblem { width: 58px; height: 58px; border: 2px solid var(--ink); border-radius: 50%; display: flex; align-items: flex-end; justify-content: center; font-size: 5.6pt; color: var(--soft); padding-bottom: 5px; text-transform: uppercase; letter-spacing: 1px; }
+
+  .causerow { display: flex; gap: 14px; margin-bottom: 8px; }
+  .causerow .fld { flex: 1; }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-bottom: 8px; }
+  .stat { border: 2px solid var(--ink); border-radius: 4px; padding: 5px 7px; display: flex; align-items: center; gap: 8px; background: var(--fill); }
+  .stat .num { width: 34px; height: 34px; border: 2px solid var(--red); border-radius: 3px; background: #fff; flex-shrink: 0; }
+  .stat .name { font-family: Palatino, Georgia, serif; font-weight: bold; font-size: 10.5pt; }
+  .stat .desc { font-size: 6.3pt; color: var(--soft); line-height: 1.25; }
+
+  section { border: 1.5px solid var(--ink); border-radius: 4px; padding: 6px 8px 7px; margin-bottom: 8px; }
+  section h3 { font-family: Palatino, Georgia, serif; font-size: 9.5pt; color: var(--red); text-transform: uppercase; letter-spacing: 1.5px; border-bottom: 1px solid var(--line); padding-bottom: 2px; margin-bottom: 5px; }
+  section h3 .hint { float: right; font-family: Helvetica, sans-serif; font-size: 6.3pt; color: var(--soft); text-transform: none; letter-spacing: 0; font-weight: normal; padding-top: 2px; }
+
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .track { display: flex; gap: 5px; align-items: center; }
+  .track .box { width: 22px; height: 22px; border: 2px solid var(--ink); border-radius: 3px; background: #fff; }
+  .tinylabel { font-size: 6.5pt; text-transform: uppercase; letter-spacing: 1px; color: var(--soft); margin-bottom: 2px; }
+  .writein { border-bottom: 1px solid var(--line); height: 15px; margin-bottom: 4px; }
+
+  .cohesion-flaw { display: flex; gap: 14px; align-items: flex-start; }
+  .cohesion-flaw > div:last-child { flex: 1; }
+
+  .agenda { display: flex; gap: 12px; align-items: center; }
+  .agenda .clockslot { text-align: center; }
+  .agenda .lines { flex: 1; }
+
+  table.grid { border-collapse: collapse; width: 100%; font-size: 7.5pt; }
+  table.grid th, table.grid td { border: 1px solid var(--line); padding: 4px 6px; text-align: left; vertical-align: top; }
+  table.grid th { background: var(--red); color: #f6efe0; text-transform: uppercase; letter-spacing: .5px; font-size: 6.6pt; }
+  table.grid td .writein { height: 13px; margin-bottom: 0; }
+  table.grid .rowname { font-family: Palatino, Georgia, serif; font-weight: bold; font-size: 8.5pt; background: var(--fill); width: 72px; }
+  table.grid .sub { color: var(--soft); font-size: 6pt; display: block; }
+
+  .ladder { display: flex; gap: 4px; align-items: center; font-size: 6.5pt; color: var(--soft); }
+  .ladder .dot { width: 12px; height: 12px; border: 1.5px solid var(--ink); border-radius: 50%; }
+  .minitrack { display: inline-flex; gap: 2px; }
+  .minitrack .box { width: 11px; height: 11px; border: 1.5px solid var(--ink); border-radius: 2px; background: #fff; }
+
+  footer { border-top: 3px double var(--red); margin-top: 2px; padding-top: 5px; font-size: 6.8pt; color: var(--soft); line-height: 1.5; }
+  footer b { color: var(--red); text-transform: uppercase; letter-spacing: .5px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wordmark">THE PARTY<small>Faction Sheet</small></div>
+  <div class="id-fields">
+    <div class="fld" style="min-width:190px"><div class="line"></div><label>Faction Name</label></div>
+    <div class="fld"><div class="line"></div><label>What outsiders call you</label></div>
+    <div class="emblem">emblem</div>
+  </div>
+</header>
+
+<div class="causerow">
+  <div class="fld"><div class="line"></div><label>Cause — one sentence, with a verb in it</label></div>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="num"></div><div><div class="name">Physical</div><div class="desc">muscle, fleets, territory, industry</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Mental</div><div class="desc">intelligence, technology, planning</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Emotional</div><div class="desc">reputation, reach, public love or fear</div></div></div>
+  <div class="stat"><div class="num"></div><div><div class="name">Ideological</div><div class="desc">shared belief, loyalty, zeal</div></div></div>
+</div>
+
+<div class="cols">
+  <section>
+    <h3>Cohesion <span class="hint">starts at 5 — strike boxes as it drains · 0 = Crisis</span></h3>
+    <div class="cohesion-flaw">
+      <div class="track"><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div></div>
+      <div><div class="tinylabel">Faction Gift</div><div class="writein"></div><div class="tinylabel">Faction Flaw</div><div class="writein"></div></div>
+    </div>
+  </section>
+  <section>
+    <h3>Agenda <span class="hint">the current milestone, as a countdown</span></h3>
+    <div class="agenda">
+      <div class="clockslot">
+        <svg width="52" height="52" viewBox="0 0 100 100"><circle cx="50" cy="50" r="45" fill="none" stroke="#26201a" stroke-width="3"/><line x1="50" y1="50" x2="95" y2="50" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="81.8" y2="81.8" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="50" y2="95" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="18.2" y2="81.8" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="5" y2="50" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="18.2" y2="18.2" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="50" y2="5" stroke="#b9a67e" stroke-width="1.5"/><line x1="50" y1="50" x2="81.8" y2="18.2" stroke="#b9a67e" stroke-width="1.5"/></svg>
+        <div class="tinylabel">countdown</div>
+      </div>
+      <div class="lines">
+        <div class="tinylabel">This milestone</div><div class="writein"></div>
+        <div class="tinylabel">What it unlocks</div><div class="writein"></div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<section>
+  <h3>Resources — The Eight Pools <span class="hint">name each pool for this campaign · every stock has a place — see the Ledger</span></h3>
+  <table class="grid">
+    <tr><th style="width:72px"></th><th>Internal — keeps you alive <span class="sub">pays the Keep</span></th><th>External — projects power <span class="sub">spent for edges, actions, assets</span></th></tr>
+    <tr><td class="rowname">Physical</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td class="rowname">Mental</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td class="rowname">Emotional</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td class="rowname">Ideological</td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+  </table>
+</section>
+
+<div class="cols">
+  <section>
+    <h3>Holdings &amp; the Keep <span class="hint">★ = stronghold · gives / asks</span></h3>
+    <div class="writein"></div><div class="writein"></div><div class="writein"></div>
+    <div class="tinylabel" style="margin-top:4px">The Keep — what existing costs each turn</div>
+    <div class="writein"></div><div class="writein"></div>
+  </section>
+  <section>
+    <h3>Rivals <span class="hint">−3 War · −2 Hostile · −1 Cold · 0 · +1 Warm · +2 Friendly · +3 Allied</span></h3>
+    <div class="writein"></div><div class="ladder">−3 <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div> +3</div>
+    <div class="writein" style="margin-top:6px"></div><div class="ladder">−3 <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div> +3</div>
+    <div class="writein" style="margin-top:6px"></div><div class="ladder">−3 <div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div> +3</div>
+  </section>
+</div>
+
+<section>
+  <h3>The Ledger — Stock &amp; Assets <span class="hint">R = Ready · Rch = Reachable · Rm = Remote · X = Cut Off</span></h3>
+  <table class="grid">
+    <tr><th>Stock / Asset</th><th style="width:64px">Amount / Rating</th><th style="width:56px">Strain (assets)</th><th style="width:110px">Place</th><th style="width:56px">Access</th><th style="width:92px">Tags</th></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+    <tr><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="minitrack"><div class="box"></div><div class="box"></div><div class="box"></div></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td><td><div class="writein"></div></td></tr>
+  </table>
+</section>
+
+<footer>
+  <b>The Faction Turn</b> (when the GM lets time pass): 1 · Income (holdings give) &nbsp; 2 · Keep (consumed &amp; standing needs settle — hunger bites; time moves the map: Remote → Reachable → Ready) &nbsp; 3 · Do Something (each player: one faction action OR one personal move; each Head takes an extra faction action) — then the rivals move.
+</footer>
+
+</body>
+</html>

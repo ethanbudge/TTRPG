@@ -1,46 +1,47 @@
 # The Head
 
-*Someone has to decide. When the plan collapses and everyone looks up — they look at you.*
+> *"Hold the gate until the bells. After the bells, it won't matter."*
+> — Warden-Commander Ilse Varga, the last night of the Siege of Coldharbor
 
-The Head is the office of **command and decision**: the captain, high priest, don, cell leader, guildmaster, or elected chair. Heads don't have to be the boss on paper — plenty of factions keep a figurehead while the real Head stands behind the throne. Mechanically, the Head trades tempo: their features make *other people act*, sooner and better.
+The Head holds the Seat of **command and decision**: the captain, high priest, don, cell leader, guildmaster, or elected chair. The Head doesn't have to be the boss on paper — plenty of factions keep a figurehead while the real Head stands behind the throne. In play, the Head trades in tempo: their features make other people act sooner and better.
 
-> Two Heads at one table is a co-command drama waiting to happen — and it works fine mechanically. The faction action bonus caps at +2.
+> Holding the Head's Seat is a role your *character* plays inside the fiction. It is not a licence to run the table. See [a note on the Head, and on playing together](characters/creation.md#a-note-on-the-head).
 
 ## Core Feature — Chain of Command
 
-Once per scene, issue a direct order to an ally who can perceive you. They may immediately pursue that goal with an edge — this does not consume their beat.
+Once per conflict, issue a direct order to an ally who can perceive you. They may immediately pursue that goal with an edge. This doesn't consume their exchange.
 
 ## Faction Synergy
 
-The faction takes **one additional action** each [faction turn](faction/faction-turn.md) (maximum +2 from multiple Heads). Faction actions the Head personally leads gain no automatic edge — the Head's power is breadth, not depth.
+Each [faction turn](faction/faction-turn.md), the faction takes **one additional action — and the Head must take it personally.** (Two Heads make it +2, each Head taking one of the extra actions.) The Head has no automatic edge to lend, so the power is reach, not force: more gets done because the Head is doing it.
 
-## Class Features (start with two)
+## Seat Features (start with two)
 
 | Feature | Effect |
 | --- | --- |
-| **Read the Board** | Once per scene, ask the GM one question about the opposition's intentions or next move. The answer is true. Acting on it grants an edge. |
-| **Hold the Line** | Your rally goals may target every ally in the scene with a single contest, clearing morale conditions (*Shaken, Routed, Panicked*) from all of them on a win. |
+| **Read the Board** | Once per session, lay out a plan or a course of action you're weighing and ask the GM whether it seems wise. The GM answers honestly, from what your character could reasonably assess: the likely reward, the likely danger, or that the matter is genuinely too clouded to read. No dice — just counsel you can trust. |
+| **Hold the Line** | Your rally goals may target every ally in the conflict with a single contest, clearing morale conditions (*Shaken*, *Routed*, *Panicked*) from all of them on a win. |
 | **Delegation** | Once per faction turn, a faction action you order gains an edge — whether or not you lead it. |
-| **The Buck Stops Here** | Once per session, when an ally loses a contest, redirect the consequence to yourself — the strain, the condition, or the blame, as the fiction allows. |
-| **War Council** | When you spend downtime planning with allies, up to three participants each bank a free Prepare edge for the coming venture. |
-| **Face of Authority** | Gain an edge on contests to command, negotiate, or intimidate from recognized rank — including parley with enemies who respect the office, if not the person. |
+| **The Buck Stops Here** | Once per session, when an ally loses a contest, redirect the consequence to yourself — the strain, the condition, or the blame, as the narrative allows. |
+| **War Council** | When the story gives you real time to plan a job with allies — maps on the table, sand in the hourglass — roll Mental against 3. Win: up to three planners each gain a primed edge for that job. Loss: one planner does; the plan was half-right. |
+| **Face of Authority** | Edge on contests to command, negotiate, or intimidate from recognized rank — including parley with enemies who respect the office, if not the person. |
 
 ## Callings
 
 ### The Sovereign — *rules by right*
 
-You embody the faction's legitimacy. Whether crowned, anointed, or simply undeniable, things happen because you say so.
+You embody the faction's legitimacy. Crowned, anointed, or simply undeniable — what you claim, you tend to keep.
 
-**Signature — By Right:** once per session, declare that something within your faction's plausible domain simply *happens*, no roll: a gate opens, a meeting convenes, a subordinate obeys, a debt is honored.
+**Signature — By Right:** once per session, publicly lay claim to something within your faction's plausible domain that no one securely holds — the harbor's silence, a militia's loyalty for one night, the granary's surplus, the dead lord's hunting road. Roll Ideological against a pool set by how contested the claim is. Win: the claim holds — take 1 stock of a fitting pool, or a standing permission the faction can act on, and the world treats your word as law until someone dares test it. Loss: the claim is heard, and someone else decides to answer it.
 
 ### The Strategist — *rules by plan*
 
-You were three moves ahead before the scene started.
+You were three moves ahead before the scene started — but even good plans meet the dice.
 
-**Signature — Contingency:** once per session, when things go wrong, reveal that you planned for this: retroactively establish a preparation — an ally repositioned, an item stashed, an asset pre-placed, an escape route bought — and let the fiction catch up.
+**Signature — Contingency:** once per session, when you or an ally suffers a loss or a costly success — anything short of a [Disaster](core/contests.md#outcomes) — declare that you planned for exactly this and roll Mental against a difficulty set by how large the save is. Win: the preparation was real and pays off in full — the stashed key, the repositioned ally, the second exit. Tie: it half-works, or works but tips your hand. Loss: the plan didn't survive contact, and the moment is yours to weather alone. Disasters outrun even good plans.
 
 ### The Firstblade — *rules from the front*
 
-You command by being the first over the wall.
+You command by being first over the wall.
 
-**Signature — Follow Me:** when you personally win a dangerous contest, the next ally pursuing that goal or supporting it this beat gains an edge; if your win was strong, they may also shift one range band for free.
+**Signature — Follow Me:** when you personally win a dangerous contest, the next ally pursuing or supporting that goal this exchange gains an edge; on a Triumph, they may also shift one range band free.

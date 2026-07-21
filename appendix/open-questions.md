@@ -2,6 +2,8 @@
 
 Unresolved design decisions, flagged for the designer. Each lists the draft's current answer and what would change it. Roughly ordered by how much they'd reshape the game.
 
+> An independent review with its own recommendation list — overlapping this page in places, contradicting it in none — lives in [Review & Recommendations](appendix/review-recommendations.md). Read both before the next revision.
+
 ## Needs a Decision
 
 1. **The fourth stat's name.** Draft uses **Conviction**; candidates were *Spirit, Creed, Resolve, Devotion*. "Conviction" reads secular-but-deep and skins well across faith/ideology/loyalty — but it's two syllables longer than the other three stats and the only abstract noun. Gut-check it at the table.
