@@ -19,11 +19,11 @@ Each [faction turn](faction/faction-turn.md), the faction takes **one additional
 
 | Feature | Effect |
 | --- | --- |
-| **Read the Board** | Once per session, lay out a plan or a course of action you're weighing and ask the GM whether it seems wise. The GM answers honestly, from what your character could reasonably assess: the likely reward, the likely danger, or that the matter is genuinely too clouded to read. No dice — just counsel you can trust. |
+| **Read the Board** | Once per session, lay out a plan or a course of action you're weighing and ask the GM whether it seems wise. The GM answers honestly, from what your character could reasonably assess: the likely reward, the likely danger, or that the matter is genuinely too clouded to read. No dice — just counsel you can trust. (Ethan note: this should involve a roll of any appropriate type. On a success, the GM gives broad insight as to the course of action that's being weighed. On a failure, the path is clouded)|
 | **Hold the Line** | Your rally goals may target every ally in the conflict with a single contest, clearing morale conditions (*Shaken*, *Routed*, *Panicked*) from all of them on a win. |
-| **Delegation** | Once per faction turn, a faction action you order gains an edge — whether or not you lead it. |
+| **Delegation** | Once per faction turn, a faction action you order gains an edge — whether or not you lead it. (Ethan note: once per faction turn, a faction action that does not currently have an edge gains an edge) |
 | **The Buck Stops Here** | Once per session, when an ally loses a contest, redirect the consequence to yourself — the strain, the condition, or the blame, as the narrative allows. |
-| **War Council** | When the story gives you real time to plan a job with allies — maps on the table, sand in the hourglass — roll Mental against 3. Win: up to three planners each gain a primed edge for that job. Loss: one planner does; the plan was half-right. |
+| **War Council** | When the story gives you real time to plan a job with allies — maps on the table, sand in the hourglass — roll Mental against 3. Win: up to three planners each gain a primed edge for that job. Loss: one planner does; the plan was half-right. (Ethan note: this should now be incorporated with the prepare action. When you take the prepare action, you can bank a primed edge for someone else instead of yourself. Additionally, roll Mental against 3. On a success, you can bank a total of two primed edges for two different people; triumph is three edges for three people, and a disaster gives you no edge at all.)|
 | **Face of Authority** | Edge on contests to command, negotiate, or intimidate from recognized rank — including parley with enemies who respect the office, if not the person. |
 
 ## Callings
@@ -32,7 +32,7 @@ Each [faction turn](faction/faction-turn.md), the faction takes **one additional
 
 You embody the faction's legitimacy. Crowned, anointed, or simply undeniable — what you claim, you tend to keep.
 
-**Signature — By Right:** once per session, publicly lay claim to something within your faction's plausible domain that no one securely holds — the harbor's silence, a militia's loyalty for one night, the granary's surplus, the dead lord's hunting road. Roll Ideological against a pool set by how contested the claim is. Win: the claim holds — take 1 stock of a fitting pool, or a standing permission the faction can act on, and the world treats your word as law until someone dares test it. Loss: the claim is heard, and someone else decides to answer it.
+**Signature — By Right:** once per session, publicly lay claim to something within your faction's plausible domain that no one securely holds — the harbor's silence, a militia's loyalty for one night, the granary's surplus, the dead lord's hunting road. Roll Ideological against a pool set by how contested the claim is. Win: the claim holds — take 1 stock of a fitting pool, or a standing permission the faction can act on, and the world treats your word as law until someone dares test it. Loss: the claim is heard, and someone else decides to answer it. (Ethan note: the wording here is way too confusing. The idea should stay the same of rolling ideological based on a contested claim, but the outcome should be either gaining one stock that the claim could reasonably produce or gaining some form of temporary asset for the duration of the session. A triumph gives you one extra stock or the asset is stronger, and a disaster means that the stock/asset goes to a rival.)
 
 ### The Strategist — *rules by plan*
 
@@ -44,4 +44,4 @@ You were three moves ahead before the scene started — but even good plans meet
 
 You command by being first over the wall.
 
-**Signature — Follow Me:** when you personally win a dangerous contest, the next ally pursuing or supporting that goal this exchange gains an edge; on a Triumph, they may also shift one range band free.
+**Signature — Follow Me:** when you personally win a dangerous contest, the next ally pursuing or supporting that goal this exchange gains an edge; on a Triumph, they may also shift one range band free. (Ethan note: this should be restructured so that when someone aids you in a goal and you succeed, they prime an edge on the next contest they lead. Additionally, this should be once per conflict.)
