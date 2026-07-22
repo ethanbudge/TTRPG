@@ -3,7 +3,7 @@
 > *"The door held for eight minutes. Torren held for eleven."*
 > — after-action report, the Red Landing mutiny
 
-The Fist holds the Seat of **force and protection**: the champion, enforcer, marine, duelist, bodyguard, or siege-breaker. Every faction needs one, even the gentle ones — especially the gentle ones. The Fist is the only Seat allowed to bend the small-numbers rule, because absorbing punishment is the job.
+The Fist holds the Seat of **force and protection**: the champion, enforcer, marine, duelist, bodyguard, or siege-breaker.
 
 ## Core Feature — Interpose
 
@@ -17,7 +17,7 @@ Twice per session, when an ally within Contact or Close range would mark strain,
 
 | Feature | Effect |
 | --- | --- |
-| **Bulwark** | You have a sixth strain box — the only bigger number in the game. |
+| **Bulwark** | You have a sixth strain box. |
 | **Terror of the Field** | When you break an opponent, impose *Shaken* on one witness of your choice (or a whole unit, at faction scale). |
 | **Breaching Action** | Edge when your goal is to create an opening for allies — the door, the line, the shield wall. On a win, the first ally through the opening gains an edge too. |
 | **Weapons of the Age** | You are fluent in every armament of your genre. Once per conflict, declare an improvised weapon into your hands, or re-tag your kit to fit the moment. |
@@ -30,7 +30,7 @@ Twice per session, when an ally within Contact or Close range would mark strain,
 
 Single combat is the oldest theater, and you are its star.
 
-**Signature — Single Combat:** once per session, call out a named foe who hears and understands the challenge. While you both fight and you are still standing, you gain an edge against them, and they take a snag acting against anyone but you. If you go down, the duel — and its terms — go with you.
+**Signature — Single Combat:** once per session, call out a named foe who hears and understands the challenge. While you both fight and you are still standing, you gain an edge against them, and they take a snag acting against anyone but you. If you go down, the duel — and its terms — go with you. (Ethan note: this should be an emotional roll. On a success, they're provoked as specified. On a fail, you're provoked in reverse)
 
 ### The Warden — *the shield*
 
