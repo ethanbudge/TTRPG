@@ -7,7 +7,7 @@ The Spine holds the Seat of **supply and administration**: the logistician, fenc
 
 ## Core Feature — There's a Ledger for That
 
-Once per session, produce exactly the mundane resource the moment needs — transport, bribe money, spare parts, permits, rations — without a roll. You arranged it already. If it's genuinely scarce or contested, it costs 1 fitting stock instead of being impossible.
+Once per session, produce exactly the mundane resource the moment needs — transport, bribe money, spare parts, permits, rations — without a roll. You arranged it already. If it's genuinely scarce or contested, it costs 1 fitting stock instead of being impossible and will still need to travel appropriate distances to arrive if the situation requires.
 
 ## Faction Synergy
 
@@ -19,9 +19,9 @@ Once per session, produce exactly the mundane resource the moment needs — tran
 | --- | --- |
 | **Grease the Wheels** | Edge on contests involving markets, bureaucracies, customs, and anyone who can be paid. |
 | **Strategic Reserve** | 2 stock of the faction's, held personally by you, always count as [Ready](faction/nodes.md#accessibility) wherever you are. Nobody knows where you keep it. Not even the Head. Especially not the Head. |
-| **Supply Lines Hold** | Once per faction turn, when stock the faction needs is Cut Off, raided, or out of reach, roll Mental against the obstacle (default 3). Win: it arrives anyway — narrate the routing. Loss: it's truly stuck, and you know exactly who to blame. |
-| **Everything Has a Price** | Once per session, convert 2 stock of any one type into 1 stock of any other. You know a guy. |
-| **Nose for Supply** | Edge on contests to sniff out a new source — an untapped patron, a smuggling lane, a vein of ore, a quartermaster with loose scruples. Once per session, the GM hands you a live lead toward a new income line or holding, and where to start pulling. |
+| **Supply Lines Hold** | Once per faction turn, when stock the faction needs is Cut Off, raided, or out of reach, roll Mental against the obstacle (default 3). Win: it arrives anyway — narrate the routing. Loss: it's truly stuck. (Ethan note: needs triumph and disaster stipulation)|
+| **Everything Has a Price** | Once per session during the faction turn, convert 2 stock of any one type into 1 stock of any other (this does not count as your faction turn action). You know a guy. |
+| **Nose for Supply** | Edge on contests to sniff out a new source — an untapped patron, a smuggling lane, a vein of ore, a quartermaster with loose scruples. |
 | **War Chest** | When a job begins, stake up to 2 stock as its budget. For that job, the staked stock is Ready for everyone on it — anyone may commit it for Faction Resource edges. |
 
 ## Callings
@@ -42,4 +42,4 @@ There is always a market. You just have to be willing to shop there.
 
 Roads, relays, manifests, and the quiet art of being early.
 
-**Signature — Forward Depots:** each faction turn, improve the [accessibility](faction/nodes.md#accessibility) of up to two stored resources by one step — you moved them before anyone knew they'd be wanted. And you may move stock along a route others would call impassable, once per turn, without a contest.
+**Signature — Forward Depots:** each faction turn, improve the [accessibility](faction/nodes.md#accessibility) of up to two stored  assets or physical stock by one step — you moved them before anyone knew they'd be wanted.
