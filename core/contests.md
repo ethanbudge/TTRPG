@@ -58,9 +58,20 @@ There are six kinds of edge, and **you may hold at most one of each** in a conte
 
 Expected tools grant nothing — a locksmith with picks is just a locksmith working. Personal Resource edges are for gear beyond the trade's norm, and *missing* an expected tool doesn't snag you; it raises the difficulty or blocks the goal outright.
 
-### Snags
+### The Six Snags
 
-A snag is the mirror: one die off your pool, one per source, from [conditions](core/strain-and-conditions.md#conditions), [flaws and scars](characters/traits.md#flaws), a situation working against you, being genuinely out of your depth, enemy features aimed at you, or [scale mismatch](combat/faction.md#scale).
+A snag is the mirror of an edge, and it works the same way: one die off, **at most one of each kind**, and nothing outside the six counts.
+
+| Snag | What it is |
+| --- | --- |
+| **Condition** | A [condition](core/strain-and-conditions.md#conditions) that would plausibly hinder what you're attempting — including hard conditions, and faction-scale ones like *Starving* or *Compromised* |
+| **Flaw** | A [flaw](characters/traits.md#flaws) whose scope covers this contest: yours, a scar you've taken, or the faction's when the faction is the one acting |
+| **Position** | The situation works against you — bad ground, no cover, hostile turf, outnumbered, caught in the open, working blind |
+| **Out of Depth** | You're reaching past what you can credibly do. This includes **[Inadequate Leadership](faction/faction-turn.md#inadequate-leadership)**: leading or aiding a faction action rolled on a stat you personally rate 1 or 2 |
+| **Interference** | Someone is working on *you*, specifically — an enemy feature, a rival's counter-move, a lie you swallowed and acted on |
+| **Scale** | [Scale mismatch](combat/faction.md#scale): reaching across tiers, at something far too big or too small for you |
+
+Where a feature's text says otherwise, the text wins — the Eye's *Poisoned Well* inflicts two snags on its own, and says so plainly.
 
 In practice a roll is your stat, one or two edges, maybe a snag. If the table is debating more than four modifiers, the GM picks the two that matter most and calls for the roll.
 

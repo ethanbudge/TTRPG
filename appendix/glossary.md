@@ -42,7 +42,7 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Downtime move** — A *personal move* a character may take on the *faction turn* instead of a faction action: Prepare or Recover, or a personal *project* — Improve, Strengthen, Specialize, Diversify, or Acquire.
 
-**Edge / Snag** — One die added to (edge) or removed from (snag) a pool. Pools stay between 1 and 5; extra edges past 5 strip dice from the opposition.
+**Edge / Snag** — One die added to (edge) or removed from (snag) a pool. Six sources of each, at most one apiece, and nothing outside them counts. Edges: Craft, Aid, Position, Personal Resource, Faction Resource, Primed. Snags: Condition, Flaw, Position, Out of Depth, Interference, Scale. Pools stay between 1 and 5; extras past the clamp strip dice from the other side.
 
 **Exchange** — One round of a *conflict*. Every actor gets one *goal* per exchange. How much time it covers is the conflict's clockspeed: **Blitz** (seconds), **Operation** (minutes–hours), **Season** (days–weeks), **Era** (months+).
 
@@ -52,15 +52,15 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Fist** — The *Seat* of force and protection: champion, enforcer, bodyguard, siege-breaker.
 
-**Heel** — The *Seat* of movement and reconnaissance: scout, ranger, pilot, navigator, messenger.
-
 **Flaw** — A gift in reverse: a permanent, narrow *snag* with a life of its own. Characters start with one; *scars* add more. The faction has one too.
-
-**GM (Game Master)** — The player who describes the world, plays every NPC and rival faction, sets *stakes*, and rolls the opposing dice in every contest.
 
 **Gift** — A positive trait open to any character: one narrow edge, permission, or trick. Characters start with two; the faction takes one.
 
+**GM (Game Master)** — The player who describes the world, plays every NPC and rival faction, sets *stakes*, and rolls the opposing dice in every contest.
+
 **Goal** — What you declare on your turn: one sentence saying what you want to be true. The table finds the dice from there.
+
+**Heel** — The *Seat* of movement and reconnaissance: scout, ranger, pilot, navigator, messenger.
 
 **Holding** — A place that is genuinely the faction's: a chapel, safehouse, dry dock, or moon base. One line on the sheet — what it gives, what it asks.
 
@@ -80,21 +80,21 @@ Every term of art in The Party, in plain language. Terms in *italics* have their
 
 **Protection tag** — Armor, cover, or its social equivalent: once per conflict, negate 1 incoming *strain*.
 
-**Scar** — The permanent price of surviving being *broken* under mortal stakes: a new *flaw*, and a slow return.
-
 **Scale tier** — Personal (people), Company (squads, vessels), or Host (armies, fleets). Harming a larger tier takes leverage.
+
+**Scar** — The permanent price of surviving being *broken* under mortal stakes: a new *flaw*, and a slow return.
 
 **Scene** — One continuous piece of the story in one place and time. The GM calls when a scene ends.
 
 **Seat** — Your role in the faction: Head, Mouth, Fist, Eye, Heel, Mind, Arm, Heart, or Spine. Describes your place in the organization, never your day job.
-
-**Standing need** — A *Keep* need that must be present but is never spent (a garrison's loyalty, a shrine's holiness); it fails only when that stock leaves.
 
 **Session** — One sitting of play, typically 2–4 hours.
 
 **Session zero** — The first gathering, where the table builds the faction and characters together.
 
 **Stakes** — What happens if the acting side loses a contest. Always stated before dice are rolled.
+
+**Standing need** — A *Keep* need that must be present but is never spent (a garrison's loyalty, a shrine's holiness); it fails only when that stock leaves.
 
 **Stat** — One of four ratings from 1 to 5: **Physical, Mental, Emotional, Ideological**. The rating is the dice pool. Factions have the same four.
 

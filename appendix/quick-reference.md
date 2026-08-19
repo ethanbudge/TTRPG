@@ -7,7 +7,9 @@
 1. **Goal** — one sentence: what do you want to be true?
 2. **Stakes** — the GM says what a loss means, before dice.
 3. **Stat** — your approach picks it; the rating is your pool.
-4. **Edges/snags** — ±1 die each. Six edge sources, one apiece, and nothing else counts: Craft · Aid · Position · Personal Resource · Faction Resource (usually 1 Ready stock) · Primed. Clamp the pool 1–5; leftover edges strip the other side's dice.
+4. **Edges/snags** — ±1 die each, at most one of each kind, and nothing outside the lists counts. Clamp the pool 1–5; leftovers strip the other side's dice.
+   - **Edges:** Craft · Aid · Position · Personal Resource · Faction Resource (usually 1 Ready stock) · Primed
+   - **Snags:** Condition · Flaw · Position · Out of Depth (incl. *Inadequate Leadership*) · Interference · Scale
    - **Aid costs the helper their turn** — their exchange in a conflict, their move on a faction turn — and they must plausibly be able to help.
 5. **Roll and compare sums.**
 
