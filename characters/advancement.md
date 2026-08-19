@@ -1,55 +1,49 @@
-# Perks & Advancement
+# Advancement
 
 > *"Nobody at this table hits harder than they did last year. They've just run clean out of ways to be surprised."*
 > — a retired duelist, on what makes a veteran dangerous
 
-There are no levels and no experience points. There is one currency — the **perk** — and one recurring question: yourself, or the faction?
+There are no levels, no experience points, and no currency to bank. Characters get better the same way anything else in this game gets built: somebody puts the hours in.
 
-## Earning Perks
+Every advance is a **[project countdown](core/contests.md#project-countdowns)** you start and strike on the [faction turn](faction/faction-turn.md), using the one move that turn gives you. Which brings the question the whole game keeps asking down to something you answer out loud, every single turn: *do I spend this stretch of quiet on the cause, or on myself?*
 
-The GM awards perks at their discretion, usually at the end of a session. **Two or three per player per session** is a healthy pace; hand them out for the things you want to see more of:
+## How It Works
 
-- a flaw that genuinely cost someone something,
-- play that advanced the faction's cause,
-- a personal ambition pursued on screen,
-- a session someone made better for the whole table.
+1. Spend a move to **start** the project. No roll. Say what you're after, how long the countdown runs, and which stat will be rolled to strike it — that stat is locked for the life of the project.
+2. On later turns, spend a move to **strike** it: one contest, 1 segment on a win, 2 on a Triumph, none on a loss.
+3. **One project at a time.** Personal or faction, whatever *you* started. Beginning a new one abandons the old and everything struck off it.
+4. At zero segments, it's yours.
 
-Perks bank without limit. Track two numbers on your sheet: perks **banked** (unspent) and perks **earned lifetime** — the lifetime tally never goes down, and it drives [Honing](characters/advancement.md#honing).
+Only one person can strike a given countdown per turn, but an ally can spend their move to [aid](core/contests.md#aid) the roll — which is how a crew that agrees on a priority gets there twice as fast as one that doesn't.
 
-## Spending Perks
+## Personal Advances
 
-### On yourself
+| Advance | Length | What you get |
+| --- | --- | --- |
+| **Improve** | 8 | +1 to one stat, to a maximum of 5 |
+| **Strengthen** | 4 | A new [gift](characters/traits.md#gifts) |
+| **Specialize** | 4 | A new feature from your own Seat's list |
+| **Diversify** | 6 | A feature from another Seat's list — the narrative has to show you learning it from someone who has it |
+| **Acquire** | 4 | A [Personal Resource](core/contests.md#the-six-edges): a signature weapon, a strange instrument, a contraption nobody else owns |
 
-| Advance | Cost |
-| --- | --- |
-| New feature from your Seat's list | **4** |
-| New feature from another Seat's list (the narrative must support the cross-training) | **5** |
-| New gift | **4** |
-| +1 to a stat (max 5) | **8** |
+Core features and calling signatures are never bought. A Seat's craft can be learned; being *the* Head cannot.
 
-### On the faction: players may pool perks for faction advancements
+## Faction Advances
 
-| Advance | Cost |
-| --- | --- |
-| New [asset](faction/nodes.md#assets) — you trained it, built it, or recruited it personally | **3** |
-| Recruit a named NPC specialist for the faction | **4** |
-| A new faction gift ([tables](characters/traits.md#the-factions-gifts--flaws)) | **4** |
-| Found a new [holding](faction/nodes.md) | **5** |
-| +1 to a faction stat (max 5)  | **8** |
+The faction grows through the eight [project actions](faction/faction-turn.md#projects) — Campaign, Train, Compromise, Network, Plan, Develop, Tend, and Supply. Between them they cover new holdings, new assets, new routes, new income, faction gifts, and faction stats.
 
-Broadly speaking, faction advancement narratively should align with the faction's Perk advancement. In certain circumstances, the GM might stipulate that a benefit can go into immediate effect but will require a payout of perk points as soon as possible. For instance, if a NPC has been recruited in a way that naturally fits the narrative but the players don't have 4 perk points between them, the GM can allow for the NPC to join now and the players can deduct perk points as soon as they reach 4 collectively.
+Faction projects are the same length as personal ones and cost the same single move, which is the entire tension: the evening you spend learning the archive's second cipher is an evening the walls didn't get built. Whatever a player builds for the faction, put their name on it in the story — *Brakk's strike team*, *Halla's priory*. The organization should remember who did the work.
 
-Perks never convert into [stock](faction/resources.md) and stock never buys advances. Your effort and the faction's resources are different things; this table is the only bridge between them.
+## The GM Gives Things Away
 
-## Honing
+Countdowns measure effort spent toward a goal. They are not the toll the world charges for nice things.
 
-At every **15 perks earned lifetime** — 15, 30, 45, and so on — **hone** one feature you own, free. Choose one template:
+When the story delivers — you find the dead artificer's notebooks, the guild's master takes a liking to you, a rival's armory is left unguarded and unlocked — the GM can strike segments for free, or hand over the whole advance without a countdown at all. A player who talks their way into an apprenticeship with the finest swordsman in the city has earned *Specialize* more honestly than four good rolls would have.
 
-- **Deeper** — one extra use of a limited feature per conflict or session (whichever limits it).
-- **Wider** — the feature reaches one more target, one more range band, or a group instead of a person.
-
-The GM approves combinations. A feature can be honed twice, with different templates.
+The reverse holds too: the GM can rule a particular advance unavailable until the story supports it. You cannot Diversify into the Mind's forbidden lore if nobody in the world will teach you.
 
 ## Power From Session One
 
-Players generally start with 0 perks. Additionally, the Party's advancement system is designed to allow for broader capabilities rather more raw power. The stat cap is 5, pools clamp at 5 dice, and strain boxes never multiply. What advancement buys is breadth: more features, more tricks, more of the faction's machinery answering to you. A veteran of thirty sessions doesn't bleed out slower than a rookie; they're simply better at not getting stabbed.
+Characters start capable. The stat cap is 5, dice pools clamp at 5, and strain boxes never multiply — so a veteran of thirty sessions doesn't bleed slower than a rookie. They're simply much harder to corner.
+
+What advancement buys is breadth: more features, more tricks, more of the faction's machinery answering when you call. The rookie has one good answer. The veteran has one for everything.

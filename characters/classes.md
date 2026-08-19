@@ -48,4 +48,4 @@ The constraints the nine were written under, and the constraints any homebrew Se
 
 ## Learning Other Seats
 
-When you buy a new feature with an advance, you may buy from **another Seat's list at +1 perk**, provided the narrative shows your character genuinely learning that trade — training with the Spine, shadowing the Eye. Core features and calling signatures are never cross-buyable. A Seat's craft can be learned; being *the* Head cannot.
+Features from another Seat's list are earned through the [**Diversify**](characters/advancement.md#personal-advances) project — a longer countdown than learning your own trade, and the narrative has to show where you picked it up: training with the Spine, shadowing the Eye. Core features and calling signatures are never cross-buyable. A Seat's craft can be learned; being *the* Head cannot.

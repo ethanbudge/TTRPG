@@ -8,7 +8,7 @@ Play moves in **scenes**, like a film. Most scenes are your characters in the wo
 
 There is no fixed schedule beyond that. The GM controls the flow of time, expanding it and collapsing it as the story needs. A desperate night can fill three sessions; a quiet month can pass in a sentence. When the GM lets real time pass — after a job, over a long journey, at the turn of a season — the faction takes its [turn](faction/faction-turn.md): income comes in, needs come due, the organization acts, and every character gets personal downtime. Some tables run a faction turn every session. Others let five sessions of adventure go by first. Both are correct.
 
-The one constant is the question the game keeps asking: with limited time, limited perks, and limited stock, do you invest in yourself or in the thing you all built together?
+The one constant is the question the game keeps asking: every faction turn hands you exactly one move, and you decide whether it goes to yourself or to the thing you all built together.
 
 ## Who Does What
 
@@ -29,7 +29,7 @@ Eight terms carry most of this book. Each has a chapter; here is the shape of th
 - **Countdown** — a track of 4, 6, or 8 segments for anything too big for one roll. Wins strike segments off; at zero, the thing happens. [Countdowns](core/contests.md#countdowns).
 - **Exchange** — one round of a conflict. Every actor gets one goal per exchange. [Conflict](combat/overview.md).
 - **Stock** — the faction's resources, counted in small whole numbers and stored in real places on the map. [Resources](faction/resources.md).
-- **Perk** — the currency of growth, spent on your character or on the faction. [Advancement](characters/advancement.md).
+- **Project** — a countdown you start and strike on faction turns. All growth, personal and organizational, is built this way. [Advancement](characters/advancement.md).
 
 If any other word confuses you, the [Glossary](appendix/glossary.md) has it.
 

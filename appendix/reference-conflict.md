@@ -12,7 +12,7 @@
 
 - **Every actor gets one goal** — every PC *and* every enemy that can act. One sentence, one contest. No initiative — the situation picks the order; when in doubt, players first, then the GM's actors answer.
 - A crowd of **mooks** is the shortcut: they act as one shared goal, or through **stakes** (the cost of player losses and ties). One professional gets a goal; a dozen thugs get one between them.
-- **Defending is free**: opposing someone's goal never consumes yours.
+- **Defending is free**: opposing someone's goal never consumes yours. **Aiding isn't** — helping an ally spends your whole exchange.
 - **Movement:** one band rides along with your goal if unopposed; two or more bands is the whole goal.
 - **Set-up:** any win can **prime an edge** for a named ally instead of taking effect. One primed edge held per character; expires with the conflict.
 

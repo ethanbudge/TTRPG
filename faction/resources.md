@@ -42,8 +42,8 @@ When a feature, synergy, or job grants stock, it lands wherever the narrative sa
 | Use | Cost |
 | --- | --- |
 | **Faction Resource edge** in a contest | 1 stock = 1 edge, max 1 per contest; the type must plausibly power the approach; the stock must be Ready. |
-| **Faction actions** | Some actions burn stock — a Campaign runs on Influence or Zeal, a Strike on Force. Typically 1, listed with the [action](faction/faction-turn.md#3--actions). Committed stock is spent win or lose. |
-| **Assets** | 2 stock of the matching external type + a faction action, or 3 perks. |
+| **Faction actions** | Some actions burn stock — a Campaign runs on Influence or Zeal, a Strike on Force. Typically 1, listed with the [action](faction/faction-turn.md#faction-actions). Committed stock is spent win or lose. |
+| **Assets** | 2 stock of the matching external type, once a [Plan](faction/faction-turn.md#projects) project has gathered what it needs. |
 | **The Keep** | The faction's standing and consumed needs, settled at each faction turn ([the Keep step](faction/faction-turn.md#2--keep)). In a pinch, external stock of the same stat covers an internal need at 2:1 — the troops eat the war-chest, and everyone knows it. |
 
 ## Two Kinds of Need

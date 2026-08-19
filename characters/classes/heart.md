@@ -7,11 +7,11 @@ The Heart holds the Seat of **morale and cohesion**: the chaplain, medic, counse
 
 ## Core Feature — Keep the Flame
 
-Once per conflict, tend to an ally — a word, a drink, a prayer, a look across the smoke. Clear 1 strain from them, or clear one morale or social condition (*Shaken*, *Routed*, *Demoralized*) (Ethan note: specify that this takes the Heart's turn that exchange).
+Once per conflict, tend to an ally — a word, a drink, a prayer, a look across the smoke. Clear 1 strain from them, or clear one morale or social condition (*Shaken*, *Routed*, *Demoralized*). This is your goal for the exchange: tending someone is what you did with your turn.
 
 ## Faction Synergy
 
-**Quell** and **Tend** actions (calming unrest, healing the faction's own) gain an edge when a Heart helps run them. If the faction has more than one Heart, it also gains 1 extra **internal Emotional** stock (*Morale*) at [Income](faction/faction-turn.md#1--income).
+**Quell** and **Tend** actions gain an edge when a Heart leads or aids them. If the faction has more than one Heart, it also gains 1 extra **internal Emotional** stock (*Morale*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 
@@ -20,7 +20,7 @@ Once per conflict, tend to an ally — a word, a drink, a prayer, a look across 
 | **The Brave Face** | Once per faction turn, meet one unpaid need from the faction's [Keep](faction/faction-turn.md#2--keep) — any type — with your own two hands, so long as you can access the location where the need resides. No stock is spent and no condition lands. Tell the table what you did. You can't cover the same need twice running. |
 | **Confessor** | Edge on contests to read someone's true feelings or draw out what they're holding back. |
 | **Get Up** | Once per session, when an ally is [broken](core/strain-and-conditions.md#broken), go to them and roll Ideological against 3. Win: you haul them back into the fight this scene — they rejoin on their feet with a single strain box cleared. A comrade who took a scar can still Get Up; a comrade who is dead cannot. |
-| **Binding Oath** | Officiate a pact between two characters. While both keep it, each gains a permanently primed edge on contests directly serving the pact; whoever breaks it takes a lasting condition. (Ethan note: this should be the oathbreaker condition, same as the one that is mentioned in the Mouth) |
+| **Binding Oath** | Officiate a pact between two characters. While both keep it, each gains a permanently primed edge on contests directly serving the pact. Whoever breaks it takes *Oathbreaker* as a lasting condition — the same mark the [Envoy's](characters/classes/mouth.md) broken truces leave, and it is just as hard to wash off. |
 | **Homefront** | Among the faction's own people, simple hospitality — a meal, a bed, a closed door — never needs a roll, and you gain an edge on contests to call on them for real help: the hiding place, the borrowed cart, the crowd that swears you were never there. |
 | **Rousing Presence** | Once per conflict, you can assist someone who is already being aided; you don't count against the one-person Aid limit in this instance. |
 

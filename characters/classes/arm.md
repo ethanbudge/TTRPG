@@ -11,7 +11,7 @@ Once per session, name a feat of construction, repair, or artifice the table agr
 
 ## Faction Synergy
 
-**Develop** and **Put Down Roots** actions that build, fortify, or repair gain an edge when an Arm helps run them. If the faction has more than one Arm, it also gains 1 extra **external Ideological** stock (*grand works — cathedrals, monuments, ramparts that make the faction's name mean something*) at [Income](faction/faction-turn.md#1--income). (Ethan note: see the faction turn notes)
+**Fortify** and **Develop** actions gain an edge when an Arm leads or aids them. If the faction has more than one Arm, it also gains 1 extra **external Ideological** stock at [Income](faction/faction-turn.md#1--income) — grand works, cathedrals, monuments, ramparts that make the faction's name mean something.
 
 ## Seat Features (start with two)
 
@@ -20,7 +20,7 @@ Once per session, name a feat of construction, repair, or artifice the table agr
 | **Jury-Rig** | Once per conflict, build from what's at hand and choose the result: it opens one barred way (a door, a channel, a wound closed), grants a Personal Resource edge to one contest, or serves as a protection tag. Whatever it was, it dies spectacularly when the conflict ends. |
 | **The Good Stuff** | Your personal kit is masterwork. Each session, choose one extra tag for it that lasts throughout the duration of the session. |
 | **Triage** | Once per conflict, treat a person or machine: nullify one strain (it's temporarily cleared) or the effects of a condition that can be reasonably treated. This nullification lasts the duration of the conflict. |
-| **Structural Eye** | After real time inside a structure, vessel, or machine, roll Mental against 3. Win: you know its layout, its load-bearing weak point, and one way to bring it down or hold it up. Loss: the layout only — and one thing you assume is wrong. (Ethan note: needs triumph and disaster stipulations. Additionally, the number you're up against in the contest should be related to the complexity of the machine.) |
+| **Structural Eye** | After real time inside a structure, vessel, or machine, roll Mental against its complexity — 2 for a barn or a cart, 3 for a townhouse or a river barge, 4 for a fortress or a warship, 5 for something nobody living fully understands. **Win:** you know its layout, its load-bearing weak point, and one way to bring it down or hold it up. **Triumph:** and you spot what its builders were hiding. **Loss:** the layout only, and one thing you assume is wrong. **Disaster:** you're confident about a weak point that isn't one. |
 | **Overbuilt** | What you make lasts. Choose one: your Jury-Rigs survive past the conflict, your triages are permanent, or you get two tags from your Good Stuff ability. |
 | **Field of Fire** | When you have time to prepare ground — traps, barricades, firing lines, wards — allies who fight from your works gain an edge on their first contest there, and the ground itself may carry a condition for enemies who cross it. |
 
@@ -42,4 +42,9 @@ Fortification and demolition are the same craft read in two directions.
 
 Engines, reactors, looms, and the great machines nobody else understands.
 
-**Signature — Nurse It Along:** you may operate or repair a machine that by rights should not still function — broken, sabotaged, out of fuel, half-built. Once per conflict, ignore one condition or missing part on a machine you tend for a single, crucial contest, then it fails again if you stop (Ethan note: I like the mechanic as a subclass but this ability is too vague. Create an ability that is focused on repairs; how about, once per session, when something you built breaks or shuts down, you can spend your next turn repairing it and you gain an edge on doing so. Be sure to add outcome stipulations).
+**Signature — Nurse It Along:** once per session, when something you built or maintain breaks, jams, or shuts down, spend your next turn on it and roll with an edge against a difficulty set by how ruined it is.
+
+- **Win:** it runs again. Whatever it was doing, it does.
+- **Triumph:** it runs *better* — take a Personal Resource edge on your next contest using it, or clear a condition it was already carrying.
+- **Loss:** it stays dead this scene, and you know exactly what part you don't have.
+- **Disaster:** it fails in a way that costs somebody something — a fire, a flood, a hand, the GM's call.

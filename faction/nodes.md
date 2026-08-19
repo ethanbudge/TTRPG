@@ -52,7 +52,9 @@ When a rival strikes at a holding, cache, or asset, it defends with a normal con
 
 ## Growing the Map
 
-New ground comes from **Put Down Roots** [faction actions](faction/faction-turn.md#3--actions) — start a countdown whose length matches what you're planting: a **cache** (2), a **safehouse** (4), a full **holding** (6), a claim on a whole **region** (8). Each successful action or supporting mission strikes it; at zero the thing opens, and the table writes its Gives and Asks lines with the GM. Or a player spends **5 perks** to found a holding personally, in which case it's theirs to define and the story should show their fingerprints on it forever.
+New ground comes from the **[Develop](faction/faction-turn.md#projects)** project — a countdown whose length matches what you're planting: a building or fortification (4), a full **holding** (6), or reshaping the ground itself (8). Each strike is a turn's work; at zero the thing opens, and the table writes its Gives and Asks lines with the GM. Whoever led it should leave fingerprints on the place forever — it's their priory, their dry dock, their wall.
+
+Routes between your places come from **[Network](faction/faction-turn.md#projects)**, and new income lines from **[Supply](faction/faction-turn.md#projects)**.
 
 ## Assets
 
@@ -64,7 +66,7 @@ An **asset** is faction property that acts: a strike team, a smear machine, a sp
 <div class="row"><span class="field"><b>Tag</b> Sweeping — their sermons hit crowds, not people</span></div>
 </div>
 
-- **Type** — the stat it embodies; also the external pool that buys it (2 matching stock + a faction action, or 3 perks).
+- **Type** — the stat it embodies; also the external pool that pays for it (2 matching stock, once a [Plan](faction/faction-turn.md#projects) project has gathered what it needs).
 - **Rating (2–4)** — its pool when it acts alone or is [channeled](combat/faction.md#channel). Assets cap below 5: organizations are strong, people are exceptional.
 - **Strain** — 3 boxes. Assets are more expendable than people, and the game says so out loud.
 - **Place** — an asset sits somewhere and has accessibility like stock. The gunboat defends the harbor it's anchored in, not the one it isn't.

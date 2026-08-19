@@ -33,7 +33,7 @@ The Ironshod comes on. Company tier against Personal-tier heroes: its wins mark 
 
 By the fourth exchange, *Hold Until Dawn* strikes to zero with *Break the Junction* still two from done: the Ministry withdraws behind the Ironshod, which limps off wearing *Boiler Breached* and Cass, riding its roof like a parade float. The GM ends the conflict the way the [rules say to](combat/overview.md#when-to-enter-conflict) — when the Ministry's will breaks, not when its boxes empty.
 
-At the next faction turn the Junction becomes the Movement's newest holding, born from a *Put Down Roots* countdown three sessions old, and seven players argue happily over what its income line should feed.
+At the next faction turn the Junction becomes the Movement's newest holding — the last segment struck off a *Develop* countdown Pieter started three sessions ago — and seven players argue happily over what its income line should feed.
 
 <div class="callout" data-title="Worth noticing">
 <p>Seven players, four exchanges, one GM — under two hours. The doubled Fists never stepped on each other: one held the line, one broke things, and their synergy paid a Force stock at the next Income. The resource moves gave the non-fighters a full battle without a single attack roll among them. And the best moment came from the scale rule saying <em>no</em> to a saber and <em>yes</em> to a boarding ladder.</p>

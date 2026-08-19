@@ -28,6 +28,12 @@ Vary your costs; strain is only the bluntest. A loss or tie can price out as:
 
 A reliable shape: open on consequence (the world moved — show a rival countdown landing), play the job or the trouble in 2–4 scenes with one real conflict, run a faction turn if time should pass, and close on the next visible dilemma. With three players, run richer scenes. With six or seven: pre-assign faction turn steps, lean on paired goals and group contests, and give major rivals a second action so the machine pushes back.
 
+## The Pace of Getting Better
+
+You set the speed of advancement, because you set the speed of faction turns. Every advance is a [project](core/contests.md#project-countdowns) built one move at a time, so a campaign with a turn every session grows roughly twice as fast as one with a turn every other session. Neither is wrong — but decide which you're running, and tell the table.
+
+If growth feels sluggish, don't shrink the countdowns. Hand out free strikes for things the story earned: the found notebook, the grateful master, the rival's abandoned workshop. That keeps advancement tied to what actually happened at the table, which is the entire point of building it this way.
+
 ## Running the Long Game
 
 The faction's cause needs milestones the table can see. Frame the current one as a [countdown](core/contests.md#countdowns) — *Win the Dockworkers (8)* — and when it strikes to zero, let the consequences pick the next one. You don't need a ladder planned to the throne; you need the next rung and a world that reacts when it's climbed. Rival countdowns run on the same board, at the same visible speed. When the campaign's biggest promise pays off, treat it as an era's end: the table decides together what the faction has become, and whether the next era is theirs to play.

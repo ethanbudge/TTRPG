@@ -10,7 +10,7 @@ Every roll in The Party is a **contest**: a handful of six-siders against a hand
 1. **Declare a goal.** The acting side says what they want to be true when the dust settles, in one sentence. *"I want the guard captain convinced we're the relief shift." "I want our freighters through the blockade this month."*
 2. **Set the stakes.** The GM says what happens if the acting side loses, before dice hit the table. No stakes, no roll — if nothing interesting happens on a failure, the goal just succeeds.
 3. **Pick the stat.** The goal and the approach imply one of the four [stats](core/stats.md). Your rating is your base pool.
-4. **Count edges and snags.** Circumstances, features, gifts, aid, and committed resources adjust the pool (below).
+4. **Count edges and snags.** Features, gifts, aid, position, and committed resources adjust the pool — six kinds of each, one apiece (below).
 5. **Roll and compare sums.** Higher total wins. Pools always stay between **1 and 5 dice**.
 
 <div class="callout example" data-title="A whole contest in forty seconds">
@@ -41,26 +41,40 @@ An **edge** adds one die to your pool. A **snag** removes one. Count them, take 
 
 **Overflow:** if your pool is already at 5 and you have edges left, each remaining edge removes a die from the opposing pool instead (to a minimum of 1). Snags overflow the same way in reverse.
 
-Edges come from six sources, one each:
+### The Six Edges
 
-| Source | Cap | What it is |
-| --- | --- | --- |
-| **Craft** | 1 | A Seat feature, calling feature, or gift that applies |
-| **Aid** | 1 | One ally helps, says how, and shares the stakes if it goes wrong |
-| **Position** | 1 | The situation favors you: high ground, home turf, surprise, blackmail in hand |
-| **Personal Resource** | 1 | An extraordinary tool or possession of your own — the master-forged hammer, the experimental lens |
-| **Faction Resource** | 1 | One committed [stock](faction/resources.md), if it's [Ready](faction/nodes.md#accessibility) and the type fits the approach |
-| **Primed** | 1 | An edge an ally set up for you ([Build-Up & Payoff](combat/overview.md#build-up--payoff)) |
+There are six kinds of edge, and **you may hold at most one of each** in a contest. Two Craft edges is still one Craft edge.
 
-Expected tools grant nothing: a locksmith with picks is just a locksmith working. Personal Resource edges are for gear beyond the trade's norm — and *missing* an expected tool doesn't snag you, it raises the difficulty or blocks the goal.
+| Edge | What it is |
+| --- | --- |
+| **Craft** | A Seat feature, calling signature, or gift that applies to what you're attempting |
+| **Aid** | An ally spends their turn helping you — see [Aid](core/contests.md#aid) |
+| **Position** | The situation itself favors you: high ground, home turf, surprise, blackmail already in hand |
+| **Personal Resource** | An extraordinary tool or possession of your own — the master-forged hammer, the experimental lens |
+| **Faction Resource** | Your faction's capability, brought to bear. Usually this means committing 1 [Ready](faction/nodes.md#accessibility) [stock](faction/resources.md) of a type that plausibly powers the approach, but some faction gifts and features hand you the edge without spending anything |
+| **Primed** | An edge prepared for you ahead of time — usually by an ally, through a set-up goal, a Prepare move, or a feature that banks one for later |
 
-Snags come from [conditions](core/strain-and-conditions.md#conditions), hostile terrain, acting out of your depth, or scale mismatch ([Faction Conflict](combat/faction.md#scale)).
+**If an edge doesn't come from one of these six, it isn't an edge.** The situation being nice to you is not a seventh source, and neither is a good description. A clever plan that doesn't fit any of the six is worth something better than a die anyway: it changes the goal, lowers the opposition, or skips the roll.
+
+Expected tools grant nothing — a locksmith with picks is just a locksmith working. Personal Resource edges are for gear beyond the trade's norm, and *missing* an expected tool doesn't snag you; it raises the difficulty or blocks the goal outright.
+
+### Snags
+
+A snag is the mirror: one die off your pool, one per source, from [conditions](core/strain-and-conditions.md#conditions), [flaws and scars](characters/traits.md#flaws), a situation working against you, being genuinely out of your depth, enemy features aimed at you, or [scale mismatch](combat/faction.md#scale).
 
 In practice a roll is your stat, one or two edges, maybe a snag. If the table is debating more than four modifiers, the GM picks the two that matter most and calls for the roll.
 
 <div class="callout example" data-title="Counting the dice">
-<p>Marcus's character is slipping into a counting house at night. Physical 3 is the base. He shadowed the night porter for an evening (a feature granting a Craft edge, +1), and the faction spent 1 Intelligence stock on the floor plans (Faction Resource, +1). Five dice. But he's still carrying <em>Old Wound</em> from the rooftop fall last session (snag, −1): <strong>4 dice</strong> against the GM's 3 for a locked and shuttered building.</p>
+<p>Marcus's character is slipping into a counting house at night. Physical 3 is the base. He shadowed the night porter for an evening (Craft, +1), and the faction spent 1 Intelligence stock on the floor plans (Faction Resource, +1). Five dice. But he's still carrying <em>Old Wound</em> from the rooftop fall last session (snag, −1): <strong>4 dice</strong> against the GM's 3 for a locked and shuttered building.</p>
 </div>
+
+## Aid
+
+One ally may help you, and helping is not free: **aiding spends the helper's turn.** In a conflict it costs them their exchange; on a [faction turn](faction/faction-turn.md) it costs them their move. You are giving up your own goal so that someone else's lands.
+
+- The helper says **how** they help, and must plausibly be able to. A Fist can brief a Mind on how a company deploys in the field; a Fist cannot help that Mind translate a heresy in a dead tongue. The table settles it in a breath — if the help would be useful in the story, it's useful on the dice.
+- Aid grants **one edge**, and only one helper can grant it. A second volunteer changes the story, not the pool.
+- The helper **shares the stakes**. If the contest goes badly, consequences can land on them too.
 
 ## The Opposition Pool
 
@@ -98,16 +112,37 @@ A contest resolves the goal, not one twitch of effort. Win the contest to sneak 
 
 When several characters pursue one shared goal:
 
-- **One leads and rolls.** The best-placed helper grants the single Aid edge; everyone else contributes through the story or takes a separate goal.
+- **One leads and rolls.** One helper may [aid](core/contests.md#aid), spending their turn for the single Aid edge; everyone else contributes through the story or takes a separate goal of their own.
 - **Everyone's exposed.** If the group loses, the stakes hit the whole group. The leader decides who absorbs any strain unless the situation dictates.
 - **Faction contests** work the same way, with a faction stat as the base pool and one character [channeling](combat/faction.md#channel) as the roller.
 
 ## Countdowns
 
-Anything too big for one contest — a siege, an election, a research program, a trade war — gets a **countdown**: a track of 4, 6, or 8 segments. When it reaches zero, the thing it names comes true.
+Anything too big for one contest — a siege, an election, a cathedral, a course of study — gets a **countdown**: a track of segments, usually 2, 4, 6, or 8. Strike the last one and the thing it names comes true.
 
-- A relevant contest **win strikes 1 segment** (2 on a Triumph).
-- A **costly success** strikes 1, and the GM strikes one from an opposing countdown or attaches a cost.
-- A **loss** may strike a rival countdown instead.
+Every countdown is struck the same way:
 
-Countdowns run toward good news and bad alike: *The Vault Opens (4)* is your project; *Reinforcements Arrive (4)* is the GM's. Two countdowns racing — yours against theirs — is the skeleton of every long struggle in The Party.
+- A relevant **win strikes 1 segment**; a **Triumph strikes 2**.
+- A **costly success** strikes 1, and the cost lands as usual.
+- A **loss** strikes nothing, and the stakes land.
+
+Countdowns run toward good news and bad alike: *The Cathedral Rises (6)* is yours; *Reinforcements Arrive (4)* is the GM's. Two of them racing — yours against theirs — is the skeleton of every long struggle in The Party.
+
+They come in two flavors, and the difference is only about *when* they're struck.
+
+### Situation Countdowns
+
+These live inside a scene or a conflict, measuring something happening right now: *The Vault Opens (4)*, *The Hull Breaches (4)*, *Their Coalition Splits (8)*. Anyone whose goal bears on one strikes it by winning, as often as the story gives them the chance. The GM runs the opposing ones. No special bookkeeping — they're just objectives with a number attached.
+
+### Project Countdowns
+
+These are the long work of the [faction turn](faction/faction-turn.md): construction, research, campaigns of influence, and every kind of [advancement](characters/advancement.md). A project is effort spent over time, so it has its own procedure:
+
+1. **Starting one costs a move, and there is no roll.** You spend a faction-turn move to declare the project: what it is, how long the countdown is, and **which stat will be rolled to strike it**. That stat is fixed for the life of the project — you don't get to switch to your best one halfway through.
+2. **Striking it costs a move and a roll.** On later turns, spend your move to make the contest and strike as above.
+3. **One striker per turn.** Only one person may strike a given countdown on a given turn. Others can help by [aiding](core/contests.md#aid) that roll, which costs them their move.
+4. **One open project per person.** You may only have one project *you started* running at a time, personal or faction. A seven-person crew therefore has at most seven irons in the fire. Starting a new one before the old one finishes means **abandoning it** — all progress on it is lost, and it starts fresh if you ever come back to it.
+
+<div class="callout" data-title="A countdown is effort, not a toll gate">
+<p>The segments measure work put in — they aren't a price the world charges for good things. If the story hands you the outcome, you take the outcome. Find the master's lost treatise in a dead wizard's trunk and you may finish <em>Strengthen</em> on the spot; catch a rival's holding undefended and the faction may simply take it. The GM can strike segments for free, or skip a countdown entirely, whenever the story earns it. What you can't do is bank the effort twice.</p>
+</div>

@@ -17,17 +17,17 @@ On a loss, the spotlight turns on you: the room's attention is yours, but so is 
 
 ## Faction Synergy
 
-**Campaign** actions (influence, propaganda, diplomacy) gain an edge when a Mouth helps run them. If the faction has more than one Mouth, it also gains 1 extra **external Emotional** stock (*Influence*) at [Income](faction/faction-turn.md#1--income).
+**Recruit** and **Campaign** actions gain an edge when a Mouth leads or aids them. If the faction has more than one Mouth, it also gains 1 extra **external Emotional** stock (*Influence*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 
 | Feature | Effect |
 | --- | --- |
 | **Silver Tongue** | Edge on face-to-face (or otherwise direct) negotiation with anyone who knows your reputation. |
-| **Crowdworker** | Your persuasion goals can target a crowd as easily as a person: one contest, and on a win the whole room swings. (Ethan note: this is too vague narratively, since anyone should be able to try to persuade a crowd. Instead, the Voice gains an edge whenever attempting to persuade the crowd) |
+| **Crowdworker** | Edge on any contest to move a crowd — a mob, a congregation, a gallery, a feed. Anyone may try to work a room. You were built for it. |
 | **Open Doors** | Once per session, name a social space you otherwise wouldn't have access to— a court, a gala, a dockside bar, an encrypted forum — and roll Emotional against 3. Win: you have an invitation, a contact, or a standing there. Loss: you're known there — along with the fact that you tried to secure an invite. |
 | **Counterspin** | When a rival faction's propaganda or diplomacy targets your faction, you may personally contest it, rolling your own Emotional in place of the faction's dice. One person can out-shout an empire. |
-| **Manufactured Truth** | When the story gives you days to seed a tale — printers bribed, rumors watered — roll a contest against the target's pool to pin a lasting condition (*Discredited*, *Beloved*, *Feared*) on a person, place, or rival faction. (Ethan note: not sure exactly what this looks like, but this should take the place of an action during the faction turn. It also either needs to be distinct from the faction campaign action or strengthen it.) |
+| **Manufactured Truth** | A faction-turn move only you can make. Spend your move — printers bribed, rumors watered, the right person overheard — and roll Emotional against the target's pool to pin a lasting condition on their **public standing**: *Discredited*, *Beloved*, *Feared*. It resolves immediately; no countdown. Campaign wins you people over time. This decides what the world says about someone by the end of the week. |
 | **The Brand** | Allies gain an edge on social contests when they invoke the faction's name anywhere your legend has reached. Campaign actions extend the reach. |
 
 ## Callings
@@ -36,7 +36,9 @@ On a loss, the spotlight turns on you: the room's attention is yours, but so is 
 
 Pamphlets, broadcasts, sermons from the courthouse steps — you industrialize belief.
 
-**Signature — Saturation:** your faction's Campaign actions reach one extra district, port, or audience per action, and once per faction turn you may convert 1 external Emotional stock into 1 external Ideological stock or back — the message becomes fervor, the fervor becomes message. (Ethan note: the first part of this, Manufactured Truth, and the Campaign action need to all be distinct or complimentary to each other instead of overlapping like they currently do. The first part of this ability, as it currently stands, is too vague and overlapping.)
+**Signature — Saturation:** you don't say it once, you say it everywhere. When you strike a **Campaign** countdown, strike **one extra segment** — your presses and pulpits do in a month what other factions manage in two.
+
+And once per faction turn, convert 1 external Emotional stock into 1 external Ideological stock or back. The message becomes fervor; the fervor becomes message.
 
 ### The Envoy — *speaks to the one who matters*
 

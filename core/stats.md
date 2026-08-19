@@ -30,7 +30,7 @@ At creation, characters and factions each distribute one of these arrays across 
 | **Broad** | 4 / 3 / 3 / 1 | Strong lead, wide competence, one true blind spot |
 | **Spiky** | 4 / 4 / 2 / 1 | Brilliant twice over, and badly flawed |
 
-Every array carries a 4: starting characters are already good at something. A rating of 4 beats standard opposition (3 dice) about three times in four. Advancement rarely raises stats — mostly it widens what you can do. See [Perks & Advancement](characters/advancement.md).
+Every array carries a 4: starting characters are already good at something. A rating of 4 beats standard opposition (3 dice) about three times in four. Advancement rarely raises stats — mostly it widens what you can do. See [Advancement](characters/advancement.md).
 
 ## What Stats Are Not
 

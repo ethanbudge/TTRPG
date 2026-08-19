@@ -48,13 +48,12 @@ Bonds are the connective tissue between your character, the other characters, an
 Write a plausible loadout for who you are and where you live. Gear in The Party is **permission, not arithmetic**: a sniper rifle doesn't add dice; it lets you declare goals at Far range that a knife-holder can't. Three exceptions:
 
 - Up to **two items** may carry a tag — a **protection tag**, or a descriptive tag like *Piercing*, *Sweeping*, *Silent*, or a range tag ([Conflict Overview](combat/overview.md#tags)). Mark these with the GM.
-- A genuinely extraordinary possession — the master-forged hammer, the experimental lens — can grant a [Personal Resource edge](core/contests.md#edges-and-snags) when it's the difference-maker. Expected tools of your trade grant nothing; they're assumed.
+- A genuinely extraordinary possession — the master-forged hammer, the experimental lens — can grant a [Personal Resource edge](core/contests.md#the-six-edges) when it's the difference-maker. Expected tools of your trade grant nothing; they're assumed. Most characters begin with none and earn the first through an [Acquire](characters/advancement.md#personal-advances) project; ask the GM if your concept starts with one.
 - Genuinely scarce or faction-owned equipment (the drop ship, the printing press, the reliquary) belongs on the faction sheet as an [asset](faction/nodes.md#assets), not in your pocket.
 
-### 7. Boxes & Perks
+### 7. Strain
 
-- **5 strain boxes.**
-- **1 perk**, banked, and a lifetime tally that starts at 1 — see [Advancement](characters/advancement.md#honing).
+**5 strain boxes**, and nothing else to track. You start with no project running; the first faction turn is where you decide what you're working toward. See [Advancement](characters/advancement.md).
 
 ## Writing a Character Who Belongs
 
@@ -75,7 +74,7 @@ The GM's side of this bargain: aim at all of it. Bonds exist to be tested, costs
 <div class="row"><span class="field"><b>Name</b> ___________</span> <span class="field"><b>Pronouns</b> _____</span> <span class="field"><b>Concept</b> ___________________</span></div>
 <div class="row"><span class="field"><b>Seat</b> Seat + calling</span> <span class="field"><b>Faction</b> ___________________</span></div>
 <div class="row"><span class="field"><b>Physical</b> [ &nbsp; ]</span> <span class="field"><b>Mental</b> [ &nbsp; ]</span> <span class="field"><b>Emotional</b> [ &nbsp; ]</span> <span class="field"><b>Ideological</b> [ &nbsp; ]</span></div>
-<div class="row"><span class="field"><b>Strain</b> <span class="boxes">□□□□□</span></span> <span class="field"><b>Perks</b> banked ___ · lifetime ___</span> <span class="field"><b>Protection</b> ____</span></div>
+<div class="row"><span class="field"><b>Strain</b> <span class="boxes">□□□□□</span></span> <span class="field"><b>Protection</b> ____</span> <span class="field"><b>Project</b> what you're building · stat · <span class="boxes">◯◯◯◯</span></span></div>
 <div class="row"><span class="field"><b>Features</b> core · calling signature · two chosen</span></div>
 <div class="row"><span class="field"><b>Gifts</b> two</span> <span class="field"><b>Flaws</b> one at creation · scars add more</span></div>
 <div class="row"><span class="field"><b>Bonds</b> notes</span> <span class="field"><b>Kit</b> loadout + up to two tagged items</span></div>

@@ -11,7 +11,7 @@ Once per session, produce exactly the mundane resource the moment needs — tran
 
 ## Faction Synergy
 
-**Trade** actions gain an edge when a Spine helps run them. If the faction has more than one Spine, it also gains 1 extra **internal Physical** stock (*Provisions*) at [Income](faction/faction-turn.md#1--income).
+**Trade** and **Supply** actions gain an edge when a Spine leads or aids them. If the faction has more than one Spine, it also gains 1 extra **internal Physical** stock (*Provisions*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 
@@ -19,7 +19,7 @@ Once per session, produce exactly the mundane resource the moment needs — tran
 | --- | --- |
 | **Grease the Wheels** | Edge on contests involving markets, bureaucracies, customs, and anyone who can be paid. |
 | **Strategic Reserve** | 2 stock of the faction's, held personally by you, always count as [Ready](faction/nodes.md#accessibility) wherever you are. Nobody knows where you keep it. Not even the Head. Especially not the Head. |
-| **Supply Lines Hold** | Once per faction turn, when stock the faction needs is Cut Off, raided, or out of reach, roll Mental against the obstacle (default 3). Win: it arrives anyway — narrate the routing. Loss: it's truly stuck. (Ethan note: needs triumph and disaster stipulation)|
+| **Supply Lines Hold** | Once per faction turn, when stock the faction needs is Cut Off, raided, or out of reach, roll Mental against the obstacle (default 3). **Win:** it arrives anyway — narrate the routing. **Triumph:** it arrives, and the route stays open for next turn too. **Loss:** it's truly stuck. **Disaster:** it's stuck and exposed — whoever cut it off now knows how badly you wanted it. |
 | **Everything Has a Price** | Once per session during the faction turn, convert 2 stock of any one type into 1 stock of any other (this does not count as your faction turn action). You know a guy. |
 | **Nose for Supply** | Edge on contests to sniff out a new source — an untapped patron, a smuggling lane, a vein of ore, a quartermaster with loose scruples. |
 | **War Chest** | When a job begins, stake up to 2 stock as its budget. For that job, the staked stock is Ready for everyone on it — anyone may commit it for Faction Resource edges. |

@@ -49,6 +49,8 @@ Cohesion is restored by **Quell** and **Tend** actions, and by the story healing
 
 The cause needs milestones, and [countdowns](core/contests.md#countdowns) are the tool: *Win the Dockworkers (8)*, then *Control the Harbor (8)*, then whatever the victory before last makes possible. How many, how large, and how strictly they chain is the GM's call, not a rule — see [running the campaign](gm/running.md#running-the-long-game) for how to pace them. What matters at the table is that the current milestone is visible, that faction actions and missions strike segments from it, and that the rivals' own countdowns tick in plain view. Nothing motivates a faction turn like watching the Consortium's numbers fall.
 
+The agenda belongs to the campaign, not to any one player — it isn't a [project](core/contests.md#project-countdowns) somebody started, so it doesn't occupy anyone's one-at-a-time slot, and anything that plausibly advances the cause can strike it: a won mission, a faction action aimed that way, a rival's public humiliation. It's the one countdown the whole table pushes at once.
+
 ## The Faction Makes Demands
 
 One point of table culture, learned from every faction game before this one: the faction is not a vending machine. It needs feeding, defending, arbitrating, believing-in. The GM should give it a voice — named members, holdings with moods, letters that arrive at bad times. The players built it; the world should keep asking if they meant it.

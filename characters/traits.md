@@ -52,7 +52,7 @@ Take one at creation. A flaw is a gift in reverse: a standing snag on a narrow s
 | **Vice** | Name the hunger — drink, gambling, adrenaline, approval. Snag on resisting, delaying, or walking past it. |
 | **Wanted** | An authority hunts you. Snag on moving openly anywhere it watches. |
 
-GMs: when a flaw genuinely costs a player something, remember it when [perks](characters/advancement.md#earning-perks) go around.
+GMs: when a flaw genuinely costs a player something, that's worth paying back — a free strike on their [project](core/contests.md#project-countdowns), a door that opens later, an NPC who owes them.
 
 ### Adding Flaws
 
@@ -70,7 +70,7 @@ The faction takes **two gifts and one flaw** of its own during [faction creation
 | **Deep Pockets** | Once per faction turn, make 1 stock [Ready](faction/nodes.md#accessibility) regardless of where it sits. |
 | **Endowed** | Begin play with 3 extra stock, placed anywhere on the map. |
 | **Old Names** | Edge on contests where legitimacy, tradition, or pedigree carries weight. |
-| **Everywhere** | Its people turn up. Once per session, a friendly member plausibly exists in the scene — a face in the crowd, a clerk behind the counter. (Ethan note: I don't love this one; I'd rather have it give a more concrete benefit but keep the same flavor.) |
+| **Everywhere** | Its people turn up. Once per session, declare a faction member already present in a scene where one could plausibly be — a face in the crowd, a clerk behind the counter, a cousin on the gate. They [aid](core/contests.md#aid) one contest without any player spending a turn, or carry one message out of a place nobody else can leave. |
 | **Tight-Lipped** | Rival Spy actions against the faction take a snag. |
 | **Defensible** | Edge on contests to defend its own places and people. |
 | **Zealous** | Recruit actions gain an edge; new members arrive already believing. |

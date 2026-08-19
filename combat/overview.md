@@ -32,8 +32,9 @@ Each exchange, **every actor gets one goal** — every PC, and every enemy too. 
 
 **Goals, not moves.** Declare the outcome you want (*"I want their flank commander dead or fleeing"*), never a mechanic (*"I attack twice"*). The table maps the sentence to a stat, edges, and stakes. Anything a person could try, a goal can attempt — disarm, humiliate, stampede the cattle, hold the door, buy time, change the subject of the war.
 
-<div class="callout" data-title="Defending is free">
-<p>Rolling to oppose someone else's goal never consumes your own — you always get your exchange. A feature costs you your goal only if its text says so; features that trigger "when" something happens ride alongside your turn, not instead of it.</p>
+<div class="callout" data-title="Defending is free — helping is not">
+<p>Rolling to oppose someone else's goal never consumes your own; you always get your exchange. A feature costs you your goal only if its text says so, and features that trigger "when" something happens ride alongside your turn rather than instead of it.</p>
+<p><a href="#/core/contests?id=aid">Aid</a> is the exception, and it's deliberate: helping an ally spends your whole exchange. You don't get a goal that beat. That's the price of the edge.</p>
 </div>
 
 ## Distance — The Four Bands
@@ -70,7 +71,7 @@ That's the entire equipment system.
 
 How fast turns still produce crescendos:
 
-- **Set-up goals.** Any win can **prime an edge for a named ally** instead of taking effect, if the story connects them ("I pin them down — go!"). A character can hold one primed edge at a time — it's the [Primed source](core/contests.md#edges-and-snags), cap 1 — and primed edges expire when the conflict ends.
+- **Set-up goals.** Any win can **prime an edge for a named ally** instead of taking effect, if the story connects them ("I pin them down — go!"). That's the [Primed edge](core/contests.md#the-six-edges): something prepared for someone ahead of time. A character holds one at a time, and it expires when the conflict ends. Primed edges also come from the [Prepare](faction/faction-turn.md#personal-actions) move and from features that bank them.
 - **Triumphs** (win by 8+) hand out boons — extra strain, positions, conditions, countdown segments.
 - **Conditions are combos.** *Blinded* on the duelist, then the disarm. *Discredited* on the minister, then the vote. The payoff for teamwork isn't bigger numbers — it's changing what the situation *is* before the decisive roll.
 - **Countdowns in conflict.** Objectives beyond "drop them" get countdowns: *Overload the Reactor (4)*, *The Vault Opens (6)*, *Their Coalition Splits (8)*. Fights with countdowns in them end by objective, not annihilation — usually faster, always more interesting.

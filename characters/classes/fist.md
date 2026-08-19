@@ -11,7 +11,7 @@ Twice per session, when an ally within Contact or Close range would mark strain,
 
 ## Faction Synergy
 
-**Strike** actions and contests to defend the faction's places and people gain an edge when a Fist helps run them. If the faction has more than one Fist, it also gains 1 extra **external Physical** stock (*Force*) at [Income](faction/faction-turn.md#1--income).
+**Strike** and **Train** actions gain an edge when a Fist leads or aids them, as do contests to defend the faction's places and people. If the faction has more than one Fist, it also gains 1 extra **external Physical** stock (*Force*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 
@@ -30,7 +30,13 @@ Twice per session, when an ally within Contact or Close range would mark strain,
 
 Single combat is the oldest theater, and you are its star.
 
-**Signature — Single Combat:** once per session, call out a named foe who hears and understands the challenge. While you both fight and you are still standing, you gain an edge against them, and they take a snag acting against anyone but you. If you go down, the duel — and its terms — go with you. (Ethan note: this should be an emotional roll. On a success, they're provoked as specified. On a fail, you're provoked in reverse)
+**Signature — Single Combat:** once per session, call out a named foe who can hear and understand the challenge, and roll **Emotional** against their pool. The shape of a duel is decided by who wants it more.
+
+- **Win:** they're provoked. While you both fight and you are still standing, you gain an edge against them and they take a snag acting against anyone but you.
+- **Triumph:** and the room honors it — nobody else interferes while the duel holds.
+- **Loss:** the goad turns around on you: *they* have the edge against you, and *you* take the snag acting against anyone else, on the same terms.
+
+Either way the duel ends when you go down, and its terms go with you.
 
 ### The Warden — *the shield*
 

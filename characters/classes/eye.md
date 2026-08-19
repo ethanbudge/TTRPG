@@ -11,18 +11,18 @@ Name a person, faction, or place as your **mark**. You gain an edge on every con
 
 ## Faction Synergy
 
-**Spy** and **Sabotage** actions gain an edge when an Eye helps run them. If the faction has more than one Eye, it also gains 1 extra **external Mental** stock (*Intelligence*) at [Income](faction/faction-turn.md#1--income).
+**Spy** and **Compromise** actions gain an edge when an Eye leads or aids them. If the faction has more than one Eye, it also gains 1 extra **external Mental** stock (*Intelligence*) at [Income](faction/faction-turn.md#1--income).
 
 ## Seat Features (start with two)
 
 | Feature | Effect |
 | --- | --- |
-| **Dossier** | Once per session, reveal you already hold a route to obtain a file on a named person or place, and roll Mental against 3. Win: ask the GM two questions and get true answers. Loss: you fail, and trying to gather the file left a trace someone could find. (Ethan note: needs triumph and disaster stipulations) |
-| **Shadow Network** | When the story gives you days to work your sources, roll Mental against 3. Win: add 1 external Mental stock to the faction, placed where your sources sit (2 on a Triumph). Loss: nothing solid, and one of your sources asks a favor. (Ethan note: this needs to be incorporated into faction actions, preferably as an individual action that the Eye can take in order to accrue external mental stock) |
+| **Dossier** | Once per session, reveal you already hold a route to a file on a named person or place, and roll Mental against 3. **Win:** ask the GM two questions and get true answers. **Triumph:** three questions, and nobody knows you asked. **Loss:** you fail, and the attempt left a trace someone could find. **Disaster:** the file was bait — what you learn is false, and they know you have it. |
+| **Shadow Network** | You keep sources nobody else has. When you lead the **Spy** faction action, a win yields **2** external Mental stock instead of 1, and you may place it at any holding you choose. |
 | **Poisoned Well** | When you successfully feed false information to an enemy, their next contest or faction action built on it takes two snags. |
-| **Overwatch** | When you spend your exchange watching rather than acting, name what you're looking for. Until your next turn, any ally who acts on the intelligence you call out gains an edge. (Ethan note: solid idea, but needs to be redefined as an aid action that can be applied to multiple people situationally in order to adhere to the rules of edges) |
-| **Cold Read** | Edge on contests to judge whether someone is lying, afraid, bluffing, or about to break.|
-| **Counterintelligence** | Rival Spy and Sabotage actions against the faction take a snag while you're active, and when one fails, you may learn who sent it.|
+| **Overwatch** | Spend your exchange watching instead of acting and name what you're looking for. This is an [Aid](core/contests.md#aid) that isn't limited to one recipient: every ally who acts on what you call out this exchange takes the Aid edge on that contest. |
+| **Cold Read** | Edge on contests to judge whether someone is lying, afraid, bluffing, or about to break. |
+| **Counterintelligence** | Rival Spy and Compromise actions against the faction take a snag while you're active, and when one fails, you may learn who sent it. |
 
 ## Callings
 
@@ -36,7 +36,7 @@ You don't gather secrets. You *own* them, and set their price.
 
 Analyst, codebreaker, the one who reads the board three moves before it's played.
 
-**Signature — Pattern Recognition:** once per conflict, before committing to a goal, the GM must reveal an opposing pool to you — dice count and any edges (Ethan note: this feels weak. Not necessarily a needed change, but this might be worth adjusting).
+**Signature — Pattern Recognition:** once per conflict, before anyone commits to a goal, the GM must show you an opposing actor's hand: its pool, its edges, and one tag, feature, or intention it was holding in reserve. Say what you've spotted out loud and the first ally to act on it — including you — takes a primed edge.
 
 ### The Whisperer — *authors the truth*
 

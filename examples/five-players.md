@@ -30,7 +30,7 @@ Tam ghosts in through the freight elevator (win — *Vanish* means he was never 
 
 ## What the Job Fed the Faction
 
-The take converts to 3 stock at the next faction turn — the GM rules 2 *Reputation in the Life*, 1 *Safehouse Funds*, landing at the garage — but *The Plate Comes Back* now sits on the sheet next to the Albanian outfit's countdowns. When perks go around at session's end, the GM hands Ben one extra without being asked: Coyle's *Greedy* put a vault-floor watch in his pocket, off-manifest, on camera, and the whole table saw the trouble it's going to buy.
+The take converts to 3 stock at the next faction turn — the GM rules 2 *Reputation in the Life*, 1 *Safehouse Funds*, landing at the garage — but *The Plate Comes Back* now sits on the sheet next to the Albanian outfit's countdowns. And the GM owes Ben something: Coyle's *Greedy* put a vault-floor watch in his pocket, off-manifest, on camera, and the whole table saw the trouble it's going to buy. That flaw bit hard enough to pay for itself, so his *Acquire* project gets a free strike — the watch turns out to be worth knowing about.
 
 <div class="callout" data-title="Worth noticing">
 <p>Nothing in the heist used heist-specific rules. The preparation was primed edges and a stake of stock; the alarm was a tie's cost; the escape was dueling countdowns; the loose end became faction trouble with a timer on it. The genre lives in the table's language — the engine underneath never changed.</p>

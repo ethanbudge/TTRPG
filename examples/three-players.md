@@ -31,4 +31,6 @@ After the conclave, the GM lets a month pass, and the machine turns. Each of the
 
 ## Yourself, or the Cause?
 
-Talbot spends his move on the cause too — a Campaign to seed the martyr's tale — but Rochelle uses hers on a **personal move**, *Pursue*: a quiet countdown toward reclaiming her family's confiscated lands, a thread that's all her own. That's the turn's real tension in miniature — every move is a choice between the order and the self. And the session's cliffhanger isn't the conclave at all: it's Wren announcing she's banking perks toward founding a new holding, a poorhouse-priory inside the capital walls, while Rochelle argues those same perks should raise the faction's Ideological instead. The table adjourns mid-argument, which is the game working.
+Talbot spends his move on the cause too — starting a **Campaign** to seed the martyr's tale, Emotional, four segments — but Rochelle uses hers on a **personal project**: *Improve*, Ideological, eight segments, because an abbess who intends to out-preach a cardinal had better be able to. That's the turn's tension in miniature. Every move is one or the other.
+
+And the session's cliffhanger isn't the conclave at all. It's Wren announcing that as soon as her auditor countdown finishes, she's starting **Develop** — six segments toward a poorhouse-priory inside the capital walls — while Rochelle argues those same turns should go to **Plan** and raise the order's Ideological instead. One project each. They can't do both, and they know it. The table adjourns mid-argument, which is the game working.

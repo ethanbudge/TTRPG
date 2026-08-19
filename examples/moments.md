@@ -52,15 +52,17 @@ A condition isn't a stun. It's the situation growing a fact that every later rol
 <p><span class="speaker">GM:</span> "The scrubbers hum on. That's your once-per-turn — hope nothing else is starving."</p>
 </div>
 
-## The Perk Question — [Advancement](characters/advancement.md)
+## One Move, Two Futures — [Advancement](characters/advancement.md)
 
 <div class="callout example" data-title="A courtyard at dusk — any genre">
-<p><span class="speaker">Dev (Brakk, the Fist):</span> "Four perks banked. I could finally take <em>Terror of the Field</em>…"</p>
+<p><span class="speaker">Dev (Brakk, the Fist):</span> "Faction turn. I've got one move, and nothing running. I could start <em>Specialize</em> — four segments and <em>Terror of the Field</em> is mine."</p>
 <p><span class="speaker">GM:</span> "The recruits are drilling in the courtyard below your window. Badly."</p>
-<p><span class="speaker">Dev:</span> "…or three perks turns them into an actual strike team. The whole guild fights better, or <em>I</em> do."</p>
-<p><span class="speaker">Maya:</span> "The guild watched you spend the last one on yourself."</p>
-<p><span class="speaker">Dev:</span> "Fine. The strike team. But I'm naming it Brakk's Own."</p>
+<p><span class="speaker">Dev:</span> "…or I start <em>Train</em> and turn them into an actual strike team. Same one move. The whole guild fights better, or <em>I</em> do."</p>
+<p><span class="speaker">Maya:</span> "The guild watched you spend the last three turns on yourself."</p>
+<p><span class="speaker">Dev:</span> "Fine. Train, Physical, four segments. But I'm naming them Brakk's Own."</p>
 </div>
+
+Nobody spent a currency. He spent the only thing the turn hands out — his attention — and the other project is now four turns further away than it was.
 
 ## Zooming Out — [Conflict](combat/overview.md#zooming)
 

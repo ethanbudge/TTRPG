@@ -19,7 +19,7 @@
     - [The Heart](characters/classes/heart.md)
     - [The Spine](characters/classes/spine.md)
   - [Gifts & Flaws](characters/traits.md)
-  - [Perks & Advancement](characters/advancement.md)
+  - [Advancement](characters/advancement.md)
 
 - The Faction
   - [Faction Overview](faction/overview.md)
