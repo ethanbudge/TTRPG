@@ -26,7 +26,7 @@ Eight terms carry most of this book. Each has a chapter; here is the shape of th
 - **Stat** — one of four ratings from 1 to 5: Physical, Mental, Emotional, Ideological. The rating is your dice pool. [Stats](core/stats.md).
 - **Strain** — harm of any kind, marked in boxes. Five boxes and you're **broken**. [Strain & Scars](core/strain-and-conditions.md).
 - **Condition** — a named state (*Blinded*, *Discredited*, *Starving*) that drags on the rolls it would plausibly hinder. [Conditions](core/strain-and-conditions.md#conditions).
-- **Countdown** — a track of 4, 6, or 8 segments for anything too big for one roll. Wins strike segments off; at zero, the thing happens. [Countdowns](core/contests.md#countdowns).
+- **Countdown** — a track of 2, 4, 6, or 8 segments for anything too big for one roll. Wins strike segments off; at zero, the thing happens. [Countdowns](core/contests.md#countdowns).
 - **Exchange** — one round of a conflict. Every actor gets one goal per exchange. [Conflict](combat/overview.md).
 - **Stock** — the faction's resources, counted in small whole numbers and stored in real places on the map. [Resources](faction/resources.md).
 - **Project** — a countdown you start and strike on faction turns. All growth, personal and organizational, is built this way. [Advancement](characters/advancement.md).

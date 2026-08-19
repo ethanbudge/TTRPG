@@ -139,7 +139,7 @@ These live inside a scene or a conflict, measuring something happening right now
 These are the long work of the [faction turn](faction/faction-turn.md): construction, research, campaigns of influence, and every kind of [advancement](characters/advancement.md). A project is effort spent over time, so it has its own procedure:
 
 1. **Starting one costs a move, and there is no roll.** You spend a faction-turn move to declare the project: what it is, how long the countdown is, and **which stat will be rolled to strike it**. That stat is fixed for the life of the project — you don't get to switch to your best one halfway through.
-2. **Striking it costs a move and a roll.** On later turns, spend your move to make the contest and strike as above.
+2. **Striking it costs a move and a roll.** On later turns, spend your move to make the contest and strike as above. Unless someone is actively opposing the work, the GM sets a difficulty for the project as a whole when it starts — **3 for most things**, higher for work that is genuinely beyond the ordinary — and it stays the same every time you strike. A rival working against you rolls their stat instead.
 3. **One striker per turn.** Only one person may strike a given countdown on a given turn. Others can help by [aiding](core/contests.md#aid) that roll, which costs them their move.
 4. **One open project per person.** You may only have one project *you started* running at a time, personal or faction. A seven-person crew therefore has at most seven irons in the fire. Starting a new one before the old one finishes means **abandoning it** — all progress on it is lost, and it starts fresh if you ever come back to it.
 

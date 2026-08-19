@@ -41,7 +41,7 @@ Cohesion is the faction's will to remain one thing. It starts at **5** and drain
 - **−1** when the cause suffers a public, humiliating defeat,
 - **−1** when the flaw or the narrative produces genuine internal schism.
 
-Cohesion is restored by **Quell** and **Tend** actions, and by the story healing the body — victories help, but so do funerals done right.
+Cohesion is restored by the **Tend** project, and by the story healing the body — victories help, but so do funerals done right. (**Quell** is its faster cousin, and clears conditions from your people rather than Cohesion itself.)
 
 **At 0, the faction enters Crisis:** the schism, the mutiny, the purge. Play it out as a full mission whose stakes are the faction's shape — who leads it, what it believes, who walks away. A faction that survives Crisis rebuilds to Cohesion 2. A faction can also die there; whatever walks out wearing its name is a new faction with old scars.
 

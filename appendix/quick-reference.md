@@ -33,7 +33,7 @@
 
 ## Countdowns
 
-4, 6, or 8 segments; at zero, it happens. A win strikes 1 (Triumph 2); a costly success strikes 1 but feeds an opposing countdown or cost.
+2, 4, 6, or 8 segments; at zero, it happens. A win strikes 1 (Triumph 2); a costly success strikes 1 but feeds an opposing countdown or cost.
 
 ## Opposition Ladder
 
